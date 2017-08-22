@@ -1,6 +1,7 @@
 import json
 
 from fractions import Fraction
+from collections import namedtuple
 
 class Question:
 
@@ -97,6 +98,73 @@ def test_Question ():
     assert q.result ((1, 2)) == Fraction (0)
     assert q.result ((1, )) == Fraction (1, 1)
 
+HistoryItem = namedtuple ("HistoryItem", "date, duration, rate")
+
+class QuestionHistory:
+
+    def __init__ (self, idx, history):
+        self._idx = idx
+        self._history = history
+
+    @property
+    def idx (self):
+        return idx
+
+    @property
+    def history (self):
+        return history
+
+    def __iter__ (self):
+        return iter (self._history)
+
+class Stats:
+
+    def __init__ (self, stats):
+        self._stats = stats
+
+    @classmethod
+    def load (cls, json_fp):
+
+        def js2f (d):
+            """convert json to Fraction"""
+            return Fraction (
+                d.get ("rate_numerator", 0),
+                d.get ("rate_denominator", 1))
+
+        js = json.load (json_fp)
+        stats = dict ()
+        for d in js:
+            idx = d ["question_id"]
+            history = [HistoryItem (
+                    i["date"],
+                    i["duration"],
+                    js2f (i)) for i in d["history"]]
+            stats [idx] = QuestionHistory (0, history)
+
+        return cls (stats)
+
+    def save (self, json_fp):
+
+        stats = list ()
+        for idx, history in self._stats.items ():
+            h = [{
+                "date" : i.date,
+                "duration" : i.duration,
+                "rate_numerator" : i.rate.numerator,
+                "rate_denominator" : i.rate.denominator} for i in history]
+            stats.append ({"question_id" : idx, "history" : h})
+
+        json.dump (stats, json_fp)
+
+    def __eq__ (self, oself):
+        for (idx1, hist1), (idx2, hist2) in zip (self._stats.items (), oself._stats.items ()):
+            if idx1 != idx2:
+                return False
+            if hist1._history != hist2._history: #TODO: proper __eq__ for _history class
+                return False
+
+        return True
+
 def test_Questions ():
 
     from tempfile import mkstemp
@@ -135,6 +203,31 @@ def test_Questions ():
     unlink (name)
 
     assert qlst == qlst2
+
+def test_Stats ():
+
+    from tempfile import mkstemp
+    from os import close, unlink
+
+    _stats = {
+        0   :   QuestionHistory (0, [HistoryItem (1234, 10, Fraction (1)), HistoryItem (1255, 5, Fraction (1,2))]),
+        1   :   QuestionHistory (1, [HistoryItem (1236, 10, Fraction ()), HistoryItem (1255, 5, Fraction (1, 3))]),
+    }
+
+    stats = Stats (_stats)
+
+    fd, name = mkstemp ()
+    with open (name, "wt") as fp:
+        stats.save (fp)
+
+    stats2 = None
+    with open (name, "rt") as fp:
+        stats2 = Stats.load (fp)
+
+    close (fd)
+    unlink (name)
+
+    assert stats == stats2
 
 QUESTIONS = """
 [
