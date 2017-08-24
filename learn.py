@@ -19,7 +19,7 @@ class Question:
         return self._answers
 
     def aiter (self):
-        return iter ((a["text"], a["correct"]) for a in self._answers)
+        return iter ((a["answer"], a["correct"]) for a in self._answers)
 
     def result (self, attempts):
         inc = Fraction (1, self._correct)
@@ -82,6 +82,9 @@ class QuestionList:
 
         return True
 
+    def __getitem__ (self, idx):
+        return self._questions [idx]
+
 def test_Question ():
 
     q = Question (
@@ -112,10 +115,21 @@ class QuestionHistory:
 
     @property
     def history (self):
-        return history
+        return self._history
 
     def __iter__ (self):
         return iter (self._history)
+
+    def put (self, qhistory):
+        self._history.insert (0, qhistory)
+        return self
+
+    def result (self):
+        """Return historical results for question"""
+        if len (self._history) == 0:
+            return Fraction ()
+
+        return Fraction (sum (i.rate for i in self._history), len (self._history))
 
 class Stats:
 
@@ -164,6 +178,12 @@ class Stats:
                 return False
 
         return True
+
+    def __getitem__ (self, idx):
+        return self._stats [idx]
+
+    def keys (self):
+        return (i for i in range (len (self._stats)))
 
 def test_Questions ():
 
@@ -229,40 +249,132 @@ def test_Stats ():
 
     assert stats == stats2
 
-QUESTIONS = """
-[
-    {
-        "question": "blablabla",
-        "answers" : [
-            {
-                "correct" : True,
-                "text" : "ham spam ham spam"
-            },
-            {
-                "correct" : False,
-                "test" : "Use Perl, Luke!"
-            }
-        ]
-    }
-]
-"""
+class LearnModel:
 
-STATS = """
-[
-    {
-        "question_id" : 0,
-        "history" : [
-            {
-                "date" : 1234567,
-                "duration" : 123,
-                "rate" : 1.0
-            },
-            {
-                "date" : 1234999,
-                "duration" : 1,
-                "rate" : 0.0
-            },
-        ]
-    }
-]
-"""
+    __BUCKET_SIZE__ = 20
+    __THRESHOLD__ = Fraction (9, 10)
+
+    def __init__ (self, questions, stats):
+        
+        # some configuration
+        self._bucket_size = self.__class__.__BUCKET_SIZE__
+        self._threshold = self.__class__.__THRESHOLD__
+        self._bucket = list ()
+
+        self._questions = questions
+        self._stats = stats
+        self._mkbucket ()
+
+    def _mkbucket (self):
+        """Quite slow way on how to build the bucket of indicies to use for learn"""
+
+        def result (idx):
+            return self._stats [idx].result ()
+
+        self._bucket = sorted (filter (lambda idx: result (idx) < self._threshold, self._bucket))
+
+        stat_indices = iter (self._stats.keys ())
+        while len (self._bucket) < self._bucket_size:
+            try:
+                idx = next (stat_indices)
+                if result (idx) < self._threshold:
+                    self._bucket.append (idx)
+            except StopIteration:
+                break
+        self._ibucket = iter (self._bucket)
+
+    @classmethod
+    def load (self, questions_fp, stats_fp):
+
+        q = QuestionList.load (questions_fp)
+
+        if stats_fp is None:
+            _stats = {idx: QuestionHistory (idx, []) for idx in range (len (q))}
+            s = Stats (_stats)
+        else:
+            s = Stats.load (stats_fp)
+        return LearnModel (q, s)
+
+    def save (self, stats_fp):
+        self._stats.save (stats_fp)
+
+    def next (self):
+        """Return next idx, question, stats , can raise StopIteration"""
+        idx = next (self._ibucket)
+        return idx, self._questions [idx], self._stats [idx]
+
+    def put (self, idx, qhistory):
+        """Put the answer with the question history back to model, rerun the bucket"""
+        self._stats [idx].put (qhistory)
+        self._mkbucket ()
+        return self
+
+def render_question (question):
+    print ("Q: %s" % question.question)
+    print ("")
+    for i, a in enumerate (question.answers):
+        print ("%d. %s" % (i+1, a ["answer"]))
+    print ("")
+
+def read_answer (question):
+    max_answer = len (question.answers)
+    prompt = "A (%s)> " % (",".join (str (i+1) for i in range (max_answer)))
+    inp = input (prompt)
+    inp.replace (',', ' ')
+    answers = (int(i)-1 for i in inp.split (' '))
+    return question.result (answers)
+
+def ask_question (question):
+    """ask question and return QuestionHistory"""
+
+    import time
+    date = time.mktime (time.gmtime ())
+    start = time.monotonic ()
+    while True:
+        render_question (question)
+        result = read_answer (question)
+        if result == Fraction (1,1):
+            break
+    stop = time.monotonic ()
+    return HistoryItem (date, stop-start, result)
+
+def main (args):
+
+    import os
+
+    QUESTIONS = "otazky.json"
+    STATS = "stats.json"
+
+    model = None
+    with open (QUESTIONS, "rt") as questions_fp:
+        if not os.path.exists (STATS):
+            model = LearnModel.load (questions_fp, None)
+        else:
+            with open (STATS, "rt") as stats_fp:
+                model = LearnModel.load (questions_fp, stats_fp)
+
+    assert model is not None
+
+    try:
+        done = False
+        while not done:
+            try:
+                idx, question, stats = model.next ()
+            except StopIteration:
+                done = True
+                continue
+            qhistory = ask_question (question)
+            model.put (idx, qhistory)
+    except KeyboardInterrupt:
+        pass
+
+    try:
+        with open (STATS + ".work", "wt") as stats_fp:
+            model.save (stats_fp)
+        os.rename (STATS + ".work", STATS)
+    except Exception as e:
+        raise e
+
+if __name__ == "__main__":
+    import sys
+    main (sys.argv)
