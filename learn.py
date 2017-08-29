@@ -330,12 +330,13 @@ def ask_question (question):
     import time
     date = time.mktime (time.gmtime ())
     start = time.monotonic ()
-    while True:
-        render_question (question)
-        result = read_answer (question)
-        if result == Fraction (1,1):
-            break
+    render_question (question)
+    result = read_answer (question)
     stop = time.monotonic ()
+    if result == Fraction (1, 1):
+        print ("Správně")
+    else:
+        print ("Špatně")
     return HistoryItem (date, stop-start, result)
 
 def main (args):
