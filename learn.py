@@ -309,8 +309,8 @@ class LearnModel:
         self._mkbucket ()
         return self
 
-def render_question (question):
-    print ("Q: %s" % question.question)
+def render_question (idx, question):
+    print ("Otázka %d: %s" % (idx, question.question))
     print ("")
     for i, a in enumerate (question.answers):
         print ("%d. %s" % (i+1, a ["answer"]))
@@ -324,13 +324,13 @@ def read_answer (question):
     answers = (int(i)-1 for i in inp.split (' '))
     return question.result (answers)
 
-def ask_question (question):
+def ask_question (idx, question):
     """ask question and return QuestionHistory"""
 
     import time
     date = time.mktime (time.gmtime ())
     start = time.monotonic ()
-    render_question (question)
+    render_question (idx, question)
     result = read_answer (question)
     stop = time.monotonic ()
     if result == Fraction (1, 1):
@@ -364,7 +364,7 @@ def main (args):
             except StopIteration:
                 done = True
                 continue
-            qhistory = ask_question (question)
+            qhistory = ask_question (idx, question)
             model.put (idx, qhistory)
     except KeyboardInterrupt:
         pass
