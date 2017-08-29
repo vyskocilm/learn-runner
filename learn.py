@@ -1,4 +1,5 @@
 import json
+import random
 
 from fractions import Fraction
 from collections import namedtuple
@@ -271,17 +272,18 @@ class LearnModel:
         def result (idx):
             return self._stats [idx].result ()
 
-        self._bucket = sorted (filter (lambda idx: result (idx) < self._threshold, self._bucket))
+        bucketset = set (filter (lambda idx: result (idx) < self._threshold, self._bucket))
 
         stat_indices = iter (self._stats.keys ())
-        while len (self._bucket) < self._bucket_size:
+        while len (bucketset) < self._bucket_size:
             try:
                 idx = next (stat_indices)
-                if result (idx) < self._threshold:
-                    self._bucket.append (idx)
+                if idx not in bucketset and result (idx) < self._threshold:
+                    bucketset.add (idx)
             except StopIteration:
                 break
-        self._ibucket = iter (self._bucket)
+        self._bucket = [i for i in bucketset]
+        random.shuffle (self._bucket)
 
     @classmethod
     def load (self, questions_fp, stats_fp):
@@ -300,7 +302,9 @@ class LearnModel:
 
     def next (self):
         """Return next idx, question, stats , can raise StopIteration"""
-        idx = next (self._ibucket)
+        idx = self._bucket [random.randrange (0, len (self._bucket))]
+        print ("D: LearnModel.next: self._bucket=%s, idx=%s" % (str (self._bucket), str (idx)), file=sys.stderr)
+        import pdb; pdb.set_trace ()
         return idx, self._questions [idx], self._stats [idx]
 
     def put (self, idx, qhistory):
