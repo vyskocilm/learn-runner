@@ -41,6 +41,8 @@ class MyHTMLParser(HTMLParser):
     def _find_correct_answer (self, tag, attrs):
         if (tag == "div" and ("class", "row correct-answer green inverted") in attrs):
             self._correct_answer = True
+        elif (tag == "div" and ("class", "row") in attrs):
+            self._correct_answer = False
         self._handle_starttag = self._find_p_fifteen
 
     def _find_p_fifteen (self, tag, attrs):

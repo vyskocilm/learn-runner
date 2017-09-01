@@ -41,11 +41,11 @@
                 "answer": "zbraně, střelivo a munici, které jsou určeny k ověřování Českým úřadem pro zkoušení zbraní a střeliva,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně, střelivo a munici, které jsou určeny k certifikaci tuzemskými i cizozemskými subjekty působícími na úseku technické normalizace, metrologie a státního zkušebnictví,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně, střelivo a munici, které jsou z působnosti zákona o zbraních vyjmuty rozhodnutím Ministerstva vnitra. Toto rozhodnutí je podmíněné získáním předchozího souhlasného stanoviska Ministerstva průmyslu a obchodu a Českého úřadu pro zkoušení zbraní a střeliva."
             }
         ]
@@ -75,11 +75,11 @@
                 "answer": "zřizování a provozování střelnic Českým úřadem pro zkoušení zbraní a střeliva,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zřizování a provozování střelnic obecní policií, pokud má být střelnice následně využívána pouze pro potřeby výcviku strážníků obecní policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zřizování a provozování střelnic Úřadem pro technickou normalizaci, metrologii a státní zkušebnictví."
             }
         ]
@@ -96,7 +96,7 @@
                 "answer": "vztahuje,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nevztahuje."
             }
         ]
@@ -113,7 +113,7 @@
                 "answer": "vztahuje se na tuto věc od okamžiku převzetí zákon o zbraních,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "vztahuje se na tuto věc zákon o zbraních, pokud tak rozhodne příslušný útvar policie nebo Ministerstvo vnitra."
             }
         ]
@@ -126,11 +126,11 @@
                 "answer": "vztahuje,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nevztahuje,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "vztahuje pouze tehdy, pokud tak rozhodne mandátový a imunitní výbor příslušné komory."
             }
         ]
@@ -164,7 +164,7 @@
                 "answer": "adresu trvalého pobytu občana České republiky nebo adresu trvalého nebo přechodného pobytu cizince,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "adresu dlouhodobého či přechodného pobytu občana České republiky."
             }
         ]
@@ -198,7 +198,7 @@
                 "answer": "se považuje také za nakládání se střelivem nebo municí podle zákona o zbraních,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "se považuje za nakládání se střelivem nebo municí podle zákona o zbraních pouze tehdy, pokud tak rozhodne Český báňský úřad na základě žádosti příslušného útvaru policie."
             }
         ]
@@ -232,7 +232,7 @@
                 "answer": "zbraň nebo střelivo uvnitř bytových nebo provozních prostor nebo uvnitř zřetelně ohraničených nemovitostí se souhlasem vlastníka nebo nájemce uvedených prostor nebo nemovitostí, nebo mít zbraň nenabitou náboji v zásobníku, nábojové schránce, nábojové komoře hlavně nebo nábojových komorách válce revolveru a uloženou v uzavřeném obalu za účelem jejího přemístění z místa na místo,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraň nebo střelivo uvnitř bytových nebo provozních prostor nebo uvnitř alespoň částečně ohraničených nemovitostí s písemným souhlasem vlastníka uvedených prostor nebo nemovitostí, nebo mít zbraň nabitou náboji v zásobníku, nábojové schránce, nábojové komoře hlavně nebo nábojových komorách válce revolveru a uloženou v pevném obalu za účelem jejího přemístění z místa na místo."
             }
         ]
@@ -245,11 +245,11 @@
                 "answer": "zbraň nebo střelivo u sebe, s výjimkou případů, kdy se jedná o držení,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraň nebo střelivo umístěné v prostoru vymezeném poloměrem 10 metrů kolem dotčené osoby,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraň nebo střelivo uvnitř bytových nebo provozních prostor nebo uvnitř zřetelně ohraničených nemovitostí se souhlasem vlastníka nebo nájemce uvedených prostor nebo nemovitostí."
             }
         ]
@@ -283,7 +283,7 @@
                 "answer": "Český úřad pro zkoušení zbraní a střeliva,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra."
             }
         ]
@@ -296,11 +296,11 @@
                 "answer": "zbraně kategorie A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -317,7 +317,7 @@
                 "answer": "zbraně kategorie A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -364,11 +364,11 @@
                 "answer": "zbraně kategorie A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -381,11 +381,11 @@
                 "answer": "zbraně kategorie A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -415,11 +415,11 @@
                 "answer": "zbraně kategorie A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -436,7 +436,7 @@
                 "answer": "zbraně kategorie A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -449,11 +449,11 @@
                 "answer": "zbraně kategorie A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -517,11 +517,11 @@
                 "answer": "zbraně kategorie B,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -538,7 +538,7 @@
                 "answer": "zbraně kategorie B,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -589,7 +589,7 @@
                 "answer": "zbraně kategorie B,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -602,11 +602,11 @@
                 "answer": "zbraně kategorie B,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -619,11 +619,11 @@
                 "answer": "zbraně kategorie B,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -640,7 +640,7 @@
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -653,11 +653,11 @@
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie B,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie D."
             }
         ]
@@ -687,11 +687,11 @@
                 "answer": "zbraně kategorie D,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie B."
             }
         ]
@@ -708,7 +708,7 @@
                 "answer": "zbraně kategorie D,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C."
             }
         ]
@@ -721,11 +721,11 @@
                 "answer": "zbraně kategorie D,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie B."
             }
         ]
@@ -738,11 +738,11 @@
                 "answer": "zbraně kategorie D,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie B,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C."
             }
         ]
@@ -776,7 +776,7 @@
                 "answer": "zbraně kategorie D,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie B."
             }
         ]
@@ -806,11 +806,11 @@
                 "answer": "zbraně kategorie D,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie B,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie C."
             }
         ]
@@ -827,7 +827,7 @@
                 "answer": "zbraně kategorie D,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie B."
             }
         ]
@@ -840,11 +840,11 @@
                 "answer": "zbraně kategorie D,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraně kategorie B."
             }
         ]
@@ -857,11 +857,11 @@
                 "answer": "policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo kultury,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo obrany."
             }
         ]
@@ -874,11 +874,11 @@
                 "answer": "policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo zemědělství,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo životního prostředí."
             }
         ]
@@ -891,11 +891,11 @@
                 "answer": "lze ji časově omezit, pokud nebyla udělena pro sběratelskou nebo muzejní činnost,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nelze jí časově omezit,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "lze ji časově omezit, pokud byla udělena pro sběratelskou nebo muzejní činnost."
             }
         ]
@@ -912,7 +912,7 @@
                 "answer": "příslušného útvaru policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstva obrany."
             }
         ]
@@ -942,11 +942,11 @@
                 "answer": "uplynula doba, na kterou byla udělena, nebo ten, komu byla výjimka udělena, přestal být držitelem zbrojního průkazu skupiny A anebo C nebo zbrojní licence skupiny A, F, G, H, I nebo J,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "její držitel dočasně vycestoval z území České republiky na dobu delší než 2 měsíce,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jestliže tak rozhodlo Ministerstvo vnitra, a to na základě žádosti podané příslušným krajským úřadem, na jehož katastrálním území je zbraň kategorie A přechovávána."
             }
         ]
@@ -959,11 +959,11 @@
                 "answer": "pominul-li důvod, pro který byla udělena,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nebyla-li držitelem po 5 letech obnovena,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nebyla-li držitelem do 3 let obnovena."
             }
         ]
@@ -980,7 +980,7 @@
                 "answer": "povolení,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "udělení výjimky."
             }
         ]
@@ -1027,11 +1027,11 @@
                 "answer": "příslušný útvar policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo kultury,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra."
             }
         ]
@@ -1048,7 +1048,7 @@
                 "answer": "příslušný útvar policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra."
             }
         ]
@@ -1078,11 +1078,11 @@
                 "answer": "příslušný útvar policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo obrany,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra."
             }
         ]
@@ -1099,7 +1099,7 @@
                 "answer": "příslušný útvar policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra."
             }
         ]
@@ -1133,7 +1133,7 @@
                 "answer": "jestliže ten, komu bylo povolení uděleno, přestal být držitelem zbrojního průkazu nebo zbrojní licence,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jestliže jeho držitel dočasně opustil Českou republiku."
             }
         ]
@@ -1146,11 +1146,11 @@
                 "answer": "do 12 měsíců ode dne jeho vydání,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "do 6 měsíců ode dne jeho vydání,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "do 1 měsíce ode dne jeho vydání."
             }
         ]
@@ -1163,11 +1163,11 @@
                 "answer": "jiný členský stát Evropské unie, jiný smluvní stát Dohody o Evropském hospodářském prostoru nebo Švýcarská konfederace,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jiný členský stát Evropské unie nebo jiný členský stát Organizace pro bezpečnost a spolupráci v Evropě,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jiný členský stát Evropské unie nebo jiný členský stát Organizace Severoatlantické smlouvy."
             }
         ]
@@ -1201,7 +1201,7 @@
                 "answer": "odejme; to neplatí, bylo-li vydáno z důvodů ochrany života, zdraví nebo majetku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "odejme; to neplatí, bylo-li vydáno z důvodů zabezpečení úkolů podle zvláštního právního předpisu."
             }
         ]
@@ -1214,11 +1214,11 @@
                 "answer": "držitel zbrojního průkazu příslušné skupiny nebo zbrojní licence příslušné skupiny, který je povinen nabytí vlastnictví této zbraně ohlásit příslušnému útvaru policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "držitel průkazu zbraně nebo provozovatel střelnice, který je povinen nabytí vlastnictví této zbraně ohlásit příslušnému obecnímu úřadu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "držitel loveckého lístku, který je povinen nabytí vlastnictví této zbraně ohlásit příslušnému krajskému úřadu."
             }
         ]
@@ -1269,7 +1269,7 @@
                 "answer": "jen na střelnici, s výjimkou divadelních představení, rekonstrukcí historických bitev a jiných kulturních akcí, při nichž se ze zbraní nevystřelují střely; tato zbraň musí být označena platnou zkušební značkou podle zvláštního právního předpisu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jen na místě povoleném příslušným obecním úřadem, kde by střelbou nemohlo dojít k ohrožení života nebo zdraví; tato zbraň nemusí být označena platnou zkušební značkou."
             }
         ]
@@ -1286,7 +1286,7 @@
                 "answer": "zneužití, ztrátě nebo odcizení,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "technickému zastarání."
             }
         ]
@@ -1299,11 +1299,11 @@
                 "answer": "nesmí zbraň nosit viditelně na veřejnosti nebo na místě veřejnosti přístupném, nejde-li o místo a účel uvedené v § 15 odstavcích 2 nebo 3 zákona o zbraních,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "smí zbraň nosit viditelně na všech veřejnosti přístupných místech, na kterých není toto výslovně zakázáno rozhodnutím Ministerstva vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "smí zbraň nosit viditelně pouze tehdy, pokud obdržel předchozí souhlas příslušného útvaru policie."
             }
         ]
@@ -1320,7 +1320,7 @@
                 "answer": "zbraň nosit nebo s ní na veřejnosti nebo na místě veřejnosti přístupném jakkoliv manipulovat, pokud je jeho schopnost k této činnosti snížena požitím alkoholických nápojů, návykových látek, léků nebo v důsledku nemoci,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraň vlastnit a manipulovat s ní, pokud je jeho schopnost k této činnosti snížena požitím návykových látek nebo v důsledku nemoci."
             }
         ]
@@ -1333,11 +1333,11 @@
                 "answer": "nesmí převést vlastnictví ke zbrani kategorie D nebo střelivo do ní na osobu, která k jejich držení není oprávněna, nebo je přenechat takové osobě,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "může převést vlastnictví ke zbrani kategorie D nebo střelivo do ní na osobu, která k jejich držení není oprávněna, a může je takové osobě přenechat,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nesmí převést vlastnictví ke zbrani kategorie D nebo střelivo do ní na osobu, která k jejich držení není oprávněna, ale může je takové osobě přenechat."
             }
         ]
@@ -1350,11 +1350,11 @@
                 "answer": "10 let a lze jej vydat podle posudku o zdravotní způsobilosti s dobou platnosti kratší než 10 let,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "5 let a lze jej vydat podle posudku o zdravotní způsobilosti s dobou platnosti kratší než 5 let,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "3 roky a lze jej vydat podle posudku o zdravotní způsobilosti s dobou platnosti kratší než 3 roky."
             }
         ]
@@ -1371,7 +1371,7 @@
                 "answer": "příslušný útvar policie na základě žádosti podané fyzickou osobou,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "obecní úřad s rozšířenou působností na základě žádosti podané fyzickou osobou."
             }
         ]
@@ -1388,7 +1388,7 @@
                 "answer": "doklad o odborné způsobilosti,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "doklad o spolehlivosti vystavený příslušným obecním úřadem."
             }
         ]
@@ -1439,7 +1439,7 @@
                 "answer": "v posledních 10 letech před podáním žádosti nepřetržitě zdržoval více než 6 měsíců mimo území České republiky. Cizozemské doklady se předkládají s překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože mu je jiný stát nevydá, předloží čestné prohlášení ve smyslu § 17 odst. 3 zákona o zbraních,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v posledních 10 letech před podáním žádosti nepřetržitě zdržoval více než 24 měsíců mimo území České republiky. Cizozemské doklady se předkládají s překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože mu je jiný stát nevydá, může požádat Ministerstvo vnitra o prominutí tohoto požadavku."
             }
         ]
@@ -1452,11 +1452,11 @@
                 "answer": "předchozí souhlas tohoto členského státu s vydáním zbrojního průkazu nebo prohlášení tohoto členského státu o tom, že předchozí souhlas není nezbytný, s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "předchozí souhlas tohoto členského státu s vydáním zbrojního průkazu, pokud je k tomu vyzván příslušným útvarem policie. Souhlas je nutné předložit s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků či v evropské databázi akreditovaných tlumočníků. Povinné obsahové náležitosti tohoto předchozího souhlasu stanoví prováděcí právní předpis,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "předchozí souhlas vystavený zastupitelským úřadem tohoto členského státu akreditovaným pro Českou republiku. Pokud je tento souhlas vystaven v anglickém jazyce a příslušný útvar policie nevznese námitky, není nutné zajišťovat překlad souhlasu do jazyka českého vyhotovený tlumočníkem zapsaným v seznamu znalců a tlumočníků."
             }
         ]
@@ -1473,7 +1473,7 @@
                 "answer": "3 měsíce,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "6 měsíců."
             }
         ]
@@ -1486,11 +1486,11 @@
                 "answer": "1 rok,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "2 roky,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "6 měsíců."
             }
         ]
@@ -1507,7 +1507,7 @@
                 "answer": "že proti žadateli bylo zahájeno trestní stíhání pro trestný čin uvedený v § 22 zákona o zbraních,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "že proti žadateli bylo zahájeno řízení pro přestupek uvedený v § 20 zákona o zbraních."
             }
         ]
@@ -1520,11 +1520,11 @@
                 "answer": "má místo pobytu na území České republiky, dosáhla předepsaného věku, je způsobilá k právním úkonům, je zdravotně způsobilá, je odborně způsobilá, je bezúhonná a spolehlivá,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "má místo pobytu na území České republiky nebo na území jiného členského státu Evropské unie, dosáhla předepsané věkové hranice trestní odpovědnosti, je odborně způsobilá, je bezúhonná a spolehlivá,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v posledních 5 letech před podáním žádosti nepřetržitě pobývala na území České republiky, dosáhla předepsaného věku, je způsobilá k právním úkonům, je zdravotně způsobilá a odborně způsobilá."
             }
         ]
@@ -1537,11 +1537,11 @@
                 "answer": "starší 21 let,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "starší 18 let,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "starší 16 let."
             }
         ]
@@ -1571,11 +1571,11 @@
                 "answer": "15 let,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "14 let,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "12 let."
             }
         ]
@@ -1626,7 +1626,7 @@
                 "answer": "registrující poskytovatel zdravotních služeb v oboru všeobecné praktické lékařství,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "odborný lékař na základě výsledku psychologického vyšetření."
             }
         ]
@@ -1643,7 +1643,7 @@
                 "answer": "poskytovatel pracovnělékařských služeb, jde-li o žadatele o vydání zbrojního průkazu skupiny D a držitele zbrojního průkazu skupiny D, který je zaměstnancem držitele zbrojní licence; žádá-li tento žadatel také o vydání zbrojního průkazu jiných skupin, je poskytovatel pracovnělékařských služeb oprávněn posoudit zdravotní způsobilost žadatele také v rozsahu jiných skupin zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "odborný lékař na základě výsledku psychologického vyšetření."
             }
         ]
@@ -1660,7 +1660,7 @@
                 "answer": "registrující poskytovatel se specializací v oboru praktické lékařství pro děti a dorost nebo v oboru všeobecné praktické lékařství, jde-li o žadatele o vydání zbrojního průkazu skupiny B nebo C, který je mladší než 19 let,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v případě žadatele o vydání zbrojního průkazu skupiny B, který je mladší než 15 let, ošetřující lékař na základě vyjádření školy, jejímž žákem je žadatel."
             }
         ]
@@ -1741,11 +1741,11 @@
                 "answer": "na předepsaném tiskopise, jehož vzor stanoví prováděcí právní předpis,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "na tiskopise, jehož vzor stanoví příslušný útvar policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "osobně u obecního úřadu obce s rozšířenou působností."
             }
         ]
@@ -1762,7 +1762,7 @@
                 "answer": "10 dnů přede dnem konání zkoušky,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "20 dnů přede dnem konání zkoušky."
             }
         ]
@@ -1779,7 +1779,7 @@
                 "answer": "3 měsíců ode dne neúspěšného vykonání zkoušky,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "1 měsíce ode dne neúspěšného vykonání zkoušky."
             }
         ]
@@ -1809,11 +1809,11 @@
                 "answer": "posudek o zdravotní způsobilosti,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "čestné prohlášení o zdravotní způsobilosti,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "výpis z evidence Rejstříku trestů."
             }
         ]
@@ -1843,11 +1843,11 @@
                 "answer": "trestným činem uvedeným v § 22 odst. 1 zákona o zbraních nebo kdo byl v cizině pravomocně uznán vinným činem, jehož znaky odpovídají znakům některého z trestných činů uvedených v § 22 odst. 1 zákona o zbraních,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "z přestupku na úseku zbraní a střeliva uvedeného v § 22 odst. 1 zákona o zbraních nebo kdo byl v cizině pravomocně uznán vinným činem, jehož znaky odpovídají znakům některého z přestupků uvedených v § 22 odst. 1 zákona o zbraních,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "z jiného správního deliktu uvedeného v § 22 odst. 1 zákona o zbraních, nebo kdo byl v cizině pravomocně uznán vinným činem, jehož znaky odpovídají znakům některého z jiných správních deliktů uvedených v § 22 odst. 1 zákona o zbraních."
             }
         ]
@@ -1860,11 +1860,11 @@
                 "answer": "požádá příslušný útvar policie o vydání opisu z evidence Rejstříku trestů,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "připojí žadatel o vydání zbrojního průkazu k žádosti o jeho vydání výpis z evidence Rejstříku trestů,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "připojí žadatel o vydání zbrojního průkazu k žádosti o jeho vydání písemný souhlas opravňující příslušný útvar policie požádat o opis z evidence Rejstříku trestů."
             }
         ]
@@ -1877,11 +1877,11 @@
                 "answer": "nepřihlíží,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přihlíží,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přihlíží pouze tehdy, pokud tak rozhodne Ministerstvo spravedlnosti."
             }
         ]
@@ -1894,11 +1894,11 @@
                 "answer": "se nepovažuje podle zákona o zbraních za spolehlivého,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "se nepovažuje podle zákona o zbraních za bezúhonného,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "se považuje podle zákona o zbraních za spolehlivého."
             }
         ]
@@ -1928,11 +1928,11 @@
                 "answer": "je příslušný útvar policie oprávněn vyžádat si opis z evidence přestupků vedené Rejstříkem trestů,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "připojí žadatel o vydání zbrojního průkazu k žádosti o jeho vydání výpis z evidence Rejstříku trestů,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "připojí žadatel o vydání zbrojního průkazu k žádosti o jeho vydání prohlášení o spolehlivosti vystavené příslušným obecním úřadem."
             }
         ]
@@ -1949,7 +1949,7 @@
                 "answer": "nejméně dva měsíce a nejdříve 6 měsíců před uplynutím doby platnosti dosavadního zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nejméně tři měsíce a nejdříve 5 měsíců před uplynutím doby platnosti dosavadního zbrojního průkazu."
             }
         ]
@@ -1983,7 +1983,7 @@
                 "answer": "10 let navazující na dobu platnosti stávajícího platného zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "6 let navazující na dobu platnosti stávajícího platného zbrojního průkazu."
             }
         ]
@@ -2000,7 +2000,7 @@
                 "answer": "v době od vydání dosavadního zbrojního průkazu nepřetržitě zdržoval více než 6 měsíců mimo území České republiky. Cizozemské doklady se předkládají s překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože mu je jiný stát nevydá, předloží čestné prohlášení ve smyslu § 24 odst. 2 zákona o zbraních,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v době od vydání dosavadního zbrojního průkazu nepřetržitě zdržoval více než 24 měsíců mimo území České republiky. Cizozemské doklady se předkládají s překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože mu je jiný stát nevydá, může požádat Ministerstvo vnitra o prominutí tohoto požadavku."
             }
         ]
@@ -2013,11 +2013,11 @@
                 "answer": "nebudou-li splněny podmínky zdravotní způsobilosti, bezúhonnosti nebo spolehlivosti stanovené pro vydání zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nebudou-li splněny podmínky osobnostní způsobilosti a bezkonfliktního společenského chování stanovené pro vydání zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nebude-li ke dni podání žádosti splněna podmínka společenské způsobilosti stanovená pro vydání zbrojního průkazu. Splnění podmínky zdravotní způsobilosti musí žadatel doložit pouze tehdy, pokud je k tomu písemně vyzván příslušným útvarem policie."
             }
         ]
@@ -2030,11 +2030,11 @@
                 "answer": "doklad o odborné způsobilosti pro požadovanou skupinu, který nesmí být starší 1 roku, posudek o zdravotní způsobilosti, který nesmí být starší 3 měsíců a 1 fotografii,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "doklad o odborné způsobilosti pro požadovanou skupinu, který nesmí být starší 3 měsíců, posudek o zdravotní způsobilosti, který nesmí být starší 1 měsíce a 1 fotografii,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "doklad o odborné způsobilosti pro požadovanou skupinu, který nesmí být starší 1 roku, posudek o zdravotní způsobilosti, který nesmí být starší 6 měsíců a 2 fotografie."
             }
         ]
@@ -2064,11 +2064,11 @@
                 "answer": "jeho platnost zaniká,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "příslušný útvar policie pozastaví jeho platnost,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "příslušný útvar policie rozhoduje o zániku jeho platnosti."
             }
         ]
@@ -2081,11 +2081,11 @@
                 "answer": "příslušný útvar policie rozhoduje o zániku jeho platnosti,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "příslušný útvar policie pozastaví jeho platnost,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "příslušný útvar policie jej odejme."
             }
         ]
@@ -2102,7 +2102,7 @@
                 "answer": "příslušný útvar policie rozhoduje o zániku jeho platnosti,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "příslušný útvar policie jej odejme."
             }
         ]
@@ -2119,7 +2119,7 @@
                 "answer": "o odnětí zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "o zadržení zbrojního průkazu."
             }
         ]
@@ -2132,11 +2132,11 @@
                 "answer": "o odnětí zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "o zajištění zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "o zadržení zbrojního průkazu."
             }
         ]
@@ -2166,11 +2166,11 @@
                 "answer": "nemá odkladný účinek a držitel zbrojního průkazu je povinen zbrojní průkaz, průkaz zbraně, zbraň, střelivo a zakázaný doplněk zbraně neprodleně odevzdat příslušnému útvaru policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "má odkladný účinek a držitel zbrojního průkazu není povinen tento průkaz odevzdat příslušnému útvaru policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "má odkladný účinek a držitel zbrojního průkazu je povinen do 10 pracovních dní po dni nabytí právní moci rozhodnutí o odvolání odevzdat příslušnému útvaru policie zbraň kategorie A, B nebo C, a to ve stavu vylučujícím okamžité použití."
             }
         ]
@@ -2187,7 +2187,7 @@
                 "answer": "může zbraň nosit viditelně jen v souvislosti s plněním svých pracovních úkolů,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "může zbraň nosit viditelně, i když neplní své pracovní úkoly."
             }
         ]
@@ -2204,7 +2204,7 @@
                 "answer": "skupiny A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "skupiny E."
             }
         ]
@@ -2217,11 +2217,11 @@
                 "answer": "skupiny A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "skupiny D,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "skupiny E."
             }
         ]
@@ -2238,7 +2238,7 @@
                 "answer": "skupiny B nebo C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "skupiny A nebo C."
             }
         ]
@@ -2255,7 +2255,7 @@
                 "answer": "zbraní kategorie B nebo C. Střelivo a jednotlivé části nábojů nesmí nosit viditelně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraní kategorie D nebo E. Střelivo a jednotlivé části nábojů nesmí nosit viditelně."
             }
         ]
@@ -2285,11 +2285,11 @@
                 "answer": "je oprávněn nosit zbraň viditelně při plnění úkolů obecní policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nesmí zbraň nosit viditelně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "může zbraň nosit viditelně, i když neplní své pracovní úkoly."
             }
         ]
@@ -2319,11 +2319,11 @@
                 "answer": "nesmí zbraň nosit viditelně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "může zbraň nosit viditelně jen v souvislosti s plněním svých pracovních úkolů,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "může zbraň nosit viditelně, i když neplní své pracovní úkoly."
             }
         ]
@@ -2374,7 +2374,7 @@
                 "answer": "nosit nejvíce 2 zbraně a střelivo do těchto zbraní; zbraně ani střelivo nesmí nosit viditelně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nosit nejvíce 3 zbraně a střelivo do těchto zbraní; zbraně a střelivo smí nosit viditelně, pokud tak rozhodne příslušný útvar policie."
             }
         ]
@@ -2387,11 +2387,11 @@
                 "answer": "zabezpečit zbraň kategorie A, B nebo C a střelivo,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zabezpečit zbraň kategorie B, C nebo E a střelivo,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zabezpečit zbraň kategorie B, D nebo E a střelivo."
             }
         ]
@@ -2425,7 +2425,7 @@
                 "answer": "zabezpečit zbrojní průkaz a průkaz zbraně proti zneužití, ztrátě nebo odcizení,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zabezpečit evropský zbrojní pas a zbrojní průkaz proti zneužití, poškození, ztrátě nebo odcizení, a to uložením do uzamykatelné ocelové skříně splňující požadavky stanovené prováděcím právním předpisem."
             }
         ]
@@ -2438,11 +2438,11 @@
                 "answer": "předložit na výzvu příslušného útvaru policie zbrojní průkaz, zbraň kategorie A, B nebo C, střelivo do této zbraně a příslušné doklady,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "předložit na výzvu Ministerstva vnitra nebo Českého úřadu pro zkoušení zbraní a střeliva zbrojní průkaz, zbraň kategorie A, B nebo C, střelivo do této zbraně a příslušné doklady,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "předložit na výzvu příslušného útvaru policie zbrojní průkaz, zbraň kategorie A, B nebo D, střelivo do této zbraně a příslušné doklady ke kontrole, zda je používáno rážově odpovídající střelivo."
             }
         ]
@@ -2455,11 +2455,11 @@
                 "answer": "neprodleně ohlásit kterémukoli útvaru policie ztrátu nebo odcizení zbraně kategorie A, B nebo C, střeliva do této zbraně, zbrojního průkazu nebo průkazu zbraně; v případě ztráty nebo odcizení zbraně kategorie A, B nebo C odevzdat též průkaz zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "neprodleně ohlásit příslušnému útvaru policie ztrátu nebo odcizení zbraně kategorie B, D nebo E, střeliva do této zbraně, zbrojního průkazu nebo průkazu zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "neprodleně ohlásit kterémukoli útvaru policie poškození nebo odcizení zbraně kategorie A, D nebo E, střeliva do této zbraně, zbrojního průkazu nebo zbrojní licence."
             }
         ]
@@ -2476,7 +2476,7 @@
                 "answer": "10 pracovních dnů ode dne, kdy došlo ke změně, a zároveň odevzdat doklady původní,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "15 pracovních dnů ode dne, kdy došlo ke změně, a zároveň odevzdat doklady původní."
             }
         ]
@@ -2510,7 +2510,7 @@
                 "answer": "do 10 pracovních dnů ode dne zániku jeho platnosti příslušnému útvaru policie; je-li držitelem zbraně, střeliva nebo zakázaného doplňku zbraně, odevzdá je i s průkazem zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "do 30 dnů ode dne zániku jeho platnosti příslušnému útvaru policie; je-li držitelem zbraně, střeliva nebo zakázaného doplňku zbraně, odevzdá je i s průkazem zbraně."
             }
         ]
@@ -2527,7 +2527,7 @@
                 "answer": "do 10 pracovních dnů příslušnému útvaru policie změnu ráže zbraně, opravu nebo úpravu zbraně mající za následek změnu kategorie zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "do 30 dnů příslušnému útvaru policie změnu ráže zbraně, opravu nebo úpravu zbraně mající za následek změnu kategorie zbraně."
             }
         ]
@@ -2574,11 +2574,11 @@
                 "answer": "příslušnému útvaru policie vstup do obydlí za účelem kontroly zabezpečení zbraní, je-li držitelem zbraně kategorie A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvu vnitra vstup do obydlí za účelem kontroly zabezpečení zbraní, je-li držitelem zbraně kategorie A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "příslušnému útvaru policie vstup do obydlí za účelem kontroly zabezpečení zbraní, je-li držitelem zbraně kategorie B nebo D."
             }
         ]
@@ -2591,11 +2591,11 @@
                 "answer": "ve lhůtě 2 měsíců přede dnem uplynutí 60 měsíců ode dne vydání zbrojního průkazu. Vydaný posudek o zdravotní způsobilosti je povinen odevzdat příslušnému útvaru policie nejpozději ke dni uplynutí 60 měsíců ode dne vydání zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "ve lhůtě 4 měsíců přede dnem uplynutí 40 měsíců ode dne vydání zbrojního průkazu. Vydaný posudek o zdravotní způsobilosti je povinen odevzdat příslušnému útvaru policie nejpozději ke dni uplynutí 40 měsíců ode dne vydání zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "ve lhůtě 3 měsíců přede dnem uplynutí 30 měsíců ode dne vydání zbrojního průkazu. Vydaný posudek o zdravotní způsobilosti je povinen odevzdat příslušnému útvaru policie nejpozději ke dni uplynutí 30 měsíců ode dne vydání zbrojního průkazu."
             }
         ]
@@ -2612,7 +2612,7 @@
                 "answer": "nesmí nosit zbraň nebo s ní na veřejnosti nebo na místě veřejně přístupném jakkoliv manipulovat, pokud je jeho schopnost k této činnosti snížena požitím alkoholických nápojů nebo jiných návykových látek, léků nebo v důsledku nemoci,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "smí nosit zbraň nebo s ní na veřejnosti nebo na místě veřejně přístupném v malém rozsahu manipulovat i tehdy, pokud je jeho schopnost k této činnosti mírně snížena požitím alkoholických nápojů nebo jiných návykových látek, léků nebo v důsledku nemoci."
             }
         ]
@@ -2663,7 +2663,7 @@
                 "answer": "povinen přepravovat držené zbraně na místa, kde je oprávněn je nosit, pouze ve stavu vylučujícím jejich okamžité použití a v uzavřeném obalu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "povinen přepravovat držené zbraně na místa, kde je oprávněn je nosit, jen ve stavu nevylučujícím jejich okamžité použití; při této přepravě není oprávněn používat dopravní prostředek veřejné hromadné dopravy."
             }
         ]
@@ -2680,7 +2680,7 @@
                 "answer": "přepravovat drženou zbraň na místo, kde je oprávněn ji nosit, pouze ve stavu vylučujícím její okamžité použití; používá-li při této přepravě dopravní prostředek veřejné hromadné dopravy, je povinen tuto zbraň přepravovat v uzavřeném obalu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přepravovat nošenou zbraň na místo, kde je oprávněn ji nosit, pokud možno ve stavu znesnadňujícím její použití; při této přepravě není za žádných okolností oprávněn používat dopravní prostředek veřejné hromadné dopravy."
             }
         ]
@@ -2710,11 +2710,11 @@
                 "answer": "průkaz zkušebního komisaře, který vydává Ministerstvo vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "osvědčení zkušebního komisaře, které vydává Ministerstvo vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "průkaz zkušebního komisaře, který vydává příslušný útvar policie."
             }
         ]
@@ -2748,7 +2748,7 @@
                 "answer": "minimálně úplné střední vzdělání nebo úplné střední odborné vzdělání,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "minimálně vyšší odborné vzdělání."
             }
         ]
@@ -2778,11 +2778,11 @@
                 "answer": "držitelem zbrojního průkazu skupiny A, B, C, D nebo E,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "držitelem zbrojní licence skupiny A, B nebo C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "držitelem evropského zbrojního pasu skupiny A, B, C, D nebo E."
             }
         ]
@@ -2799,7 +2799,7 @@
                 "answer": "10 dnů přede dnem konání zkoušky,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "14 dnů přede dnem konání zkoušky."
             }
         ]
@@ -2816,7 +2816,7 @@
                 "answer": "přestal být držitelem zbrojního průkazu skupiny A, B, C, D nebo E,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "o to požádá příslušný útvar policie nebo obecní policie."
             }
         ]
@@ -2850,7 +2850,7 @@
                 "answer": "Ministerstvo vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Policejní prezidium České republiky."
             }
         ]
@@ -2884,7 +2884,7 @@
                 "answer": "zajištěn zbrojní průkaz; tuto skutečnost je zkušební komisař povinen bezprostředně oznámit Ministerstvu vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zničen zbrojní průkaz; tuto skutečnost je zkušební komisař povinen oznámit Ministerstvu vnitra do 5 pracovních dnů."
             }
         ]
@@ -2914,11 +2914,11 @@
                 "answer": "příslušný útvar policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo průmyslu a obchodu."
             }
         ]
@@ -2948,11 +2948,11 @@
                 "answer": "je žadatel povinen připojit k žádosti o vydání zbrojní licence,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je žadatel povinen připojit k žádosti o vydání zbrojní licence pouze tehdy, pokud je k tomu vyzván příslušným útvarem policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je žadatel povinen připojit k žádosti o vydání zbrojní licence pouze tehdy, pokud následně jako držitel zbrojní licence zamýšlí přechovávat více než 100 kusů zbraní kategorie A, B nebo C nebo více než 200 000 kusů střeliva do těchto zbraní."
             }
         ]
@@ -2982,11 +2982,11 @@
                 "answer": "příslušný útvar policie na předepsaném tiskopise,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra na předepsaném tiskopise,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo průmyslu a obchodu."
             }
         ]
@@ -3003,7 +3003,7 @@
                 "answer": "odnětí licence,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zadržení licence."
             }
         ]
@@ -3020,7 +3020,7 @@
                 "answer": "odnětí licence,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zadržení licence."
             }
         ]
@@ -3033,11 +3033,11 @@
                 "answer": "odnětí licence,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zajištění licence,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zadržení licence."
             }
         ]
@@ -3067,11 +3067,11 @@
                 "answer": "zbrojního průkazu skupiny D, který je k držiteli zbrojní licence v pracovním, členském nebo obdobném poměru,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbrojního průkazu skupiny E nebo B, který je k držiteli zbrojní licence v pracovním, členském nebo obdobném poměru,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbrojního průkazu skupiny E, který je k držiteli zbrojní licence v pracovním, členském nebo obdobném poměru již nejméně 2 roky a dosáhl věku 30 let."
             }
         ]
@@ -3088,7 +3088,7 @@
                 "answer": "do 10 pracovních dnů ode dne zániku platnosti zbrojní licence zbraň, zakázaný doplněk zbraně nebo střelivo a průkaz zbraně, je-li jejich držitelem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "do 15 dnů ode dne zániku platnosti zbrojní licence zbraň, zakázaný doplněk zbraně nebo střelivo a průkaz zbraně, je-li jejich držitelem."
             }
         ]
@@ -3105,7 +3105,7 @@
                 "answer": "30 dnů od ukončení činnosti stávajícího zbrojíře a oznámit tuto změnu do 10 pracovních dnů příslušnému útvaru policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "15 pracovních dnů od ukončení činnosti stávajícího zbrojíře a oznámit tuto změnu do 10 pracovních dnů příslušnému útvaru policie. Zbrojířem nemůže být ustanovena osoba, která je k držiteli zbrojní licence v pracovním poměru."
             }
         ]
@@ -3135,11 +3135,11 @@
                 "answer": "kontrolovat, zda zbraň nebo střelivo nejsou používány k jiným účelům, než které jsou uvedeny ve zbrojní licenci, nebo zda nejsou používány osobami bez zbrojního průkazu příslušné skupiny,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kontrolovat, zda zbraň nebo střelivo jsou používány zejména k účelům uvedeným ve zbrojní licenci a zda jsou používány osobami se zbrojním průkazem či s evropským zbrojním pasem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kontrolovat, zda zbraň nebo střelivo jsou používány zejména k účelům uvedeným ve vnitřním předpisu a zda jsou používány osobami staršími 18 let s plnou způsobilostí k právním úkonům."
             }
         ]
@@ -3152,11 +3152,11 @@
                 "answer": "zajistit nejméně jednou ročně provedení cvičné střelby u osoby, která bude zbraň nosit při výkonu zaměstnání nebo povolání; o provedených cvičných střelbách vést evidenci,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zajistit nejméně jednou za dva roky provedení cvičné střelby u osoby, která bude zbraň nosit při výkonu zaměstnání nebo povolání; o provedených cvičných střelbách může vést pomocnou evidenci,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zajistit nejméně jednou měsíčně provedení cvičné střelby u osoby, která bude zbraň nosit při výkonu zaměstnání nebo povolání; o provedených cvičných střelbách vede evidenci, pokud tak stanoví vnitřní předpis."
             }
         ]
@@ -3169,11 +3169,11 @@
                 "answer": "je držitel zbrojní licence povinen,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je držitel zbrojní licence povinen pouze tehdy, pokud tak rozhodne příslušný útvar policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je držitel zbrojní licence povinen pouze tehdy, pokud tak rozhodne Ministerstvo vnitra."
             }
         ]
@@ -3190,7 +3190,7 @@
                 "answer": "vydat zbraň nebo střelivo pouze fyzické osobě, která je u držitele zbrojní licence v pracovním, členském nebo obdobném poměru, a to pouze za předpokladu, že tato fyzická osoba je držitelem zbrojního průkazu příslušné skupiny a zbraň nebo střelivo používá pouze k účelu, který je uveden ve zbrojním průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "vydat zbraň nebo střelivo pouze fyzické osobě, která je u držitele zbrojní licence v pracovním nebo obdobném poměru, a to za předpokladu, že tato fyzická osoba je držitelem zbrojního průkazu skupiny E a úspěšně absolvovala úvodní odborné školení k bezpečné manipulaci se zbraní a střelivem, jehož obsahovou náplň stanoví zbrojíř vždy po předchozí dohodě s příslušným útvarem policie."
             }
         ]
@@ -3203,11 +3203,11 @@
                 "answer": "odpovědný zástupce fyzické osoby, byl-li ustanoven, anebo odpovědný zástupce nebo člen statutárního orgánu právnické osoby,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zaměstnanec držitele zbrojní licence, který byl určen příslušným útvarem policie po dohodě s držitelem zbrojní licence,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "mimořádný zástupce zbrojíře, jehož funkci musí vždy upravovat vnitřní předpis držitele zbrojní licence. Povinnosti zbrojíře může mimořádný zástupce vykonávat nejdéle po dobu 3 měsíců."
             }
         ]
@@ -3220,11 +3220,11 @@
                 "answer": "A, B nebo C; tato povinnost se nevztahuje na zakázané střelivo,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "B, C nebo D; tato povinnost se nevztahuje na zakázané střelivo,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "A, C nebo D; tato povinnost se vztahuje i na zakázané střelivo."
             }
         ]
@@ -3258,7 +3258,7 @@
                 "answer": "průkaz zbraně, který je veřejnou listinou,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "průkaz zbraně, který není veřejnou listinou."
             }
         ]
@@ -3288,11 +3288,11 @@
                 "answer": "kategorie A, B nebo C, kterou fyzická nebo právnická osoba nabude do vlastnictví a není oprávněna ji podle zákona o zbraních vlastnit, držet nebo nosit,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kategorie B, C nebo D, kterou fyzická nebo právnická osoba nabude do vlastnictví a není oprávněna ji podle zákona o zbraních vlastnit, držet nebo nosit,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kategorie A, C nebo E, kterou fyzická nebo právnická osoba nabude do vlastnictví a není oprávněna ji podle zákona o zbraních vlastnit, držet nebo nosit."
             }
         ]
@@ -3309,7 +3309,7 @@
                 "answer": "Českému úřadu pro zkoušení zbraní a střeliva podle zvláštního právního předpisu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví podle zvláštního právního předpisu."
             }
         ]
@@ -3326,7 +3326,7 @@
                 "answer": "do 10 pracovních dnů ode dne nabytí vlastnictví a současně předložit zbraň,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "do 10 dnů ode dne nabytí vlastnictví a současně předložit zbraň."
             }
         ]
@@ -3339,11 +3339,11 @@
                 "answer": "10 pracovních dnů ode dne převedení zbraně a současně odevzdat průkaz zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "10 dnů ode dne převedení zbraně a současně odevzdat průkaz zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "15 dnů ode dne převedení zbraně a současně odevzdat průkaz zbraně."
             }
         ]
@@ -3360,7 +3360,7 @@
                 "answer": "jsou předmětem podnikání v oblasti zbraní a střeliva,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jsou uvedeny v seznamu zbraní nepodléhajících registraci, který je vedený společně Ministerstvem vnitra a Ministerstvem průmyslu a obchodu."
             }
         ]
@@ -3373,11 +3373,11 @@
                 "answer": "nemá povinnost registrovat zbraň podle § 41 zákona o zbraních,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "má povinnost registrovat zbraň podle § 41 zákona o zbraních,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "má povinnost registrovat zbraň podle § 41 zákona o zbraních pouze tehdy, pokud tak rozhodne příslušný útvar policie."
             }
         ]
@@ -3407,11 +3407,11 @@
                 "answer": "souhlas příslušných státních orgánů země, do které se trvalý vývoz uskutečňuje, s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "souhlas příslušných státních orgánů země, do které se trvalý vývoz uskutečňuje a v závislosti na konkrétní trase vývozu i souhlas příslušných státních orgánů země, přes jejíž státní území bude trvalý vývoz uskutečněn, s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v evropské databázi akreditovaných tlumočníků,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "souhlas příslušných státních orgánů země, do které se trvalý vývoz uskutečňuje, s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v evropské databázi akreditovaných tlumočníků."
             }
         ]
@@ -3428,7 +3428,7 @@
                 "answer": "5 dnů po nabytí vlastnictví je trvale vyvézt mimo území České republiky,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "10 dnů po nabytí vlastnictví je trvale vyvézt mimo území České republiky."
             }
         ]
@@ -3458,11 +3458,11 @@
                 "answer": "jedná-li se o zbraně nebo střelivo do těchto zbraní uvedené jako vojenský materiál ve zvláštním právním předpise,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pokud ve věci plánovaného trvalého vývozu zbraně nebo střeliva obdrží zamítavé stanovisko Ministerstva vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pokud ve věci plánovaného trvalého vývozu zbraně nebo střeliva obdrží zamítavé stanovisko Úřadu pro zahraniční styky a informace."
             }
         ]
@@ -3530,7 +3530,7 @@
                 "answer": "kategorie A, B nebo C nebo střeliva do této zbraně mimo území České republiky,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kategorie B, C nebo D nebo střeliva do této zbraně mimo území České republiky."
             }
         ]
@@ -3547,7 +3547,7 @@
                 "answer": "příslušný útvar policie, v zahraničí zastupitelský úřad České republiky,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra, v zahraničí zastupitelský úřad České republiky."
             }
         ]
@@ -3594,11 +3594,11 @@
                 "answer": "úředně ověřené pozvání uživatele honitby nebo pořadatele sportovní akce, pokud je účelem tranzitu zbraně nebo střeliva výkon práva myslivosti nebo účast na střeleckých soutěžích. V ostatních případech je povinen uvést účel tranzitu zbraní nebo střeliva,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pozvání uživatele honitby nebo pořadatele sportovní akce, pokud je účelem tranzitu zbraně nebo střeliva výkon práva myslivosti nebo účast na střeleckých soutěžích. Pozvání nemusí být úředně ověřené, pokud plánovaná doba pobytu žadatele na území České republiky nepřekročí 2 dny. V ostatních případech tranzitu je žadatel povinen písemně doložit účel tranzitu zbraní nebo střeliva,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "čestné prohlášení prokazující účel tranzitu zbraní nebo střeliva. K žádosti žadatel předkládá rovněž písemné prohlášení o způsobu, jakým budou jeho zbraně a střelivo zabezpečeny během jeho pobytu na území České republiky."
             }
         ]
@@ -3615,7 +3615,7 @@
                 "answer": "příslušný útvar policie o jeho odnětí,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra o jeho zadržení."
             }
         ]
@@ -3632,7 +3632,7 @@
                 "answer": "lovec z členského státu pro loveckou zbraň a střelivo kategorie C nebo sportovní střelec z členského státu pro sportovní zbraň kategorie B nebo C a střelivo do této zbraně, pokud je držitelem evropského zbrojního pasu, ve kterém má převáženou zbraň uvedenou, a pokud může uvést důvod své cesty, zejména předložením pozvání uživatele honitby nebo pořadatele sportovní akce,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "lovec z členského státu Evropské unie pro loveckou zbraň a střelivo kategorie C nebo sportovní střelec z členského státu Evropské unie pro sportovní zbraň kategorie B nebo C a střelivo do této zbraně, pokud jeho pobyt na území České republiky nepřekročí dobu 2 dnů, nebude převážet více než 2 zbraně a 100 kusů střeliva pro tyto zbraně a pokud je držitelem úředně ověřeného pozvání vystaveného uživatelem honitby nebo pořadatelem sportovní akce."
             }
         ]
@@ -3645,11 +3645,11 @@
                 "answer": "příslušný útvar policie o jeho odnětí,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra o jeho zadržení,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "příslušný obecní úřad o jeho zajištění."
             }
         ]
@@ -3679,11 +3679,11 @@
                 "answer": "má místo pobytu na území České republiky a je oprávněným držitelem zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "má místo pobytu na území České republiky nebo na území jiného členského státu Evropské unie a je vlastníkem zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "má místo pobytu na území České republiky nebo na území jiného členského státu Evropské unie, je vlastníkem zbraně a v žádosti o vydání evropského zbrojního pasu uvede jako řádný důvod výkon práva myslivosti nebo účast na sportovních střeleckých soutěžích v zahraničí."
             }
         ]
@@ -3713,11 +3713,11 @@
                 "answer": "příslušný útvar policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo dopravy."
             }
         ]
@@ -3751,7 +3751,7 @@
                 "answer": "nejdéle však na dobu 3 měsíců,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nejdéle však na dobu 6 měsíců."
             }
         ]
@@ -3764,11 +3764,11 @@
                 "answer": "10 pracovních dnů ode dne zániku jeho platnosti odevzdat zbrojní průvodní list kterémukoliv útvaru policie. A to včetně zbraně, zakázaného doplňku zbraně nebo střeliva, je-li jejich držitelem na základě tohoto dokladu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "20 dnů ode dne zániku jeho platnosti zbrojní průvodní list odevzdat kterémukoliv útvaru policie nebo obecní policie. A to včetně zbraně, zakázaného doplňku zbraně nebo střeliva, je-li jejich držitelem na základě tohoto dokladu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "15 pracovních dnů ode dne zániku jeho platnosti zbrojní průvodní list odevzdat příslušnému útvaru policie nebo Ministerstvu vnitra. A to včetně zbraně, zakázaného doplňku zbraně nebo střeliva, je-li jejich držitelem na základě tohoto dokladu."
             }
         ]
@@ -3781,11 +3781,11 @@
                 "answer": "pozastavení provozování střelnice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zastavení provozování střelnice, a to ve spolupráci s příslušným obecním úřadem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zrušení střelnice."
             }
         ]
@@ -3815,11 +3815,11 @@
                 "answer": "může příslušný útvar policie rozhodnout o pozastavení provozování střelnice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "může kterýkoli útvar policie rozhodnout o pozastavení provozování střelnice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "musí příslušný útvar policie rozhodnout mimo jiné o zastavení provozu střelnice."
             }
         ]
@@ -3836,7 +3836,7 @@
                 "answer": "příslušný útvar policie povolení k provozování střelnice zruší,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "obecní úřad obce s rozšířenou působností povolení k provozování střelnice odejme."
             }
         ]
@@ -3853,7 +3853,7 @@
                 "answer": "10 pracovních dnů příslušnému útvaru policie, který vydal povolení k provozování střelnice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "20 pracovních dnů příslušnému útvaru policie, který vydal povolení k provozování střelnice."
             }
         ]
@@ -3870,7 +3870,7 @@
                 "answer": "lékárničkou první pomoci, jejíž obsah stanoví prováděcí právní předpis,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "vzduchotechnickým zařízením, jehož provedení stanoví prováděcí právní předpis."
             }
         ]
@@ -3904,7 +3904,7 @@
                 "answer": "nosit viditelně označení správce střelnice stanovené provozním řádem střelnice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nosit viditelně označení správce střelnice stanovené zkušebním řádem střelnice."
             }
         ]
@@ -3917,11 +3917,11 @@
                 "answer": "správce střelnice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbrojíř střelnice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "vlastník střelnice."
             }
         ]
@@ -3955,7 +3955,7 @@
                 "answer": "zastavit střelbu na střelnici v případě ohrožení života, zdraví a majetku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "omezit střelbu na střelnici v případě ohrožení života, zdraví a majetku."
             }
         ]
@@ -3968,11 +3968,11 @@
                 "answer": "příslušník policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pracovník Ministerstva vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zaměstnanec policie, strážník obecní policie a pověřený pracovník Ministerstva vnitra."
             }
         ]
@@ -3989,7 +3989,7 @@
                 "answer": "byl odňat zbrojní průkaz nebo zbrojní licence a dosavadní držitel zbrojního průkazu nebo zbrojní licence neodevzdal průkaz zbraně, zbraň, střelivo a zakázaný doplněk zbraně příslušnému útvaru policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "držitel zbrojního průkazu v rozporu se zákonem o zbraních nosí současně se zbraní kategorie B nebo C střelivo, které přebila jiná osoba, která dané střelivo nepřebíjela výhradně pro svou potřebu."
             }
         ]
@@ -4002,11 +4002,11 @@
                 "answer": "je příslušník policie oprávněn vstoupit do obydlí, jiných prostor nebo na pozemek, lze-li důvodně předpokládat, že se zde tyto věci nalézají, a zadržet je,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "příslušný útvar policie odejme zbrojní průkaz a současně rozhodne o zajištění zbraně kategorie A, B nebo C, střeliva do této zbraně a průkazu zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je příslušník policie oprávněn vstoupit do obydlí, jiných prostor nebo na pozemek a provést zde domovní prohlídku, souhlas soudu s domovní prohlídkou lze v takovém případě nahradit souhlasem Ministerstva vnitra."
             }
         ]
@@ -4023,7 +4023,7 @@
                 "answer": "příslušný útvar policie, a to v případě věcí, které byly zadrženy, a v dané věci má být vedeno řízení podle zákona o zbraních nebo podle zvláštního zákona,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Policejní prezidium České republiky, jestliže proti držiteli zbrojního průkazu nebo zbrojního průvodního listu bylo zahájeno exekuční řízení."
             }
         ]
@@ -4036,11 +4036,11 @@
                 "answer": "je ve špatném technickém stavu. Držiteli střeliva k tomu určí přiměřenou lhůtu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "není přechováváno v původním ochranném obalu výrobce. Držiteli střeliva k tomu určí lhůtu nepřekračující 10 pracovních dnů,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "není přechováváno společně s odpovídajícím certifikátem původu."
             }
         ]
@@ -4057,7 +4057,7 @@
                 "answer": "je-li bezprostředně ohrožen život, zdraví nebo majetek nebo prohlásí-li vlastník střeliva, že ve lhůtě určené kontrolním orgánem pro odstranění střeliva není schopen odstranění střeliva zajistit, nebo jej v určené lhůtě neodstraní. Příslušný útvar policie může držiteli střeliva, které bylo odstraněno, uložit povinnost uhradit náklady spojené s odstraněním střeliva,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nelze-li v budoucnu díky dalšímu skladování střeliva zcela vyloučit ohrožení životního prostředí, majetku či zdraví. Náklady spojené s odstraněním střeliva uhradí vždy místně příslušný krajský úřad a držitel střeliva rovným dílem."
             }
         ]
@@ -4074,7 +4074,7 @@
                 "answer": "držitele zbrojního průkazu nebo držitele zbrojního průvodního listu pro trvalý vývoz, dovoz nebo tranzit zbraní nebo střeliva, který přepravu realizuje,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "držitele muniční licence nebo evropského zbrojního pasu, který přepravu realizuje."
             }
         ]
@@ -4091,7 +4091,7 @@
                 "answer": "jejich oprávněného držitele,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "držitele zbrojní licence."
             }
         ]
@@ -4108,7 +4108,7 @@
                 "answer": "je jejich držitel povinen vhodně zabezpečit proti zneužití, ztrátě a odcizení,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je jejich držitel povinen zabezpečit proti zneužití, ztrátě a odcizení dle podmínek stanovených prováděcím právním předpisem. Zabezpečit je uložením do uzamykatelné ocelové schránky nebo uzamykatelné ocelové skříně splňujícími technické požadavky stanovené přímo použitelným předpisem Evropské unie je držitel povinen pouze tehdy, pokud tak rozhodne příslušný útvar policie."
             }
         ]
@@ -4138,11 +4138,11 @@
                 "answer": "se zabezpečují v uzamykatelném skříňovém trezoru, uzamčené místnosti nebo samostatném objektu, pokud splňují technické požadavky stanovené prováděcím právním předpisem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "se zabezpečují kromě jiného také v uzamykatelné ocelové skříni, uzamykatelném skříňovém trezoru, zvláštní místnosti nebo samostatném objektu, pokud splňují technické požadavky stanovené přímo použitelným předpisem Evropské unie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "se zabezpečují v uzamykatelné ocelové schránce, ocelové skříni, zvláštním uzamčeném zařízení, uzamykatelném skříňovém trezoru, zvláštní místnosti nebo samostatném objektu, pokud splňují technické požadavky stanovené Českým úřadem pro zkoušení zbraní a střeliva ve spolupráci s Úřadem pro technickou normalizaci, metrologii a státní zkušebnictví."
             }
         ]
@@ -4189,11 +4189,11 @@
                 "answer": "kategorie A; při této kontrole je oprávněn vstupovat do jejich obydlí,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kategorie B; při této kontrole je oprávněn vstupovat do jejich obydlí,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kategorie B; při této kontrole není oprávněn vstupovat do jejich obydlí."
             }
         ]
@@ -4210,7 +4210,7 @@
                 "answer": "kategorie B nebo C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kategorie C, D nebo E."
             }
         ]
@@ -4244,7 +4244,7 @@
                 "answer": "podílí-li se se souhlasem pořadatele na zabezpečení akce, jejíž součástí je střelba,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "udělil-li k tomu příslušný obecní úřad obce s rozšířenou působností souhlas."
             }
         ]
@@ -4261,7 +4261,7 @@
                 "answer": "útvar policie příslušný podle místa konání akce,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "obecní úřad obce s rozšířenou působností příslušný podle místa konání akce."
             }
         ]
@@ -4278,7 +4278,7 @@
                 "answer": "útvarem policie příslušným podle místa konání akce,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "obecním úřadem obce s rozšířenou působností příslušným podle místa konání akce."
             }
         ]
@@ -4291,11 +4291,11 @@
                 "answer": "příslušného útvaru policie, nejde-li o zhotovení řezu zbraně přímo výrobcem zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kteréhokoliv útvaru policie, nejde-li o zhotovení řezu zbraně přímo výrobcem zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Českého úřadu pro zkoušení zbraní a střeliva, nejde-li o zhotovení řezu zbraně přímo výrobcem zbraně."
             }
         ]
@@ -4308,11 +4308,11 @@
                 "answer": "20 pracovních dnů ode dne vydání povolení,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "30 dnů ode dne vydání povolení,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "15 dnů ode dne vydání povolení."
             }
         ]
@@ -4329,7 +4329,7 @@
                 "answer": "příslušnému útvaru policie ke kriminalistické expertize s písemnou žádostí, podanou na předepsaném tiskopise,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Českému úřadu pro zkoušení zbraní a střeliva k expertize s písemnou žádostí, podanou na předepsaném tiskopise."
             }
         ]
@@ -4342,11 +4342,11 @@
                 "answer": "příslušný útvar policie žádost o znehodnocení nebo zničení zbraně nebo výrobu jejího řezu zamítne,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kterýkoli útvar policie žádost o znehodnocení nebo zničení zbraně nebo výrobu jejího řezu odloží,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Český úřad pro zkoušení zbraní a střeliva žádost o znehodnocení nebo zničení zbraně nebo výrobu jejího řezu zamítne."
             }
         ]
@@ -4376,11 +4376,11 @@
                 "answer": "6 měsíců ode dne následujícího po dni zániku jejich platnosti,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "4 měsíců ode dne následujícího po dni zániku jejich platnosti,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "2 měsíců ode dne následujícího po dni zániku jejich platnosti."
             }
         ]
@@ -4397,7 +4397,7 @@
                 "answer": "6 měsíců ode dne následujícího po dni zániku jejich platnosti,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "10 měsíců ode dne následujícího po dni zániku jejich platnosti."
             }
         ]
@@ -4431,7 +4431,7 @@
                 "answer": "povinen tuto skutečnost oznámit kterémukoli útvaru policie; to neplatí, pokud mu tato okolnost nebyla známa. O provedeném oznámení vydá policie potvrzení,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je povinen oznámit tuto skutečnost příslušnému útvaru policie nebo příslušnému obecnímu úřadu na předepsaném tiskopise, jehož vzor stanoví prováděcí právní předpis. Pokud se zbraň nebo střelivo původně vlastněné mrtvou osobou nacházejí v prostorách společné domácnosti, je oznamovatel povinen doručit je neprodleně osobně příslušnému útvaru policie nebo obecnímu úřadu."
             }
         ]
@@ -4448,7 +4448,7 @@
                 "answer": "2 měsíců ode dne, kdy rozhodnutí soudu o dědictví nabylo právní moci, požádat o vydání zbrojního průkazu, zbrojní licence, popřípadě o udělení výjimky, vydání povolení nebo zbrojního průvodního listu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "10 měsíců ode dne, kdy rozhodnutí soudu o dědictví nabylo právní moci, požádat o vydání zbrojního průkazu, zbrojní licence, popřípadě o udělení výjimky, vydání povolení nebo zbrojního průvodního listu."
             }
         ]
@@ -4461,11 +4461,11 @@
                 "answer": "neprodleně oznámit jejich nález nejbližšímu příslušníkovi policie nebo útvaru policie nebo obecnímu úřadu, který toto oznámení předá nejbližšímu útvaru policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nejpozději do 48 hodin od okamžiku nálezu oznámit jejich nález zaměstnanci policie nebo strážníkovi obecní policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nejpozději do 12 hodin od okamžiku nálezu oznámit jejich nález strážníkovi obecní policie, zaměstnanci policie nebo krajskému úřadu."
             }
         ]
@@ -4499,7 +4499,7 @@
                 "answer": "státu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kraje, v rámci jehož katastrálního území k opuštění došlo."
             }
         ]
@@ -4512,11 +4512,11 @@
                 "answer": "fyzická osoba starší 18 let, jejíž svéprávnost nebyla omezena, nebo právnická osoba,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "fyzická osoba starší 16 let, jejíž svéprávnost nebyla omezena, nebo právnická osoba,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "fyzická osoba starší 15 let, jejíž svéprávnost nebyla omezena, nebo právnická osoba."
             }
         ]
@@ -4550,7 +4550,7 @@
                 "answer": "nejvýše celkem 3 kg černého loveckého prachu a bezdýmného prachu a 10 000 zápalek. Zákon upravující nakládání s výbušninami se na nakládání s černým loveckým prachem, bezdýmným prachem a zápalkami nejvýše v množství uvedeném v předchozí větě nepoužije,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nejvýše celkem 1 kg černého loveckého prachu a bezdýmného prachu a 1 000 zápalek."
             }
         ]
@@ -4563,11 +4563,11 @@
                 "answer": "prováděcí právní předpis. Stanoví rovněž prostory, ve kterých se černý lovecký prach bezdýmný prach a zápalky skladovat nesmí,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "svým rozhodnutím příslušný útvar policie po dohodě s Českým báňským úřadem. Příslušný útvar policie stanoví rovněž prostory, ve kterých se černý lovecký prach, bezdýmný prach a zápalky skladovat nesmí,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "obecně závaznou směrnicí Český úřad pro zkoušení zbraní a střeliva po dohodě s Českým báňským úřadem. Český úřad pro zkoušení zbraní a střeliva stanoví rovněž prostory, ve kterých se černý lovecký prach, bezdýmný prach a zápalky skladovat nesmí."
             }
         ]
@@ -4584,7 +4584,7 @@
                 "answer": "držitel zbrojního průkazu, který je oprávněn nabývat do vlastnictví náboje pro zbraň kategorie A, B nebo C, nebo držitel zbrojní licence,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "držitel zbrojního průkazu, který dosáhl věku alespoň 30 let a úspěšně absolvoval odborný kurz pro manipulaci se střelivem pořádaný Českým úřadem pro zkoušení zbraní a střeliva."
             }
         ]
@@ -4597,11 +4597,11 @@
                 "answer": "osoba starší 18 let, jejíž svéprávnost nebyla omezena, nebo právnická osoba,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "osoba starší 16 let, jejíž svéprávnost nebyla omezena, nebo právnická osoba,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "osoba starší 15 let, jejíž svéprávnost nebyla omezena, nebo právnická osoba."
             }
         ]
@@ -4614,11 +4614,11 @@
                 "answer": "zákona o zbraních upravující nakládání se zakázaným střelivem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nařízení Ministerstva vnitra upravujícího nakládání s vojenskými výbušninami,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zákona upravujícího nakládání s bezpečnostním materiálem."
             }
         ]
@@ -4635,7 +4635,7 @@
                 "answer": "mezinárodní smlouvou, která je součástí právního řádu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zákonem upravujícím nakládání s výbušninami a zákonem upravujícím obchodování s vojenským materiálem."
             }
         ]
@@ -4648,11 +4648,11 @@
                 "answer": "Ministerstvo vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo průmyslu a obchodu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Úřad pro technickou normalizaci, metrologii a státní zkušebnictví."
             }
         ]
@@ -4665,11 +4665,11 @@
                 "answer": "provádění činností při nakládání s municí a k provádění pyrotechnického průzkumu, a to pouze v rámci pracovního, členského nebo obdobného poměru k držiteli muniční licence. Doba platnosti průkazu je 10 let,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "provádění činností při nakládání s municí, a to pouze v rámci pracovního, členského nebo obdobného poměru k držiteli muniční licence nebo k držiteli zbrojní licence skupiny A a B. Doba platnosti průkazu je 5 let,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "provádění pomocných činností při nakládání s municí, a to jak v rámci výkonu činnosti samostatně podnikající fyzické osoby, tak i v rámci pracovního, členského nebo obdobného poměru k držiteli muniční či zbrojní licence. Doba platnosti průkazu je 5 let."
             }
         ]
@@ -4686,7 +4686,7 @@
                 "answer": "základní muniční průkaz, vyšší muniční průkaz a průkaz pro provádění pyrotechnického průzkumu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "muniční průkaz kategorie A, muniční průkaz kategorie B, muniční průkaz kategorie C."
             }
         ]
@@ -4699,11 +4699,11 @@
                 "answer": "zajišťovat manipulaci s municí a provádět činnosti při skladování munice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zajišťovat manipulaci s municí, provádět činnosti při skladování munice a odpalovat munici,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zajišťovat manipulaci s municí a vykonávat činnost muničáře."
             }
         ]
@@ -4716,11 +4716,11 @@
                 "answer": "muničářem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "muničním technikem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "muničním zbrojířem."
             }
         ]
@@ -4750,11 +4750,11 @@
                 "answer": "prováděcí právní předpis,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "svým rozhodnutím Český báňský úřad,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "obecně závaznou směrnicí Český báňský úřad po dohodě s Ministerstvem vnitra."
             }
         ]
@@ -4771,7 +4771,7 @@
                 "answer": "právnická osoba nebo podnikající fyzická osoba,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "právnická osoba, podnikající i nepodnikající fyzická osoba."
             }
         ]
@@ -4784,11 +4784,11 @@
                 "answer": "příslušný útvar policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Český báňský úřad."
             }
         ]
@@ -4805,7 +4805,7 @@
                 "answer": "pouze držitel obecné muniční licence,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pouze držitel muniční licence 1. bezpečnostní třídy."
             }
         ]
@@ -4818,11 +4818,11 @@
                 "answer": "učinit nezbytná opatření k zajištění bezpečnosti osob a majetku a učiněná opatření neprodleně oznámit policii,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "učinit základní opatření k zajištění bezpečnosti osob a majetku a učiněná opatření nejpozději do 10 pracovních dnů oznámit policii,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "učinit po dohodě s příslušným útvarem hasičského záchranného sboru přiměřená opatření k zajištění základní bezpečnosti osob a majetku. Tato opatření následně oznámí Ministerstvu vnitra a policii."
             }
         ]
@@ -4835,11 +4835,11 @@
                 "answer": "střelnici pro munici nebo v k tomu určeném zvláštním zařízení pro odpalování, střelbu nebo ničení munice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "střelnici povolené příslušným obvodním báňským úřadem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "střelnici povolené Českým báňským úřadem, který si před vydáním příslušného povolení vyžádá vyjádření Ministerstva vnitra."
             }
         ]
@@ -4873,7 +4873,7 @@
                 "answer": "státu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kraje, v rámci jehož katastrálního území k nálezu či k opuštění vlastníkem došlo."
             }
         ]
@@ -4907,7 +4907,7 @@
                 "answer": "policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Český úřad pro zkoušení zbraní a střeliva."
             }
         ]
@@ -4920,11 +4920,11 @@
                 "answer": "držitel zbrojní licence o zbraních kategorie A, B nebo C a střelivu do těchto zbraní, na které nemá vydán průkaz zbraně, a černém loveckém prachu, bezdýmném prachu a zápalkách; dále držitel obecné muniční licence, policie a Český úřad pro zkoušení zbraní a střeliva,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "držitel zbrojního průkazu, držitel zbrojní licence o zbraních kategorie A, B, C nebo D a střelivu do těchto zbraní, na které má vydán průkaz zbraně, a černém loveckém prachu a bezdýmném prachu; dále držitel zvláštní muniční licence, policie, Český úřad pro zkoušení zbraní a střeliva a Český báňský úřad,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "držitel zbrojní licence o zbraních kategorie A, B, C nebo D a střelivu do těchto zbraní, na které má vydán průkaz zbraně; dále držitel obecné muniční licence, policie, Ministerstvo průmyslu a obchodu a Český báňský úřad."
             }
         ]
@@ -4937,11 +4937,11 @@
                 "answer": "Ministerstvo vnitra, Ministerstvo obrany, policie, zastupitelský úřad České republiky a Český úřad pro zkoušení zbraní a střeliva,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra, Ministerstvo obrany, Ministerstvo průmyslu a obchodu, policie, Český báňský úřad a Český úřad pro zkoušení zbraní a střeliva,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra, Ministerstvo dopravy, policie, Ministerstvo průmyslu a obchodu, zastupitelský úřad České republiky a Český úřad pro zkoušení zbraní a střeliva."
             }
         ]
@@ -4971,11 +4971,11 @@
                 "answer": "Ministerstvo obrany,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo průmyslu a obchodu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ministerstvo vnitra."
             }
         ]
@@ -5005,11 +5005,11 @@
                 "answer": "kontrolní průkaz,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "osvědčení o způsobilosti k provádění kontrolní činnosti,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kontrolní certifikát."
             }
         ]
@@ -5039,11 +5039,11 @@
                 "answer": "příslušník policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "strážník obecní policie nebo zaměstnanec policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zaměstnanec Ministerstva vnitra nebo Ministerstva obrany."
             }
         ]
@@ -5073,11 +5073,11 @@
                 "answer": "přestupku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jiného správního deliktu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "provinění sankčně postižitelného pouze tehdy, pokud tak stanoví obecně závazná vyhláška obce, na jejímž katastrálním území k tomuto nošení zbraně došlo."
             }
         ]
@@ -5111,7 +5111,7 @@
                 "answer": "přestupku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jiného správního deliktu."
             }
         ]
@@ -5124,11 +5124,11 @@
                 "answer": "přestupku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přečinu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jiného správního deliktu."
             }
         ]
@@ -5141,11 +5141,11 @@
                 "answer": "přestupku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "trestného činu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jiného správního deliktu."
             }
         ]
@@ -5162,7 +5162,7 @@
                 "answer": "přestupku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "trestného činu."
             }
         ]
@@ -5192,11 +5192,11 @@
                 "answer": "přestupku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "trestného činu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přečinu."
             }
         ]
@@ -5230,7 +5230,7 @@
                 "answer": "přestupku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přečinu."
             }
         ]
@@ -5264,7 +5264,7 @@
                 "answer": "funkce odvozena od okamžitého uvolnění energie při výstřelu, zkonstruovaná pro požadovaný účinek na definovanou vzdálenost,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "požadovaná funkce odvozena od množství uvolněných zplodin při výstřelu, která je konstruovaná na požadovaný výkon."
             }
         ]
@@ -5294,11 +5294,11 @@
                 "answer": "okamžitého uvolnění energie stlačeného vzduchu nebo jiného plynu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "uvolnění energie střelného prachu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "okamžitého uvolnění dynamické nebo mechanické energie."
             }
         ]
@@ -5315,7 +5315,7 @@
                 "answer": "střelná zbraň, u které je funkce odvozena od okamžitého uvolnění nahromaděné mechanické energie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraň, u které je funkce odvozena od uvolnění nahromaděné chemické energie."
             }
         ]
@@ -5349,7 +5349,7 @@
                 "answer": "pracovní zařízení, u něhož je primárním zdrojem energie výbušná látka obsažená ve střelivu pro expanzní přístroje,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "střelná zbraň, u které je primárním zdrojem energie výbušná látka obsažená ve střelivu pro střelné zbraně."
             }
         ]
@@ -5366,7 +5366,7 @@
                 "answer": "palná zbraň s hlavní (hlavněmi) pro střelbu kulovými náboji nebo kulovými střelami, případně speciálními náboji nebo střelami pro kulovou zbraň,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "plynovková zbraň s hlavní (hlavněmi) pro střelbu chemickými náboji nebo plynovými střelami, případně speciálními náboji nebo střelami pro kulovou zbraň."
             }
         ]
@@ -5383,7 +5383,7 @@
                 "answer": "vojenská zbraň,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "armádní zbraň."
             }
         ]
@@ -5400,7 +5400,7 @@
                 "answer": "palná zbraň s hlavní (hlavněmi) pro střelbu brokovými náboji, případně speciálními náboji pro brokovou zbraň,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "palná zbraň s hlavní (hlavněmi) pro střelbu nábojkami, případně speciálními nábojkami pro brokovou zbraň."
             }
         ]
@@ -5434,7 +5434,7 @@
                 "answer": "palná zbraň, jejíž délka hlavně nepřesahuje 300 mm nebo jejíž celková délka nepřesahuje 600 mm,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "palná zbraň, jejíž délka hlavně přesahuje 400 mm a jejíž celková délka dosahuje nejméně 650 mm."
             }
         ]
@@ -5451,7 +5451,7 @@
                 "answer": "palná zbraň, která není krátkou zbraní,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "palná zbraň, jejíž délka hlavně nepřesahuje 200 mm nebo jejíž celková délka nepřesahuje 500 mm."
             }
         ]
@@ -5468,7 +5468,7 @@
                 "answer": "opětovné nabití děje v důsledku předchozího výstřelu a u které konstrukce umožňuje více výstřelů na jedno stisknutí spouště,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "opětovné nabití děje v důsledku mechanického otočení závěru a u které konstrukce neumožňuje více výstřelů na jedno stisknutí spouště."
             }
         ]
@@ -5481,11 +5481,11 @@
                 "answer": "opětovné nabití děje v důsledku předchozího výstřelu a u které konstrukce neumožňuje více výstřelů na jedno stisknutí spouště,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "opětovné nabití děje v důsledku předchozího výstřelu a u které konstrukce umožňuje více výstřelů na jedno stisknutí spouště,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "opětovné nabití děje v důsledku mechanického otočení závěru a u které konstrukce umožňuje více výstřelů na jedno stisknutí spouště."
             }
         ]
@@ -5515,11 +5515,11 @@
                 "answer": "střelná zbraň, určená pravidly sportovní střelby pro národní a mezinárodní disciplíny,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "střelná zbraň, jejímž oprávněným držitelem je člen registrované střelecké asociace,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "střelná zbraň, která je jako sportovní zbraň vedena v rejstříku uznaných sportovních pomůcek Ministerstva školství, mládeže a tělovýchovy."
             }
         ]
@@ -5553,7 +5553,7 @@
                 "answer": "plynová zbraň, kterou se vystřeluje střela se značkovací látkou,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "expanzní zbraň, kterou se vystřeluje střela se značkovací látkou."
             }
         ]
@@ -5566,11 +5566,11 @@
                 "answer": "jednoúčelové zařízení na principu krátké nebo dlouhé zbraně pro použití signálních nábojů ráže větší než 16 mm,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jednoúčelové zařízení na principu krátké zbraně pro použití signálních nábojů ráže menší než 16 mm,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "víceúčelové zařízení na principu krátké nebo dlouhé zbraně pro použití signálních nábojů ráže větší než 10 mm."
             }
         ]
@@ -5583,11 +5583,11 @@
                 "answer": "střelná zbraň, která byla vyrobena do 31. prosince 1890, a současně platí, že všechny hlavní části zbraně byly vyrobeny do 31. prosince 1890,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "střelná zbraň, která byla vyrobena do 31. prosince 1895, nebo platí, že všechny hlavní části zbraně byly vyrobeny do 31. prosince 1895,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "střelná zbraň, která byla vyrobena do 31. prosince 1918, a současně platí, že všechny hlavní části zbraně byly vyrobeny do 31. prosince 1918."
             }
         ]
@@ -5604,7 +5604,7 @@
                 "answer": "hlaveň, vložná hlaveň, vložná nábojová komora, rám, válec revolveru, pouzdro závěru nebo tělo a závěr,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "hlaveň, vložná hlaveň, kohout, spoušť, rám, válec revolveru, pouzdro závěru nebo tělo a závěr."
             }
         ]
@@ -5621,7 +5621,7 @@
                 "answer": "střelná zbraň, která byla znehodnocena postupem stanoveným právním předpisem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "střelná zbraň, která byla znehodnocena držitelem zbrojního průkazu příslušné skupiny postupem stanoveným směrnicí Českého úřadu pro zkoušení zbraní a střeliva."
             }
         ]
@@ -5634,11 +5634,11 @@
                 "answer": "střelivo,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "střelivina,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "náboje."
             }
         ]
@@ -5655,7 +5655,7 @@
                 "answer": "přebíjené,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nabíjené."
             }
         ]
@@ -5672,7 +5672,7 @@
                 "answer": "těleso, určené k zasažení cíle nebo vyvolání jiného efektu, které se po opuštění hlavně nerozdělí,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nábojka určená k zasažení cíle nebo vyvolání jiného efektu, která se po opuštění hlavně rozdělí."
             }
         ]
@@ -5689,7 +5689,7 @@
                 "answer": "těleso nebo látka ve skupenství tuhém, kapalném nebo plynném, určená k zasažení cíle nebo vyvolání jiného efektu, která se po opuštění hlavně rozdělí,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "těleso, určené k zasažení cíle nebo vyvolání jiného efektu, které se po opuštění hlavně nerozdělí."
             }
         ]
@@ -5702,11 +5702,11 @@
                 "answer": "výbušná,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "průbojná,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zápalná."
             }
         ]
@@ -5753,11 +5753,11 @@
                 "answer": "v příslušném nařízení vlády,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v příslušné vyhlášce Ministerstva průmyslu a obchodu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v příslušné obecně závazné směrnici Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví."
             }
         ]
@@ -5791,7 +5791,7 @@
                 "answer": "v příslušném nařízení vlády,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v příslušném obecně závazném nařízení Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví."
             }
         ]
@@ -5808,7 +5808,7 @@
                 "answer": "v příslušném nařízení vlády,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v příslušné obecně závazné směrnici Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví."
             }
         ]
@@ -5821,11 +5821,11 @@
                 "answer": "v příslušném nařízení vlády,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v příslušné vyhlášce Ministerstva vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v příslušné směrnici vydané Českým úřadem pro zkoušení zbraní a střeliva ve spolupráci s Úřadem pro technickou normalizaci, metrologii a státní zkušebnictví."
             }
         ]
@@ -5855,11 +5855,11 @@
                 "answer": "v suchu a takovým způsobem, aby jejich teplota nepřesáhla 40 °C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v prostoru s relativní vlhkostí vzduchu nejvýše do 70%, a to takovým způsobem, aby jejich teplota nepřesáhla 25 °C,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v suchém prostoru, jehož stavební provedení zabraňuje přístupu přímého slunečního záření, a to takovým způsobem, aby jejich teplota nepřesáhla 30 °C."
             }
         ]
@@ -5893,7 +5893,7 @@
                 "answer": "používat pouze nepoškozenou nábojnici,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kromě nepoškozené nábojnice používat i mírně poškozenou nábojnici. V tomto případě je při přebíjení nutné dbát zvýšené opatrnosti."
             }
         ]
@@ -5906,11 +5906,11 @@
                 "answer": "prohlídku zbraně za účelem zjištění, zda není v nabitém stavu; částečné rozebrání a složení zbraně v rozsahu, který je nutný k běžnému vyčištění zbraně po střelbě; postup při přípravě zbraně a střeliva ke střelbě, postup při zjištění závady na zbrani při střelbě a postup při ukončení střelby,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "úvodní prohlídku zbraně doplněnou stručným slovním popisem funkce hlavních částí zbraně; kompletní rozebrání a složení zbraně v rámci stanoveného časového limitu; postup při přípravě zbraně a střeliva ke střelbě; postup při kontrole nastavení mířidel; postup při ukončení střelby,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "postup při přebírání zbraně od jiné osoby; kompletní rozebrání a složení zbraně, které je nutné k celkovému vyčištění zbraně; postup při přípravě zbraně a střeliva ke střelbě; postup při ukončení střelby; základní postup při přebíjení nábojů."
             }
         ]
@@ -5944,7 +5944,7 @@
                 "answer": "zbraň nebo zbraně obvyklého typu odpovídající skupině zbrojního průkazu, kterou žadatel uvádí v přihlášce,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraň, jejíž běžné sériové provedení je na tuzemském trhu nabízeno již déle než 5 let."
             }
         ]
@@ -5961,7 +5961,7 @@
                 "answer": "v poloze vstoje,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v poloze vleže."
             }
         ]
@@ -5991,11 +5991,11 @@
                 "answer": "povinen při střelbě použít vhodné ochranné pomůcky, které určí zkušební komisař nebo které jsou stanoveny provozním řádem střelnice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "povinen při střelbě použít ochranné pomůcky zraku a sluchu, které určí před konáním zkoušky odborné způsobilosti příslušný útvar policie nebo které jsou stanoveny zkušebním řádem střelnice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "oprávněn při střelbě použít vhodné ochranné pomůcky, které jsou blíže vymezeny zkušebním řádem střelnice."
             }
         ]
@@ -6008,11 +6008,11 @@
                 "answer": "oprávněn ověřit si správnost nastřelení zbraně, a to v případě krátké kulové a dlouhé kulové zbraně třemi výstřely a v případě dlouhé brokové zbraně jedním výstřelem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "povinen ověřit si na výzvu správce střelnice či zkušebního komisaře správnost nastřelení zbraně, a to v případě krátké kulové a dlouhé kulové zbraně deseti výstřely a v případě dlouhé brokové zbraně jedním výstřelem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "oprávněn ověřit si správnost nastřelení zbraně, a to v případě krátké kulové a dlouhé kulové zbraně dvěma výstřely a v případě dlouhé brokové zbraně třemi výstřely."
             }
         ]
@@ -6029,7 +6029,7 @@
                 "answer": "trvajícím nejdéle 40 minut, který je složen z 30 otázek,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "trvajícím nejdéle 60 minut, který je složen z 30 otázek."
             }
         ]
@@ -6042,11 +6042,11 @@
                 "answer": "600 Kč za každého žadatele o vydání zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "200 Kč za každého žadatele o vydání zbrojního průkazu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "1000 Kč za každého žadatele o vydání zbrojního průkazu."
             }
         ]
@@ -6059,11 +6059,11 @@
                 "answer": "osoba přítomná v dopravním prostředku, zejména řidič, člen osádky, člen ostrahy, nebo v doprovodném vozidle,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "řidič. Dále se touto osobou vždy rozumí zástupce provozovatele dopravního prostředku oprávněný přijmout opatření k zajištění bezpečnosti konkrétního dopravního prostředku v průběhu přepravy zbraní, střeliva a munice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "osoba přítomná v dopravním prostředku, zejména řidič, člen osádky. Osoba přítomná v doprovodném vozidle se za osobu provádějící přepravu nepovažuje."
             }
         ]
@@ -6076,11 +6076,11 @@
                 "answer": "patří mezi povinné obsahové náležitosti provozního řádu střelnice dle příslušné vyhlášky Ministerstva vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nepatří mezi povinné obsahové náležitosti provozního řádu střelnice dle příslušného nařízení Ministerstva vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "patří mezi podstatné obsahové náležitosti provozního řádu střelnice dle příslušného nařízení vlády."
             }
         ]
@@ -6127,11 +6127,11 @@
                 "answer": "patří mezi povinné obsahové náležitosti provozního řádu střelnice dle příslušné vyhlášky Ministerstva vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nepatří mezi povinné obsahové náležitosti provozního řádu střelnice dle příslušného nařízení Ministerstva vnitra,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "patří mezi podstatné obsahové náležitosti provozního řádu střelnice dle příslušného nařízení vlády."
             }
         ]
@@ -6165,7 +6165,7 @@
                 "answer": "psací prostředky, které umožňují nesmazatelný písemný záznam,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pouze psací prostředky uvedené v seznamu Ministerstva vnitra, který obsahuje přehled psacích prostředků povolených pro provádění úředních evidenčních záznamů."
             }
         ]
@@ -6195,11 +6195,11 @@
                 "answer": "zpravidla ve stejný den jako teoretickou část zkoušky na určené střelnici. Výjimečně může být v odůvodněných případech praktická část zkoušky vykonána v jiný den, o čemž na místě rozhodne zkušební komisař,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zpravidla ve stejný den jako teoretickou část zkoušky na určené střelnici. Výjimečně může být praktická část zkoušky vykonána v jiný den, o čemž na místě rozhodne přítomný příslušník policie po dohodě se zkušebním komisařem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "vždy ve stejný den jako teoretickou část zkoušky na určené střelnici. Zkušební komisař ani příslušný útvar policie nejsou oprávněni rozhodnout o udělení výjimky z tohoto pravidla."
             }
         ]
@@ -6229,11 +6229,11 @@
                 "answer": "zkušební komisař seznámí žadatele s průběhem zkoušky a v potřebném rozsahu s provozním řádem střelnice, zejména se zásadami bezpečné manipulace se zbraní a chováním na střelnici. Zkušební komisař žadatele dále seznámí s povely, které bude používat při praktické části zkoušky,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zkušební komisař nebo přítomný příslušník policie může na základě žádosti jednotlivé žadatele blíže seznámit s průběhem zkoušky a se zásadami chování v bezpečnostním sektoru střelnice. S jednotlivými ustanoveními provozního řádu střelnice žadatele na výzvu zkušebního komisaře seznámí správce střelnice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zkušební komisař, přítomný příslušník policie nebo správce střelnice seznámí žadatele s průběhem zkoušky a se všemi ustanoveními provozního řádu střelnice. Zkušební komisař vždy za přítomnosti příslušníka policie žadatele seznámí s vybranými ukázkami povelů, které může používat při praktické části zkoušky."
             }
         ]
@@ -6246,11 +6246,11 @@
                 "answer": "je možné se seznámit v příloze příslušného nařízení vlády,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je možné se seznámit pouze v rámci prezenční návštěvy na pracovišti příslušného útvaru policie, jelikož tento vzor není určen k běžnému veřejnému šíření,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je možné se seznámit v příloze zákona o zbraních."
             }
         ]
@@ -6267,7 +6267,7 @@
                 "answer": "navrhne žadateli vykonání zkoušky v náhradním termínu, popřípadě žadatele z účasti na zkoušce vyloučí. Náhradní termín a místo konání zkoušky oznámí žadateli příslušný útvar policie,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "může žadateli navrhnout vykonání zkoušky v náhradním termínu a místě, které žadateli oznámí po předchozí dohodě s příslušným útvarem policie."
             }
         ]
@@ -6297,11 +6297,11 @@
                 "answer": "kdokoliv, tedy nejen ten, komu nebezpečí hrozí přímo a jehož zájmy jsou ohroženy, ale i ten, jehož zájmy ohroženy v daném případě nejsou (tzv. pomoc v krajní nouzi),"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pouze osoba, které hrozí nebezpečí a jejíž zájmy jsou ohroženy,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pouze příslušník policie, strážník obecní policie nebo příslušník hasičského záchranného sboru."
             }
         ]
@@ -6331,11 +6331,11 @@
                 "answer": "musí hrozit přímo (tedy bezprostředně),"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "musí hrozit nepřímo,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "musí hrozit nejpozději ve střednědobé budoucnosti."
             }
         ]
@@ -6369,7 +6369,7 @@
                 "answer": "čin jinak trestný, kterým někdo odvrací přímo hrozící nebo trvající útok na zájem chráněný trestním zákonem, není trestným činem. Nejde o nutnou obranu, byla-li obrana zcela zjevně nepřiměřená způsobu útoku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "čin jinak trestný, kterým někdo odvrací nebezpečí přímo hrozící zájmu chráněnému trestním zákonem, není trestným činem. Nejde o nutnou obranu, jestliže bylo možno toto nebezpečí za daných okolností odvrátit jinak anebo způsobený následek je zřejmě stejně závažný nebo ještě závažnější než ten, který hrozil, anebo byl ten, komu nebezpečí hrozilo, povinen je snášet."
             }
         ]
@@ -6386,7 +6386,7 @@
                 "answer": "obrana nebyla zcela zjevně nepřiměřená ve srovnání se způsobem útoku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "způsobený následek není zřejmě stejně závažný nebo ještě závažnější než ten, který hrozil."
             }
         ]
@@ -6403,7 +6403,7 @@
                 "answer": "není povinen vyzvat osobu, proti které má být zbraň použita, aby upustila od protiprávního jednání,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je povinen za všech okolností vyzvat osobu, proti které má být zbraň použita, aby upustila od protiprávního jednání s výstrahou, že bude použito zbraně. Střelnou zbraň obránce nesmí nikdy použít vůči zjevně těhotné ženě či osobě zjevně vysokého věku."
             }
         ]
@@ -6433,11 +6433,11 @@
                 "answer": "obrana musí být intenzivnější než útok, proto aby odvrátila jistě a bez rizika útok útočníka, tzn. že musí být silnější než útok, ale nesmí být zcela zjevně nepřiměřená způsobu útoku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "obrana nesmí být intenzivnější než útok, může být pouze přiměřená intenzitě útoku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "obrana musí být intenzivnější než útok, přičemž otázka stupně její přiměřenosti není podstatná. V odůvodněných případech tak může být i zcela zjevně nepřiměřená."
             }
         ]
@@ -6501,11 +6501,11 @@
                 "answer": "přímo proti útočníkovi, přičemž mu může vzniknout újma nejen na majetku, ale též na zdraví či dokonce na životě a případně i na jiných hodnotách chráněných trestním zákonem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přímo proti útočníkovi, přičemž mu může vzniknout pouze újma na majetku či na zdraví a tu je mu obránce povinen nahradit,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přímo proti útočníkovi či jeho rodinným příslušníkům, kteří se v čase zahájení protiprávního útoku nalézají v blízkosti místa útoku, i když se samotného útoku neúčastní."
             }
         ]
@@ -6535,11 +6535,11 @@
                 "answer": "vlevo na začátku řady,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "uprostřed řady,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "vpravo na konci řady."
             }
         ]
@@ -6556,7 +6556,7 @@
                 "answer": "vpravo na konci řady,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "uprostřed řady."
             }
         ]
@@ -6586,11 +6586,11 @@
                 "answer": "vlevo na začátku řady,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "vpravo na konci řady,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "uprostřed řady."
             }
         ]
@@ -6603,11 +6603,11 @@
                 "answer": "nábojky,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "malorážkové náboje se zapuštěnou homogenní střelou,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "náboje určené pouze pro expanzní zbraně nedovoleného výrobního provedení."
             }
         ]
@@ -6637,11 +6637,11 @@
                 "answer": ".22 LR,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": ".22 Hornet,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": ".222 Rem."
             }
         ]
@@ -6671,11 +6671,11 @@
                 "answer": "nahoře na začátku řady,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "dole na konci řady,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "uprostřed řady."
             }
         ]
@@ -6692,7 +6692,7 @@
                 "answer": "Ano, jde o vzorek na dolním obrázku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "Ne, toto konkrétně vymezené střelivo zde není vyobrazeno."
             }
         ]
@@ -6722,11 +6722,11 @@
                 "answer": "celoplášťovou střelu s přední částí ve tvaru komolého kužele,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "homogenní olověnou střelu s přední částí ve tvaru komolého kužele,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "celoplášťovou střelu s ogivální přední částí."
             }
         ]
@@ -6760,7 +6760,7 @@
                 "answer": "V zajištěné poloze je pojistka zbraně na dolním obrázku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "V zajištěné poloze není pojistka zbraně ani na jednom z přiložených obrázků."
             }
         ]
@@ -6790,11 +6790,11 @@
                 "answer": "záchytu (zádržky) zásobníku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pojistky,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "záchytu závěru."
             }
         ]
@@ -6811,7 +6811,7 @@
                 "answer": "záchytu závěru,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pojistky."
             }
         ]
@@ -6841,11 +6841,11 @@
                 "answer": "písmenem A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "písmenem B,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "písmenem C."
             }
         ]
@@ -6862,7 +6862,7 @@
                 "answer": "kompenzátoru zdvihu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kolimátoru."
             }
         ]
@@ -6875,11 +6875,11 @@
                 "answer": "písmenem A,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "písmenem B,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "písmenem C."
             }
         ]
@@ -6909,11 +6909,11 @@
                 "answer": "zbraně vycházející ze samopalu vz. 58,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pistoli vzor CZ 75,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pušku Mauser K98."
             }
         ]
@@ -6926,11 +6926,11 @@
                 "answer": "lze nalézt na horním obrázku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "lze nalézt na dolním obrázku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nelze nalézt ani na jednom obrázku."
             }
         ]
@@ -6947,7 +6947,7 @@
                 "answer": "se lze setkat u druhu zbraně na dolním obrázku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "se nelze setkat ani u jednoho z vyobrazených druhů zbraní, jelikož baskule je typická pouze pro krátké samonabíjecí zbraně."
             }
         ]
@@ -6964,7 +6964,7 @@
                 "answer": "Ano, je. Tato pojistka má podobu manuální šoupátkové pojistky označené písmenem B,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "S ohledem na rozsah zobrazené plochy zbraně nelze určit."
             }
         ]
@@ -6998,7 +6998,7 @@
                 "answer": "dlouhé opakovací zbraně s drážkovaným vývrtem hlavně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "krátké víceranové zbraně s perkusním zámkem."
             }
         ]
@@ -7011,11 +7011,11 @@
                 "answer": "jednoranové, opakovací, víceranové, automatické,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jednokomorové, vícekomorové a samonabíjecí,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jednohlavňové, vícehlavňové a automatické."
             }
         ]
@@ -7028,11 +7028,11 @@
                 "answer": "akustické, plynovky a zbraně na granule,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "akustické, signální a zbraně na granule,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "paintballové, plynovky a zbraně na granule."
             }
         ]
@@ -7049,7 +7049,7 @@
                 "answer": "dlouhé a krátké,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "speciální a samonabíjecí."
             }
         ]
@@ -7062,11 +7062,11 @@
                 "answer": "samonabíjecí zbraň palná,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "opakovací zbraň palná,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "samočinná zbraň."
             }
         ]
@@ -7113,11 +7113,11 @@
                 "answer": "uzavírá nebo uzamyká nábojovou komoru,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "slouží k zamíření zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "slouží k zásobování zbraně náboji."
             }
         ]
@@ -7134,7 +7134,7 @@
                 "answer": "způsobující úder na zápalku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "sloužící k zamíření zbraně."
             }
         ]
@@ -7147,11 +7147,11 @@
                 "answer": "součást zajišťující zbraň proti výstřelu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "součást, která přidržuje nábojnici,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zařízení, které vyhazuje nábojnici nebo náboj."
             }
         ]
@@ -7168,7 +7168,7 @@
                 "answer": "k zamíření zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "k nabíjení zbraně."
             }
         ]
@@ -7185,7 +7185,7 @@
                 "answer": "hlaveň menší ráže vkládaná do vývrtu hlavně větší ráže,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zařízení nebo součást hlavně, která upravuje účinky výstřelu."
             }
         ]
@@ -7219,7 +7219,7 @@
                 "answer": "k ovládání bicího mechanismu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "k vytažení nábojnice z nábojové komory."
             }
         ]
@@ -7236,7 +7236,7 @@
                 "answer": "jednohlavňová jednoranová brokovnice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "víceranová brokovnice."
             }
         ]
@@ -7249,11 +7249,11 @@
                 "answer": "dvouhlavňová brokovnice s hlavněmi vedle sebe,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "dvouhlavňová brokovnice s hlavněmi nad sebou,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "lovecká zbraň s brokovou a kulovou hlavní vedle sebe."
             }
         ]
@@ -7270,7 +7270,7 @@
                 "answer": "dvojka s vnějšími kohouty,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jednohlavňová jednoranová brokovnice."
             }
         ]
@@ -7321,7 +7321,7 @@
                 "answer": "zbraň se třemi brokovými hlavněmi, dvěma vedle sebe a jednou pod nimi nebo nad nimi,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraň se třemi malorážkovými hlavněmi, dvěma vedle sebe a jednou pod nimi nebo nad nimi."
             }
         ]
@@ -7334,11 +7334,11 @@
                 "answer": "lovecká dlouhá zbraň se dvěma a více hlavněmi; hlavně mají různý vývrt,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraň se dvěma hlavněmi nad sebou; obě hlavně brokové,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jednohlavňová lovecká dlouhá zbraň s drážkovaným vývrtem určená pro střelbu kulovými náboji."
             }
         ]
@@ -7372,7 +7372,7 @@
                 "answer": "zbraň se dvěma hlavněmi nad sebou; kulová a broková hlaveň bez ohledu na jejich vzájemnou polohu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraň, která má dvě brokové hlavně vedle sebe."
             }
         ]
@@ -7385,11 +7385,11 @@
                 "answer": "zbraň, která má dvě kulové hlavně vedle sebe, pod nimi nebo nad nimi je hlaveň broková,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraň se dvěma brokovými hlavněmi vedle sebe, pod nimi nebo nad nimi je hlaveň malorážková,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "broková zbraň se třemi brokovými hlavněmi."
             }
         ]
@@ -7406,7 +7406,7 @@
                 "answer": "zbraň se třemi hlavněmi, dvěma brokovými vedle sebe a kulovou pod nimi nebo nad nimi,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "broková zbraň se třemi brokovými hlavněmi."
             }
         ]
@@ -7436,11 +7436,11 @@
                 "answer": "zbraň se třemi hlavněmi; kulová a broková hlaveň nad sebou, po stranách hlaveň malorážková nebo kulová malé ráže,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "broková zbraň se třemi hlavněmi, dvěma brokovými vedle sebe a kulovou pod nimi nebo nad nimi,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zbraň se dvěma brokovými hlavněmi vedle sebe, pod nimi nebo nad nimi je hlaveň malorážková."
             }
         ]
@@ -7457,7 +7457,7 @@
                 "answer": "zbraň se čtyřmi hlavněmi souměrně uspořádanými ke svislé ose; dvě hlavně brokové, jedna kulová a jedna malorážková nebo dvě hlavně kulové, jedna broková a jedna malorážková,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "kulová zbraň se čtyřmi kulovými hlavněmi souměrně uspořádanými ke svislé ose."
             }
         ]
@@ -7470,11 +7470,11 @@
                 "answer": "jednohlavňová lovecká dlouhá zbraň s drážkovaným vývrtem určená pro střelbu kulovými náboji,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "vícehlavňová lovecká zbraň určená pro střelbu brokovými náboji,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jednohlavňová lovecká dlouhá zbraň s drážkovaným vývrtem určená pro střelbu signálními náboji."
             }
         ]
@@ -7504,11 +7504,11 @@
                 "answer": "lovecká dlouhá zbraň se dvěma kulovými hlavněmi nad sebou,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "dlouhá zbraň se dvěma kulovými hlavněmi vedle sebe,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "lovecká dlouhá zbraň se dvěma brokovými hlavněmi nad sebou."
             }
         ]
@@ -7525,7 +7525,7 @@
                 "answer": "dlouhá lovecká zbraň se třemi kulovými hlavněmi,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "lovecká zbraň se dvěma kulovými a jednou brokovou hlavní."
             }
         ]
@@ -7555,11 +7555,11 @@
                 "answer": "krátká nebo dlouhá jednohlavňová nebo dvouhlavňová zbraň určená pro náboje typu Flobert,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "krátká nebo dlouhá zbraň s hladkým vývrtem pro kulový náboj s jiným než středovým nebo okrajovým zápalem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "dlouhá kulová zbraň pro střelbu kulovými náboji se středovým zápalem."
             }
         ]
@@ -7589,11 +7589,11 @@
                 "answer": "krátká zbraň s pevnou hlavní a otáčivým válcem s nábojovými komorami, které se mezi jednotlivými výstřely natáčejí do osy vývrtu hlavně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "krátká zbraň s pevnou nebo pohyblivou hlavní s nábojovou komorou; jednoranová, opakovací nebo samonabíjecí (popřípadě vícehlavňová),"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "dlouhá zbraň s pohyblivou hlavní a otáčivým válcem s nábojovými komorami, které se mezi jednotlivými výstřely natáčejí do osy vývrtu hlavně."
             }
         ]
@@ -7606,11 +7606,11 @@
                 "answer": "vyjádřena některými nebo všemi údaji: smluvní velikostí průměru vodicí části vývrtu hlavně, technickým popisem nábojové komory, technickým popisem použitelného náboje, doplňkovými označeními,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "vyjádřena všemi údaji: zvykovou velikostí poloměru vodicí linie vývrtu hlavně, technickým popisem nábojové komory, smluvním popisem použitého náboje,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přesně vyjádřena údaji: smluvní velikostí objemu vodicí části hlavně, smluvním popisem komory."
             }
         ]
@@ -7623,11 +7623,11 @@
                 "answer": "úsťové části brokové hlavně ovlivňující velikost a charakter krytí,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nábojové komory brokové zbraně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přechodového kužele brokové zbraně."
             }
         ]
@@ -7695,7 +7695,7 @@
                 "answer": "bez výmetné náplně a zápalky, který rozměrově odpovídá skutečnému náboji: slouží pro výuku a výcvik v nabíjení a spouštění zbraně a pro kontrolu funkce zásobníku, závěru a spušťadla,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "s výmetnou náplní, který rozměrově neodpovídá skutečnému náboji."
             }
         ]
@@ -7725,11 +7725,11 @@
                 "answer": "úderem kladívka (kohoutu) na perkusní zápalku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "úhozem kladívka (kohoutu) na ocílku,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "úderem křemene upevněného v čelistech zámku na ocílku."
             }
         ]
@@ -7759,11 +7759,11 @@
                 "answer": "největší dosažitelný dostřel při střelbě z určité zbraně s určitým druhem náboje,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "největší vzdálenost od zbraně, na níž lze efektivně vyřadit střelbou zvolený cíl,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nejmenší dosažitelný dostřel při střelbě z určité zbraně."
             }
         ]
@@ -7776,11 +7776,11 @@
                 "answer": "největší vzdálenost od zbraně, na níž lze efektivně vyřadit střelbou zvolený cíl,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "největší dosažený dostřel při střelbě z určité zbraně s určitým druhem náboje,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "maximální vzdálenost od zbraně, kam dopadne střela."
             }
         ]
@@ -7797,7 +7797,7 @@
                 "answer": "poměr počtu zásahů vytvořených broky brokového shluku určitého náboje ve svislém kruhu o stanoveném průměru v určené vzdálenosti od ústí zbraně k celkovému počtu broků v náboji, vyjádřený v procentech,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "prodloužená osa hlavně zamířené zbraně bezprostředně před výstřelem."
             }
         ]
@@ -7810,11 +7810,11 @@
                 "answer": "ničivý účinek střel na živé cíle, jehož výsledkem je vznik střelných poranění,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "ničivý účinek střel na pevné cíle, jehož výsledkem je zničení cíle,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "rozdíl mezi dopadovou a zbytkovou energií střely."
             }
         ]
@@ -7844,11 +7844,11 @@
                 "answer": "pro střelbu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "výhradně pro výuku a výcvik ve střelbě,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jen pro nastřelování a zkoušení zbraní."
             }
         ]
@@ -7865,7 +7865,7 @@
                 "answer": "přesně určené místo, popřípadě ohrazené, z něhož se střílí,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přesně určené místo, popřípadě ohrazené, na kterém se střelcům udělují instrukce."
             }
         ]
@@ -7878,11 +7878,11 @@
                 "answer": "k terčové čáře,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "k místu, kde jsou vydávány náboje,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "k místu, kde řídící střeleb provádí instruktáž."
             }
         ]
@@ -7912,11 +7912,11 @@
                 "answer": "není při střelbě ohrožen při dodržení bezpečnostních pravidel platných pro danou střelnici,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je za zády řídícího střeleb,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "slouží k ukládání vystřelených nábojnic."
             }
         ]
@@ -7929,11 +7929,11 @@
                 "answer": "lze předpokládat přímý dopad střel nebo střel a jejich částí po odrazu při dodržení bezpečnostních pravidel platných pro danou střelnici,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "jsou uloženy zbraně, střelivo a další munice,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "se provádí výuka a výcvik ve střelbě."
             }
         ]
@@ -7946,11 +7946,11 @@
                 "answer": "k umístění a případnému pohybu terčů,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "k automatickému lepení terčů po provedené střelbě,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "k uskladnění používaných terčů na střelnici."
             }
         ]
@@ -7967,7 +7967,7 @@
                 "answer": "série sloužící k ověření nastřelení a funkce zbraně zpravidla před soutěží,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "série sloužící k ověření průměrné hodnoty bodu zásahu."
             }
         ]
@@ -7984,7 +7984,7 @@
                 "answer": "místní zvětšení průměru hlavně způsobené při výstřelu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "prasknutí hlavně po výstřelu."
             }
         ]
@@ -7997,11 +7997,11 @@
                 "answer": "dvojterč,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nástřelný terč,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zadní terč."
             }
         ]
@@ -8035,7 +8035,7 @@
                 "answer": "součást náboje obsahující zápalkovou slož, která se nárazem nebo jiným způsobem vznítí a zažehne výmetnou náplň,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nábojnice obsahující zažehovací nebo zápalnou látku určenou pro palné střelné zbraně."
             }
         ]
@@ -8052,7 +8052,7 @@
                 "answer": "poléváme chladnou vodou, dokud chlazení přináší úlevu, pak zakryjeme co nejčistší tkaninou,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "ošetříme mastí na spáleniny."
             }
         ]
@@ -8082,11 +8082,11 @@
                 "answer": "uložíme do polohy na záda, zvedneme dolní končetiny, zajistíme přívod čerstvého vzduchu, dáváme studené obklady na čelo,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "posadíme se zakloněnou hlavou, dáváme studené obklady na prsa,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "položíme, nejlépe do polohy na břiše."
             }
         ]
@@ -8116,11 +8116,11 @@
                 "answer": "stavění krvácení, zajištění psychického klidu, ochranu před prochlazením nebo přehřátím, znehybnění zlomenin,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "obyčejně znehybnění končetin a uložení do polohy vleže,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "podávání tekutiny podle žízně, na poraněné místo dáme elastické obinadlo, s pacientem nemanipulujeme, abychom mu neublížili."
             }
         ]
@@ -8137,7 +8137,7 @@
                 "answer": "nad ránou, to je blíže k srdci,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nad i pod ránou."
             }
         ]
@@ -8150,11 +8150,11 @@
                 "answer": "tlakový obvaz,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "normální obvaz,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "obvaz na ránu a nad ní škrtidlo."
             }
         ]
@@ -8184,11 +8184,11 @@
                 "answer": "zjistíme stav dýchání a srdeční činnosti, není-li porucha, orientačně vyšetříme a trvale sledujeme do příjezdu záchranné služby,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "postiženého uložíme na měkkou podložku, orientační vyšetření neprovádíme,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "ihned zahájíme dýchání z úst do úst, s orientačním vyšetřením se nezdržujeme."
             }
         ]
@@ -8201,11 +8201,11 @@
                 "answer": "provádíme vždy dva vdechy po sobě; hloubka vdechu by měla být taková, aby se hrudník postiženého viditelně zvedal,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "provádíme vždy dva vdechy v intervalu asi 5 sekund; objem vdechnutého vzduchu by měl být asi 1 litr (u dospělého),"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "provádíme vždy 1 vdech maximálním možným objemem."
             }
         ]
@@ -8222,7 +8222,7 @@
                 "answer": "stlačováním středu hrudníku na hrudní kosti dlaňovou hranou jedné ruky, druhá ruka je přiložena na spodní, frekvencí 100krát za minutu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přiložením dlaně na hrudní kost postiženého v její dolní části a stlačujeme frekvencí 80krát za minutu."
             }
         ]
@@ -8239,7 +8239,7 @@
                 "answer": "je možný jen na tvrdé rovné podložce,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "je možný na jakékoliv podložce."
             }
         ]
@@ -8252,11 +8252,11 @@
                 "answer": "přiložíme tlakový obvaz,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přiložíme normální obvaz a pod ránu škrtidlo,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "postačí normální obvaz."
             }
         ]
@@ -8290,7 +8290,7 @@
                 "answer": "z rány můžeme vyjmout, pokud to jde volně; ránu poté ošetříme běžným způsobem,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "z rány pokaždé neprodleně vyjímáme, i když to nejde volně."
             }
         ]
@@ -8320,11 +8320,11 @@
                 "answer": "okamžité stavění krvácení stiskem prstu v ráně, pak si rozmyslíme další postup,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nejprve si dobře promyslet postup a připravit si pomůcky,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "dát poraněnému ve velkém množství pít a uložit ho do stabilizované polohy."
             }
         ]
@@ -8337,11 +8337,11 @@
                 "answer": "stlačením nosních dírek prsty a předklonem hlavy, případně přikládáním studených obkladů na zátylek,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "záklonem hlavy,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "uložením postiženého do vodorovné polohy."
             }
         ]
@@ -8371,11 +8371,11 @@
                 "answer": "uložíme poraněného do polohy na zádech nebo na bok, cítí-li se tak lépe,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "uložíme jej do polohy vsedě, dáváme pít podle žízně,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "uložíme jej do polohy na břiše."
             }
         ]
@@ -8405,11 +8405,11 @@
                 "answer": "dlahy přes oblečenou končetinu, se znehybněním sousedních kloubů,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "elastického obinadla v místě bolesti,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "elastického obinadla od prstů až k tříslu."
             }
         ]
@@ -8426,7 +8426,7 @@
                 "answer": "každý, kdo tak může učinit bez nebezpečí pro sebe nebo jiného,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "ten, kdo prošel jakýmkoli zdravotnickým školením."
             }
         ]
@@ -8456,11 +8456,11 @@
                 "answer": "poloprodyšný obvaz, poraněného uložíme do polohy v polosedě, sledujeme jeho stav,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "neprodyšný obvaz, poraněného uložíme na záda,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "neprodyšný obvaz, poraněného uložíme do polohy na bok poraněnou stranou nahoru."
             }
         ]
@@ -8477,7 +8477,7 @@
                 "answer": "na ránu přiložíme obvaz, případně vyhřezlé kličky střevní se nesnažíme nikdy vrátit zpět, poraněného uložíme v poloze na zádech s podloženými koleny, nesmí nic jíst ani pít,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "ránu obvážeme, poraněného uložíme v polosedě, dáváme mu pít podle žízně, ale nesmí nic jíst."
             }
         ]
@@ -8490,11 +8490,11 @@
                 "answer": "přiložíme tlakový obvaz, při větším tepenném krvácení zaškrtíme tepnu nad ránou,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "ránu omyjeme, vyjmeme kulku a obvážeme,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "ránu zaškrtíme nad ránou i pod ránou."
             }
         ]
@@ -8507,11 +8507,11 @@
                 "answer": "zastavit velké tepenné krvácení a uvolnit dýchací cesty,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "přivolat odbornou pomoc,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "zahájit umělé dýchání."
             }
         ]
@@ -8524,11 +8524,11 @@
                 "answer": "znehybňovala kloub nad a pod zlomeninou,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "sahala od zlomeniny ke kloubu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "znehybňovala celou končetinu."
             }
         ]
@@ -8562,7 +8562,7 @@
                 "answer": "ztráta hybnosti a citlivosti končetin,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "škubavé křeče dolních končetin."
             }
         ]
@@ -8579,7 +8579,7 @@
                 "answer": "tmavá a teče z rány bez pulzace,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "světlá a vytéká z rány bez tlaku."
             }
         ]
@@ -8596,7 +8596,7 @@
                 "answer": "resuscitaci nepřerušovat do příjezdu ZS, obnovení dýchání nebo vlastního vyčerpání,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "pravidelně kontrolovat puls a dech poraněného."
             }
         ]
@@ -8609,11 +8609,11 @@
                 "answer": "mýtem první pomoci - nemá žádný praktický význam a může být i škodlivá,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "na břiše, tlakem na břišní orgány se dostane krev do srdce,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "v polosedě s podloženou hlavou."
             }
         ]
@@ -8630,7 +8630,7 @@
                 "answer": "155,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "158."
             }
         ]
@@ -8647,7 +8647,7 @@
                 "answer": "nedojde-li k rychlé úpravě stavu,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "nikdy."
             }
         ]
@@ -8681,7 +8681,7 @@
                 "answer": "oko nedráždíme, úlomek nevyndáváme, obě oči překryjeme sterilním obvazem a postiženého dopravíme co nejrychleji k lékaři,"
             },
             {
-                "correct": true,
+                "correct": false,
                 "answer": "provedeme výplach oka a pokusíme se ostrým předmětem tento úlomek vyjmout."
             }
         ]
