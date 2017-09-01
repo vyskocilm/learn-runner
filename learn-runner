@@ -336,16 +336,22 @@ class LearnModel:
 def render_question (idx, question):
     print ("Otázka %d: %s" % (idx, question.question))
     print ("")
-    for i, a in enumerate (question.answers):
-        print ("%d. %s" % (i+1, a ["answer"]))
-    print ("")
 
-def read_answer (question):
+    sequence = [i for i in range (len (question.answers))]
+    random.shuffle (sequence)
+    for i, idx in enumerate (sequence):
+        print ("%d. %s" % (i+1, question.answers [idx]["answer"]))
+    print ("")
+    sequence_map = {i+1 : sequence [i] for i in range (len (question.answers))}
+    return sequence_map
+
+def read_answer (question, sequence_map):
+    print (sequence_map)
     max_answer = len (question.answers)
     prompt = "A (%s)> " % (",".join (str (i+1) for i in range (max_answer)))
     inp = input (prompt)
     inp.replace (',', ' ')
-    answers = (int(i)-1 for i in inp.split (' '))
+    answers = (sequence_map [int (i)] for i in inp.split (' '))
     return question.result (answers)
 
 def ask_question (idx, question):
@@ -354,8 +360,8 @@ def ask_question (idx, question):
     import time
     date = time.mktime (time.gmtime ())
     start = time.monotonic ()
-    render_question (idx, question)
-    result = read_answer (question)
+    sequence_map = render_question (idx, question)
+    result = read_answer (question, sequence_map)
     stop = time.monotonic ()
     if result == Fraction (1, 1):
         print ("Správně")
