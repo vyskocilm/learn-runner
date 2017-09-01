@@ -356,7 +356,7 @@ def render_question (idx, question, learn_mode):
 
 def read_answer (question, sequence_map):
     max_answer = len (question.answers)
-    prompt = "A (%s)> " % (",".join (str (i+1) for i in range (max_answer)))
+    prompt = "A (%s)> " % (" ".join (str (i+1) for i in range (max_answer)))
     inp = input (prompt)
     inp.replace (',', ' ')
     answers = (sequence_map [int (i)] for i in inp.split (' '))
