@@ -274,7 +274,7 @@ class LearnModel:
     __THRESHOLD__ = Fraction (9, 10)
     __REPEATS__ = 5
 
-    def __init__ (self, questions, stats, filter_class=QuestionFilter):
+    def __init__ (self, questions, stats, filter_class=QuestionFilter, verbose=False):
         
         # some configuration
         self._bucket_size = self.__class__.__BUCKET_SIZE__
@@ -282,6 +282,8 @@ class LearnModel:
         self._repeats = self.__class__.__REPEATS__
         self._filter = filter_class (threshold=self._threshold, repeats=self._repeats)
         self._bucket = list ()
+
+        self._verbose = verbose
 
         self._questions = questions
         self._stats = stats
@@ -324,7 +326,8 @@ class LearnModel:
     def next (self):
         """Return next idx, question, stats , can raise StopIteration"""
         idx = self._bucket [random.randrange (0, len (self._bucket))]
-        print ("D: LearnModel.next: self._bucket=%s, idx=%s" % (str (self._bucket), str (idx)), file=sys.stderr)
+        if self._verbose:
+            print ("D: LearnModel.next: self._bucket=%s, idx=%s" % (str (self._bucket), str (idx)), file=sys.stderr)
         return idx, self._questions [idx], self._stats [idx]
 
     def put (self, idx, qhistory):
