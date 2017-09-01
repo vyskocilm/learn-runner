@@ -306,7 +306,6 @@ class LearnModel:
         """Return next idx, question, stats , can raise StopIteration"""
         idx = self._bucket [random.randrange (0, len (self._bucket))]
         print ("D: LearnModel.next: self._bucket=%s, idx=%s" % (str (self._bucket), str (idx)), file=sys.stderr)
-        import pdb; pdb.set_trace ()
         return idx, self._questions [idx], self._stats [idx]
 
     def put (self, idx, qhistory):
