@@ -369,6 +369,10 @@ def ask_question (idx, question, learn_mode):
     date = time.mktime (time.gmtime ())
     start = time.monotonic ()
     sequence_map = render_question (idx, question, learn_mode)
+    if learn_mode:
+        input (" >")
+        return
+
     result = read_answer (question, sequence_map)
     stop = time.monotonic ()
     if result == Fraction (1, 1):
