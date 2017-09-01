@@ -333,20 +333,25 @@ class LearnModel:
         self._mkbucket ()
         return self
 
-def render_question (idx, question):
+def render_question (idx, question, learn_mode):
     print ("Otázka %d: %s" % (idx, question.question))
     print ("")
 
     sequence = [i for i in range (len (question.answers))]
     random.shuffle (sequence)
     for i, idx in enumerate (sequence):
-        print ("%d. %s" % (i+1, question.answers [idx]["answer"]))
+        prefix = ""
+        if learn_mode:
+            prefix = "*" if question.answers [idx]["correct"] else " "
+        print ("%s%d. %s" % (
+            prefix,
+            i+1,
+            question.answers [idx]["answer"]))
     print ("")
     sequence_map = {i+1 : sequence [i] for i in range (len (question.answers))}
     return sequence_map
 
 def read_answer (question, sequence_map):
-    print (sequence_map)
     max_answer = len (question.answers)
     prompt = "A (%s)> " % (",".join (str (i+1) for i in range (max_answer)))
     inp = input (prompt)
@@ -354,13 +359,13 @@ def read_answer (question, sequence_map):
     answers = (sequence_map [int (i)] for i in inp.split (' '))
     return question.result (answers)
 
-def ask_question (idx, question):
+def ask_question (idx, question, learn_mode):
     """ask question and return QuestionHistory"""
 
     import time
     date = time.mktime (time.gmtime ())
     start = time.monotonic ()
-    sequence_map = render_question (idx, question)
+    sequence_map = render_question (idx, question, learn_mode)
     result = read_answer (question, sequence_map)
     stop = time.monotonic ()
     if result == Fraction (1, 1):
@@ -375,6 +380,8 @@ def main (args):
 
     QUESTIONS = "otazky.json"
     STATS = "stats.json"
+
+    learn_mode = "--learn" in args
 
     model = None
     with open (QUESTIONS, "rt") as questions_fp:
@@ -394,11 +401,17 @@ def main (args):
             except StopIteration:
                 done = True
                 continue
-            qhistory = ask_question (idx, question)
+            qhistory = ask_question (idx, question, learn_mode)
             model.put (idx, qhistory)
     except KeyboardInterrupt:
         pass
 
+    # if we are in learning mode, we do not store stats, so can
+    # early soon
+    if learn_mode:
+        return
+
+    # save stats
     try:
         with open (STATS + ".work", "wt") as stats_fp:
             model.save (stats_fp)
