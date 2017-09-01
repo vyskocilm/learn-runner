@@ -134,6 +134,10 @@ class QuestionHistory:
 
         return Fraction (sum (i.rate for i in self._history), len (self._history))
 
+    def __len__ (self):
+        """Return number of attempts"""
+        return len (self._history)
+
 class Stats:
 
     def __init__ (self, stats):
@@ -252,16 +256,31 @@ def test_Stats ():
 
     assert stats == stats2
 
+class QuestionFilter:
+    """Check if we can skip the question from run or not. Decision is usually
+        made by historical statistics. In this case question must be answered
+        at least 5 times and have 90% succesfull rate"""
+
+    def __init__ (self, **kwargs):
+        self._threshold = kwargs ["threshold"]
+        self._repeats = kwargs ["repeats"]
+
+    def __call__ (self, stats):
+        return len (stats) > self._repeats and stats.result () >= self._threshold
+
 class LearnModel:
 
     __BUCKET_SIZE__ = 20
     __THRESHOLD__ = Fraction (9, 10)
+    __REPEATS__ = 5
 
-    def __init__ (self, questions, stats):
+    def __init__ (self, questions, stats, filter_class=QuestionFilter):
         
         # some configuration
         self._bucket_size = self.__class__.__BUCKET_SIZE__
         self._threshold = self.__class__.__THRESHOLD__
+        self._repeats = self.__class__.__REPEATS__
+        self._filter = filter_class (threshold=self._threshold, repeats=self._repeats)
         self._bucket = list ()
 
         self._questions = questions
@@ -274,13 +293,13 @@ class LearnModel:
         def result (idx):
             return self._stats [idx].result ()
 
-        bucketset = set (filter (lambda idx: result (idx) < self._threshold, self._bucket))
+        bucketset = set (filter (lambda idx: not self._filter (self._stats [idx]), self._bucket))
 
         stat_indices = iter (self._stats.keys ())
         while len (bucketset) < self._bucket_size:
             try:
                 idx = next (stat_indices)
-                if idx not in bucketset and result (idx) < self._threshold:
+                if idx not in bucketset and not self._filter (self._stats [idx]):
                     bucketset.add (idx)
             except StopIteration:
                 break
