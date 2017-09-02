@@ -437,6 +437,8 @@ def main (args):
                 done = True
                 continue
             qhistory = ask_question (idx, question, learn_mode)
+            if learn_mode:
+                continue
             model.put (idx, qhistory)
     except KeyboardInterrupt:
         pass
