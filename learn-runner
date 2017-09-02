@@ -337,7 +337,7 @@ class LearnModel:
         return self
 
 def render_question (idx, question, learn_mode):
-    print ("Otázka %d: %s" % (idx, question.question))
+    print ("Otázka %d: %s" % (idx + 1, question.question))
     print ("")
 
     sequence = [i for i in range (len (question.answers))]
