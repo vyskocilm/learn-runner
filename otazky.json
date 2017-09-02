@@ -8,7 +8,7 @@
             },
             {
                 "correct": false,
-                "answer": "zbraně\n a střelivo, které jsou nabývány do vlastnictví příslušníky aktivní \nzálohy ozbrojených sil České republiky, pokud tak rozhodne Ministerstvo \nobrany"
+                "answer": "zbraně a střelivo, které jsou nabývány do vlastnictví příslušníky aktivní zálohy ozbrojených sil České republiky, pokud tak rozhodne Ministerstvo obrany"
             },
             {
                 "correct": true,
@@ -21,11 +21,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "zbraně\n a střelivo, které jsou nabývány nebo drženy poskytovateli \nbezpečnostních služeb pověřenými zajišťováním fyzické ostrahy objektů \nústředních orgánů státní správy"
+                "answer": "zbraně a střelivo, které jsou nabývány nebo drženy poskytovateli bezpečnostních služeb pověřenými zajišťováním fyzické ostrahy objektů ústředních orgánů státní správy"
             },
             {
                 "correct": false,
-                "answer": "zbraně\n a střelivo, které jsou nabývány do vlastnictví příslušníky \nbezpečnostních sborů či strážníky obecní policie, pokud tak rozhodne \nMinisterstvo vnitra"
+                "answer": "zbraně a střelivo, které jsou nabývány do vlastnictví příslušníky bezpečnostních sborů či strážníky obecní policie, pokud tak rozhodne Ministerstvo vnitra"
             },
             {
                 "correct": true,
@@ -42,11 +42,11 @@
             },
             {
                 "correct": false,
-                "answer": "zbraně,\n střelivo a munici, které jsou určeny k certifikaci tuzemskými i \ncizozemskými subjekty působícími na úseku technické normalizace, \nmetrologie a státního zkušebnictví"
+                "answer": "zbraně, střelivo a munici, které jsou určeny k certifikaci tuzemskými i cizozemskými subjekty působícími na úseku technické normalizace, metrologie a státního zkušebnictví"
             },
             {
                 "correct": false,
-                "answer": "zbraně,\n střelivo a munici, které jsou z působnosti zákona o zbraních vyjmuty \nrozhodnutím Ministerstva vnitra. Toto rozhodnutí je podmíněné získáním \npředchozího souhlasného stanoviska Ministerstva průmyslu a obchodu a \nČeského úřadu pro zkoušení zbraní a střeliva"
+                "answer": "zbraně, střelivo a munici, které jsou z působnosti zákona o zbraních vyjmuty rozhodnutím Ministerstva vnitra. Toto rozhodnutí je podmíněné získáním předchozího souhlasného stanoviska Ministerstva průmyslu a obchodu a Českého úřadu pro zkoušení zbraní a střeliva"
             }
         ]
     },
@@ -55,15 +55,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "zbraně,\n střelivo a munici, které byly prohlášeny za veřejnou památku na základě\n rozhodnutí tuzemského nebo cizozemského orgánu státní památkové péče. \nToto rozhodnutí musí být dodatečně potvrzeno Ministerstvem vnitra"
+                "answer": "zbraně, střelivo a munici, které byly prohlášeny za veřejnou památku na základě rozhodnutí tuzemského nebo cizozemského orgánu státní památkové péče. Toto rozhodnutí musí být dodatečně potvrzeno Ministerstvem vnitra"
             },
             {
                 "correct": false,
-                "answer": "zbraně,\n střelivo a munici, které jsou na základě žádosti orgánu státní \npamátkové péče v příslušném rejstříku Ministerstva vnitra vedeny jako \nkulturně významné předměty"
+                "answer": "zbraně, střelivo a munici, které jsou na základě žádosti orgánu státní památkové péče v příslušném rejstříku Ministerstva vnitra vedeny jako kulturně významné předměty"
             },
             {
                 "correct": true,
-                "answer": "zbraně,\n střelivo a munici, které jsou kulturními památkami, součástí souboru \nprohlášeného za kulturní památku nebo sbírkovými předměty, které jsou ve\n vlastnictví státu, krajů nebo obcí"
+                "answer": "zbraně, střelivo a munici, které jsou kulturními památkami, součástí souboru prohlášeného za kulturní památku nebo sbírkovými předměty, které jsou ve vlastnictví státu, krajů nebo obcí"
             }
         ]
     },
@@ -76,7 +76,7 @@
             },
             {
                 "correct": false,
-                "answer": "zřizování\n a provozování střelnic obecní policií, pokud má být střelnice následně \nvyužívána pouze pro potřeby výcviku strážníků obecní policie"
+                "answer": "zřizování a provozování střelnic obecní policií, pokud má být střelnice následně využívána pouze pro potřeby výcviku strážníků obecní policie"
             },
             {
                 "correct": false,
@@ -106,7 +106,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "vztahuje\n se na tuto věc zákon o zbraních, a to počínaje dnem bezprostředně \nnásledujícím po dni, kdy bylo provedeno komisionální převzetí příjemcem \nči jeho pověřeným zástupcem"
+                "answer": "vztahuje se na tuto věc zákon o zbraních, a to počínaje dnem bezprostředně následujícím po dni, kdy bylo provedeno komisionální převzetí příjemcem či jeho pověřeným zástupcem"
             },
             {
                 "correct": true,
@@ -191,7 +191,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "se \nnepovažuje za nakládání se střelivem nebo municí podle zákona o \nzbraních, pokud Český báňský úřad na základě žádosti Ministerstva vnitra\n nerozhodne jinak"
+                "answer": "se nepovažuje za nakládání se střelivem nebo municí podle zákona o zbraních, pokud Český báňský úřad na základě žádosti Ministerstva vnitra nerozhodne jinak"
             },
             {
                 "correct": true,
@@ -199,7 +199,7 @@
             },
             {
                 "correct": false,
-                "answer": "se \npovažuje za nakládání se střelivem nebo municí podle zákona o zbraních \npouze tehdy, pokud tak rozhodne Český báňský úřad na základě žádosti \npříslušného útvaru policie"
+                "answer": "se považuje za nakládání se střelivem nebo municí podle zákona o zbraních pouze tehdy, pokud tak rozhodne Český báňský úřad na základě žádosti příslušného útvaru policie"
             }
         ]
     },
@@ -225,15 +225,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "zbraň \nnebo střelivo uvnitř bytových nebo provozních prostor nebo uvnitř \nzřetelně ohraničených nemovitostí s ověřeným písemným souhlasem \nvlastníka uvedených prostor nebo nemovitostí, nebo mít zbraň pokud možno\n nenabitou náboji v zásobníku, nábojové schránce, nábojové komoře hlavně\n nebo nábojových komorách válce revolveru a uloženou v uzavřeném pevném \nobalu splňujícím technické požadavky stanovené prováděcím právním \npředpisem, a to za účelem jejího přemístění z místa na místo"
+                "answer": "zbraň nebo střelivo uvnitř bytových nebo provozních prostor nebo uvnitř zřetelně ohraničených nemovitostí s ověřeným písemným souhlasem vlastníka uvedených prostor nebo nemovitostí, nebo mít zbraň pokud možno nenabitou náboji v zásobníku, nábojové schránce, nábojové komoře hlavně nebo nábojových komorách válce revolveru a uloženou v uzavřeném pevném obalu splňujícím technické požadavky stanovené prováděcím právním předpisem, a to za účelem jejího přemístění z místa na místo"
             },
             {
                 "correct": true,
-                "answer": "zbraň \nnebo střelivo uvnitř bytových nebo provozních prostor nebo uvnitř \nzřetelně ohraničených nemovitostí se souhlasem vlastníka nebo nájemce \nuvedených prostor nebo nemovitostí, nebo mít zbraň nenabitou náboji v \nzásobníku, nábojové schránce, nábojové komoře hlavně nebo nábojových \nkomorách válce revolveru a uloženou v uzavřeném obalu za účelem jejího \npřemístění z místa na místo"
+                "answer": "zbraň nebo střelivo uvnitř bytových nebo provozních prostor nebo uvnitř zřetelně ohraničených nemovitostí se souhlasem vlastníka nebo nájemce uvedených prostor nebo nemovitostí, nebo mít zbraň nenabitou náboji v zásobníku, nábojové schránce, nábojové komoře hlavně nebo nábojových komorách válce revolveru a uloženou v uzavřeném obalu za účelem jejího přemístění z místa na místo"
             },
             {
                 "correct": false,
-                "answer": "zbraň \nnebo střelivo uvnitř bytových nebo provozních prostor nebo uvnitř \nalespoň částečně ohraničených nemovitostí s písemným souhlasem vlastníka\n uvedených prostor nebo nemovitostí, nebo mít zbraň nabitou náboji v \nzásobníku, nábojové schránce, nábojové komoře hlavně nebo nábojových \nkomorách válce revolveru a uloženou v pevném obalu za účelem jejího \npřemístění z místa na místo"
+                "answer": "zbraň nebo střelivo uvnitř bytových nebo provozních prostor nebo uvnitř alespoň částečně ohraničených nemovitostí s písemným souhlasem vlastníka uvedených prostor nebo nemovitostí, nebo mít zbraň nabitou náboji v zásobníku, nábojové schránce, nábojové komoře hlavně nebo nábojových komorách válce revolveru a uloženou v pevném obalu za účelem jejího přemístění z místa na místo"
             }
         ]
     },
@@ -250,7 +250,7 @@
             },
             {
                 "correct": false,
-                "answer": "zbraň \nnebo střelivo uvnitř bytových nebo provozních prostor nebo uvnitř \nzřetelně ohraničených nemovitostí se souhlasem vlastníka nebo nájemce \nuvedených prostor nebo nemovitostí"
+                "answer": "zbraň nebo střelivo uvnitř bytových nebo provozních prostor nebo uvnitř zřetelně ohraničených nemovitostí se souhlasem vlastníka nebo nájemce uvedených prostor nebo nemovitostí"
             }
         ]
     },
@@ -259,7 +259,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "podstatné\n části zbraní, které svým rozhodnutím určí Ministerstvo vnitra ve \nspolupráci s Českým úřadem pro zkoušení zbraní a střeliva"
+                "answer": "podstatné části zbraní, které svým rozhodnutím určí Ministerstvo vnitra ve spolupráci s Českým úřadem pro zkoušení zbraní a střeliva"
             },
             {
                 "correct": false,
@@ -922,11 +922,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "krajské\n ředitelství policie příslušné podle místa, na jehož území se fyzická \nosoba převážně zdržuje, nebo podle místa, na jehož území je \nuskutečňována převážná část aktivit právnické osoby"
+                "answer": "krajské ředitelství policie příslušné podle místa, na jehož území se fyzická osoba převážně zdržuje, nebo podle místa, na jehož území je uskutečňována převážná část aktivit právnické osoby"
             },
             {
                 "correct": false,
-                "answer": "obvodní\n ředitelství policie příslušné podle místa, na jehož území se fyzická \nosoba převážně zdržuje, nebo podle sídla právnické osoby"
+                "answer": "obvodní ředitelství policie příslušné podle místa, na jehož území se fyzická osoba převážně zdržuje, nebo podle sídla právnické osoby"
             },
             {
                 "correct": true,
@@ -939,7 +939,7 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "uplynula\n doba, na kterou byla udělena, nebo ten, komu byla výjimka udělena, \npřestal být držitelem zbrojního průkazu skupiny A anebo C nebo zbrojní \nlicence skupiny A, F, G, H, I nebo J"
+                "answer": "uplynula doba, na kterou byla udělena, nebo ten, komu byla výjimka udělena, přestal být držitelem zbrojního průkazu skupiny A anebo C nebo zbrojní licence skupiny A, F, G, H, I nebo J"
             },
             {
                 "correct": false,
@@ -947,7 +947,7 @@
             },
             {
                 "correct": false,
-                "answer": "jestliže\n tak rozhodlo Ministerstvo vnitra, a to na základě žádosti podané \npříslušným krajským úřadem, na jehož katastrálním území je zbraň \nkategorie A přechovávána"
+                "answer": "jestliže tak rozhodlo Ministerstvo vnitra, a to na základě žádosti podané příslušným krajským úřadem, na jehož katastrálním území je zbraň kategorie A přechovávána"
             }
         ]
     },
@@ -1181,7 +1181,7 @@
             },
             {
                 "correct": false,
-                "answer": "tlumočníkem\n zapsaným v národní databázi členského státu Evropské unie nebo \nsmluvního státu Dohody o Evropském hospodářském prostoru"
+                "answer": "tlumočníkem zapsaným v národní databázi členského státu Evropské unie nebo smluvního státu Dohody o Evropském hospodářském prostoru"
             },
             {
                 "correct": true,
@@ -1211,11 +1211,11 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "držitel\n zbrojního průkazu příslušné skupiny nebo zbrojní licence příslušné \nskupiny, který je povinen nabytí vlastnictví této zbraně ohlásit \npříslušnému útvaru policie"
+                "answer": "držitel zbrojního průkazu příslušné skupiny nebo zbrojní licence příslušné skupiny, který je povinen nabytí vlastnictví této zbraně ohlásit příslušnému útvaru policie"
             },
             {
                 "correct": false,
-                "answer": "držitel\n průkazu zbraně nebo provozovatel střelnice, který je povinen nabytí \nvlastnictví této zbraně ohlásit příslušnému obecnímu úřadu"
+                "answer": "držitel průkazu zbraně nebo provozovatel střelnice, který je povinen nabytí vlastnictví této zbraně ohlásit příslušnému obecnímu úřadu"
             },
             {
                 "correct": false,
@@ -1262,15 +1262,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "jen na\n střelnici registrované u příslušného krajského úřadu; tato zbraň nemusí\n být označena platnou zkušební značkou podle zvláštního právního \npředpisu"
+                "answer": "jen na střelnici registrované u příslušného krajského úřadu; tato zbraň nemusí být označena platnou zkušební značkou podle zvláštního právního předpisu"
             },
             {
                 "correct": true,
-                "answer": "jen na\n střelnici, s výjimkou divadelních představení, rekonstrukcí \nhistorických bitev a jiných kulturních akcí, při nichž se ze zbraní \nnevystřelují střely; tato zbraň musí být označena platnou zkušební \nznačkou podle zvláštního právního předpisu"
+                "answer": "jen na střelnici, s výjimkou divadelních představení, rekonstrukcí historických bitev a jiných kulturních akcí, při nichž se ze zbraní nevystřelují střely; tato zbraň musí být označena platnou zkušební značkou podle zvláštního právního předpisu"
             },
             {
                 "correct": false,
-                "answer": "jen na\n místě povoleném příslušným obecním úřadem, kde by střelbou nemohlo \ndojít k ohrožení života nebo zdraví; tato zbraň nemusí být označena \nplatnou zkušební značkou"
+                "answer": "jen na místě povoleném příslušným obecním úřadem, kde by střelbou nemohlo dojít k ohrožení života nebo zdraví; tato zbraň nemusí být označena platnou zkušební značkou"
             }
         ]
     },
@@ -1296,11 +1296,11 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "nesmí \nzbraň nosit viditelně na veřejnosti nebo na místě veřejnosti přístupném,\n nejde-li o místo a účel uvedené v § 15 odstavcích 2 nebo 3 zákona o \nzbraních"
+                "answer": "nesmí zbraň nosit viditelně na veřejnosti nebo na místě veřejnosti přístupném, nejde-li o místo a účel uvedené v § 15 odstavcích 2 nebo 3 zákona o zbraních"
             },
             {
                 "correct": false,
-                "answer": "smí \nzbraň nosit viditelně na všech veřejnosti přístupných místech, na \nkterých není toto výslovně zakázáno rozhodnutím Ministerstva vnitra"
+                "answer": "smí zbraň nosit viditelně na všech veřejnosti přístupných místech, na kterých není toto výslovně zakázáno rozhodnutím Ministerstva vnitra"
             },
             {
                 "correct": false,
@@ -1317,11 +1317,11 @@
             },
             {
                 "correct": true,
-                "answer": "zbraň \nnosit nebo s ní na veřejnosti nebo na místě veřejnosti přístupném \njakkoliv manipulovat, pokud je jeho schopnost k této činnosti snížena \npožitím alkoholických nápojů, návykových látek, léků nebo v důsledku \nnemoci"
+                "answer": "zbraň nosit nebo s ní na veřejnosti nebo na místě veřejnosti přístupném jakkoliv manipulovat, pokud je jeho schopnost k této činnosti snížena požitím alkoholických nápojů, návykových látek, léků nebo v důsledku nemoci"
             },
             {
                 "correct": false,
-                "answer": "zbraň \nvlastnit a manipulovat s ní, pokud je jeho schopnost k této činnosti \nsnížena požitím návykových látek nebo v důsledku nemoci"
+                "answer": "zbraň vlastnit a manipulovat s ní, pokud je jeho schopnost k této činnosti snížena požitím návykových látek nebo v důsledku nemoci"
             }
         ]
     },
@@ -1330,15 +1330,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "nesmí \npřevést vlastnictví ke zbrani kategorie D nebo střelivo do ní na osobu, \nkterá k jejich držení není oprávněna, nebo je přenechat takové osobě"
+                "answer": "nesmí převést vlastnictví ke zbrani kategorie D nebo střelivo do ní na osobu, která k jejich držení není oprávněna, nebo je přenechat takové osobě"
             },
             {
                 "correct": false,
-                "answer": "může \npřevést vlastnictví ke zbrani kategorie D nebo střelivo do ní na osobu, \nkterá k jejich držení není oprávněna, a může je takové osobě přenechat"
+                "answer": "může převést vlastnictví ke zbrani kategorie D nebo střelivo do ní na osobu, která k jejich držení není oprávněna, a může je takové osobě přenechat"
             },
             {
                 "correct": false,
-                "answer": "nesmí \npřevést vlastnictví ke zbrani kategorie D nebo střelivo do ní na osobu, \nkterá k jejich držení není oprávněna, ale může je takové osobě \npřenechat"
+                "answer": "nesmí převést vlastnictví ke zbrani kategorie D nebo střelivo do ní na osobu, která k jejich držení není oprávněna, ale může je takové osobě přenechat"
             }
         ]
     },
@@ -1432,15 +1432,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "v \nposledních 5 letech před podáním žádosti nepřetržitě zdržoval více než \n12 měsíců mimo území České republiky. Cizozemské doklady se předkládají s\n překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v evropské\n databázi akreditovaných tlumočníků. Nemůže-li žadatel takové doklady \npředložit, protože mu je jiný stát nevydá, může požádat příslušný útvar \npolicie o prominutí tohoto požadavku"
+                "answer": "v posledních 5 letech před podáním žádosti nepřetržitě zdržoval více než 12 měsíců mimo území České republiky. Cizozemské doklady se předkládají s překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v evropské databázi akreditovaných tlumočníků. Nemůže-li žadatel takové doklady předložit, protože mu je jiný stát nevydá, může požádat příslušný útvar policie o prominutí tohoto požadavku"
             },
             {
                 "correct": true,
-                "answer": "v \nposledních 10 letech před podáním žádosti nepřetržitě zdržoval více než 6\n měsíců mimo území České republiky. Cizozemské doklady se předkládají s \npřekladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu \nznalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože\n mu je jiný stát nevydá, předloží čestné prohlášení ve smyslu § 17 odst.\n 3 zákona o zbraních"
+                "answer": "v posledních 10 letech před podáním žádosti nepřetržitě zdržoval více než 6 měsíců mimo území České republiky. Cizozemské doklady se předkládají s překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože mu je jiný stát nevydá, předloží čestné prohlášení ve smyslu § 17 odst. 3 zákona o zbraních"
             },
             {
                 "correct": false,
-                "answer": "v \nposledních 10 letech před podáním žádosti nepřetržitě zdržoval více než \n24 měsíců mimo území České republiky. Cizozemské doklady se předkládají s\n překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu \nznalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože\n mu je jiný stát nevydá, může požádat Ministerstvo vnitra o prominutí \ntohoto požadavku"
+                "answer": "v posledních 10 letech před podáním žádosti nepřetržitě zdržoval více než 24 měsíců mimo území České republiky. Cizozemské doklady se předkládají s překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože mu je jiný stát nevydá, může požádat Ministerstvo vnitra o prominutí tohoto požadavku"
             }
         ]
     },
@@ -1449,15 +1449,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "předchozí\n souhlas tohoto členského státu s vydáním zbrojního průkazu nebo \nprohlášení tohoto členského státu o tom, že předchozí souhlas není \nnezbytný, s překladem do jazyka českého, vyhotoveným tlumočníkem \nzapsaným v seznamu znalců a tlumočníků"
+                "answer": "předchozí souhlas tohoto členského státu s vydáním zbrojního průkazu nebo prohlášení tohoto členského státu o tom, že předchozí souhlas není nezbytný, s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků"
             },
             {
                 "correct": false,
-                "answer": "předchozí\n souhlas tohoto členského státu s vydáním zbrojního průkazu, pokud je k \ntomu vyzván příslušným útvarem policie. Souhlas je nutné předložit s \npřekladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v seznamu \nznalců a tlumočníků či v evropské databázi akreditovaných tlumočníků. \nPovinné obsahové náležitosti tohoto předchozího souhlasu stanoví \nprováděcí právní předpis"
+                "answer": "předchozí souhlas tohoto členského státu s vydáním zbrojního průkazu, pokud je k tomu vyzván příslušným útvarem policie. Souhlas je nutné předložit s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků či v evropské databázi akreditovaných tlumočníků. Povinné obsahové náležitosti tohoto předchozího souhlasu stanoví prováděcí právní předpis"
             },
             {
                 "correct": false,
-                "answer": "předchozí\n souhlas vystavený zastupitelským úřadem tohoto členského státu \nakreditovaným pro Českou republiku. Pokud je tento souhlas vystaven v \nanglickém jazyce a příslušný útvar policie nevznese námitky, není nutné \nzajišťovat překlad souhlasu do jazyka českého vyhotovený tlumočníkem \nzapsaným v seznamu znalců a tlumočníků"
+                "answer": "předchozí souhlas vystavený zastupitelským úřadem tohoto členského státu akreditovaným pro Českou republiku. Pokud je tento souhlas vystaven v anglickém jazyce a příslušný útvar policie nevznese námitky, není nutné zajišťovat překlad souhlasu do jazyka českého vyhotovený tlumočníkem zapsaným v seznamu znalců a tlumočníků"
             }
         ]
     },
@@ -1517,15 +1517,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "má \nmísto pobytu na území České republiky, dosáhla předepsaného věku, je \nzpůsobilá k právním úkonům, je zdravotně způsobilá, je odborně \nzpůsobilá, je bezúhonná a spolehlivá"
+                "answer": "má místo pobytu na území České republiky, dosáhla předepsaného věku, je způsobilá k právním úkonům, je zdravotně způsobilá, je odborně způsobilá, je bezúhonná a spolehlivá"
             },
             {
                 "correct": false,
-                "answer": "má \nmísto pobytu na území České republiky nebo na území jiného členského \nstátu Evropské unie, dosáhla předepsané věkové hranice trestní \nodpovědnosti, je odborně způsobilá, je bezúhonná a spolehlivá"
+                "answer": "má místo pobytu na území České republiky nebo na území jiného členského státu Evropské unie, dosáhla předepsané věkové hranice trestní odpovědnosti, je odborně způsobilá, je bezúhonná a spolehlivá"
             },
             {
                 "correct": false,
-                "answer": "v \nposledních 5 letech před podáním žádosti nepřetržitě pobývala na území \nČeské republiky, dosáhla předepsaného věku, je způsobilá k právním \núkonům, je zdravotně způsobilá a odborně způsobilá"
+                "answer": "v posledních 5 letech před podáním žádosti nepřetržitě pobývala na území České republiky, dosáhla předepsaného věku, je způsobilá k právním úkonům, je zdravotně způsobilá a odborně způsobilá"
             }
         ]
     },
@@ -1640,7 +1640,7 @@
             },
             {
                 "correct": true,
-                "answer": "poskytovatel\n pracovnělékařských služeb, jde-li o žadatele o vydání zbrojního průkazu\n skupiny D a držitele zbrojního průkazu skupiny D, který je zaměstnancem\n držitele zbrojní licence; žádá-li tento žadatel také o vydání zbrojního\n průkazu jiných skupin, je poskytovatel pracovnělékařských služeb \noprávněn posoudit zdravotní způsobilost žadatele také v rozsahu jiných \nskupin zbrojního průkazu"
+                "answer": "poskytovatel pracovnělékařských služeb, jde-li o žadatele o vydání zbrojního průkazu skupiny D a držitele zbrojního průkazu skupiny D, který je zaměstnancem držitele zbrojní licence; žádá-li tento žadatel také o vydání zbrojního průkazu jiných skupin, je poskytovatel pracovnělékařských služeb oprávněn posoudit zdravotní způsobilost žadatele také v rozsahu jiných skupin zbrojního průkazu"
             },
             {
                 "correct": false,
@@ -1657,11 +1657,11 @@
             },
             {
                 "correct": true,
-                "answer": "registrující\n poskytovatel se specializací v oboru praktické lékařství pro děti a \ndorost nebo v oboru všeobecné praktické lékařství, jde-li o žadatele o \nvydání zbrojního průkazu skupiny B nebo C, který je mladší než 19 let"
+                "answer": "registrující poskytovatel se specializací v oboru praktické lékařství pro děti a dorost nebo v oboru všeobecné praktické lékařství, jde-li o žadatele o vydání zbrojního průkazu skupiny B nebo C, který je mladší než 19 let"
             },
             {
                 "correct": false,
-                "answer": "v \npřípadě žadatele o vydání zbrojního průkazu skupiny B, který je mladší \nnež 15 let, ošetřující lékař na základě vyjádření školy, jejímž žákem je\n žadatel"
+                "answer": "v případě žadatele o vydání zbrojního průkazu skupiny B, který je mladší než 15 let, ošetřující lékař na základě vyjádření školy, jejímž žákem je žadatel"
             }
         ]
     },
@@ -1674,11 +1674,11 @@
             },
             {
                 "correct": false,
-                "answer": "praktický\n lékař nebo psychiatr, u kterého je žadatel o zbrojní průkaz nebo \ndržitel zbrojního průkazu v závodní preventivní péči nebo psychiatrické \npéči"
+                "answer": "praktický lékař nebo psychiatr, u kterého je žadatel o zbrojní průkaz nebo držitel zbrojního průkazu v závodní preventivní péči nebo psychiatrické péči"
             },
             {
                 "correct": true,
-                "answer": "lékař \nse specializovanou způsobilostí v oboru všeobecné praktické lékařství, v\n oboru praktické lékařství pro děti a dorost nebo v oboru pracovní \nlékařství"
+                "answer": "lékař se specializovanou způsobilostí v oboru všeobecné praktické lékařství, v oboru praktické lékařství pro děti a dorost nebo v oboru pracovní lékařství"
             }
         ]
     },
@@ -1704,7 +1704,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "zákona,\n jímž se provádí režim Evropských společenství pro kontrolu vývozu, \npřepravy, zprostředkování a tranzitu zboží dvojího užití"
+                "answer": "zákona, jímž se provádí režim Evropských společenství pro kontrolu vývozu, přepravy, zprostředkování a tranzitu zboží dvojího užití"
             },
             {
                 "correct": false,
@@ -1823,15 +1823,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "může \nžadatel o vydání zbrojního průkazu připojit k žádosti jako náhradu za \ndoklad o odborné způsobilosti vydávaný zkušebním komisařem dle § 21 \nodst. 1 zákona o zbraních"
+                "answer": "může žadatel o vydání zbrojního průkazu připojit k žádosti jako náhradu za doklad o odborné způsobilosti vydávaný zkušebním komisařem dle § 21 odst. 1 zákona o zbraních"
             },
             {
                 "correct": false,
-                "answer": "může \nžadatel o vydání zbrojního průkazu připojit k žádosti jako náhradu za \ndoklad o odborné způsobilosti vydávaný zkušebním komisařem dle § 21 \nodst. 1 zákona o zbraních pouze tehdy, pokud tak rozhodne příslušný \nútvar policie"
+                "answer": "může žadatel o vydání zbrojního průkazu připojit k žádosti jako náhradu za doklad o odborné způsobilosti vydávaný zkušebním komisařem dle § 21 odst. 1 zákona o zbraních pouze tehdy, pokud tak rozhodne příslušný útvar policie"
             },
             {
                 "correct": true,
-                "answer": "není v\n zákoně o zbraních uveden jako rovnocenná náhrada za doklad o odborné \nzpůsobilosti vydávaný zkušebním komisařem dle § 21 odst. 1 zákona o \nzbraních"
+                "answer": "není v zákoně o zbraních uveden jako rovnocenná náhrada za doklad o odborné způsobilosti vydávaný zkušebním komisařem dle § 21 odst. 1 zákona o zbraních"
             }
         ]
     },
@@ -1840,15 +1840,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "trestným\n činem uvedeným v § 22 odst. 1 zákona o zbraních nebo kdo byl v cizině \npravomocně uznán vinným činem, jehož znaky odpovídají znakům některého z\n trestných činů uvedených v § 22 odst. 1 zákona o zbraních"
+                "answer": "trestným činem uvedeným v § 22 odst. 1 zákona o zbraních nebo kdo byl v cizině pravomocně uznán vinným činem, jehož znaky odpovídají znakům některého z trestných činů uvedených v § 22 odst. 1 zákona o zbraních"
             },
             {
                 "correct": false,
-                "answer": "z \npřestupku na úseku zbraní a střeliva uvedeného v § 22 odst. 1 zákona o \nzbraních nebo kdo byl v cizině pravomocně uznán vinným činem, jehož \nznaky odpovídají znakům některého z přestupků uvedených v § 22 odst. 1 \nzákona o zbraních"
+                "answer": "z přestupku na úseku zbraní a střeliva uvedeného v § 22 odst. 1 zákona o zbraních nebo kdo byl v cizině pravomocně uznán vinným činem, jehož znaky odpovídají znakům některého z přestupků uvedených v § 22 odst. 1 zákona o zbraních"
             },
             {
                 "correct": false,
-                "answer": "z \njiného správního deliktu uvedeného v § 22 odst. 1 zákona o zbraních, \nnebo kdo byl v cizině pravomocně uznán vinným činem, jehož znaky \nodpovídají znakům některého z jiných správních deliktů uvedených v § 22 \nodst. 1 zákona o zbraních"
+                "answer": "z jiného správního deliktu uvedeného v § 22 odst. 1 zákona o zbraních, nebo kdo byl v cizině pravomocně uznán vinným činem, jehož znaky odpovídají znakům některého z jiných správních deliktů uvedených v § 22 odst. 1 zákona o zbraních"
             }
         ]
     },
@@ -1865,7 +1865,7 @@
             },
             {
                 "correct": false,
-                "answer": "připojí\n žadatel o vydání zbrojního průkazu k žádosti o jeho vydání písemný \nsouhlas opravňující příslušný útvar policie požádat o opis z evidence \nRejstříku trestů"
+                "answer": "připojí žadatel o vydání zbrojního průkazu k žádosti o jeho vydání písemný souhlas opravňující příslušný útvar policie požádat o opis z evidence Rejstříku trestů"
             }
         ]
     },
@@ -1933,7 +1933,7 @@
             },
             {
                 "correct": false,
-                "answer": "připojí\n žadatel o vydání zbrojního průkazu k žádosti o jeho vydání prohlášení o\n spolehlivosti vystavené příslušným obecním úřadem"
+                "answer": "připojí žadatel o vydání zbrojního průkazu k žádosti o jeho vydání prohlášení o spolehlivosti vystavené příslušným obecním úřadem"
             }
         ]
     },
@@ -1993,15 +1993,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "v době\n od vydání dosavadního zbrojního průkazu nepřetržitě zdržoval více než \n12 měsíců mimo území České republiky. Cizozemské doklady se předkládají s\n překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v evropské\n databázi akreditovaných tlumočníků. Nemůže-li žadatel takové doklady \npředložit, protože mu je jiný stát nevydá, může požádat příslušný útvar \npolicie o prominutí tohoto požadavku"
+                "answer": "v době od vydání dosavadního zbrojního průkazu nepřetržitě zdržoval více než 12 měsíců mimo území České republiky. Cizozemské doklady se předkládají s překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v evropské databázi akreditovaných tlumočníků. Nemůže-li žadatel takové doklady předložit, protože mu je jiný stát nevydá, může požádat příslušný útvar policie o prominutí tohoto požadavku"
             },
             {
                 "correct": true,
-                "answer": "v době\n od vydání dosavadního zbrojního průkazu nepřetržitě zdržoval více než 6\n měsíců mimo území České republiky. Cizozemské doklady se předkládají s \npřekladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu \nznalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože\n mu je jiný stát nevydá, předloží čestné prohlášení ve smyslu § 24 odst.\n 2 zákona o zbraních"
+                "answer": "v době od vydání dosavadního zbrojního průkazu nepřetržitě zdržoval více než 6 měsíců mimo území České republiky. Cizozemské doklady se předkládají s překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože mu je jiný stát nevydá, předloží čestné prohlášení ve smyslu § 24 odst. 2 zákona o zbraních"
             },
             {
                 "correct": false,
-                "answer": "v době\n od vydání dosavadního zbrojního průkazu nepřetržitě zdržoval více než \n24 měsíců mimo území České republiky. Cizozemské doklady se předkládají s\n překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu \nznalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože\n mu je jiný stát nevydá, může požádat Ministerstvo vnitra o prominutí \ntohoto požadavku"
+                "answer": "v době od vydání dosavadního zbrojního průkazu nepřetržitě zdržoval více než 24 měsíců mimo území České republiky. Cizozemské doklady se předkládají s překladem do jazyka českého vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků. Nemůže-li žadatel takové doklady předložit, protože mu je jiný stát nevydá, může požádat Ministerstvo vnitra o prominutí tohoto požadavku"
             }
         ]
     },
@@ -2014,11 +2014,11 @@
             },
             {
                 "correct": false,
-                "answer": "nebudou-li\n splněny podmínky osobnostní způsobilosti a bezkonfliktního \nspolečenského chování stanovené pro vydání zbrojního průkazu"
+                "answer": "nebudou-li splněny podmínky osobnostní způsobilosti a bezkonfliktního společenského chování stanovené pro vydání zbrojního průkazu"
             },
             {
                 "correct": false,
-                "answer": "nebude-li\n ke dni podání žádosti splněna podmínka společenské způsobilosti \nstanovená pro vydání zbrojního průkazu. Splnění podmínky zdravotní \nzpůsobilosti musí žadatel doložit pouze tehdy, pokud je k tomu písemně \nvyzván příslušným útvarem policie"
+                "answer": "nebude-li ke dni podání žádosti splněna podmínka společenské způsobilosti stanovená pro vydání zbrojního průkazu. Splnění podmínky zdravotní způsobilosti musí žadatel doložit pouze tehdy, pokud je k tomu písemně vyzván příslušným útvarem policie"
             }
         ]
     },
@@ -2027,15 +2027,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "doklad\n o odborné způsobilosti pro požadovanou skupinu, který nesmí být starší 1\n roku, posudek o zdravotní způsobilosti, který nesmí být starší 3 měsíců\n a 1 fotografii"
+                "answer": "doklad o odborné způsobilosti pro požadovanou skupinu, který nesmí být starší 1 roku, posudek o zdravotní způsobilosti, který nesmí být starší 3 měsíců a 1 fotografii"
             },
             {
                 "correct": false,
-                "answer": "doklad\n o odborné způsobilosti pro požadovanou skupinu, který nesmí být starší 3\n měsíců, posudek o zdravotní způsobilosti, který nesmí být starší 1 \nměsíce a 1 fotografii"
+                "answer": "doklad o odborné způsobilosti pro požadovanou skupinu, který nesmí být starší 3 měsíců, posudek o zdravotní způsobilosti, který nesmí být starší 1 měsíce a 1 fotografii"
             },
             {
                 "correct": false,
-                "answer": "doklad\n o odborné způsobilosti pro požadovanou skupinu, který nesmí být starší 1\n roku, posudek o zdravotní způsobilosti, který nesmí být starší 6 měsíců\n a 2 fotografie"
+                "answer": "doklad o odborné způsobilosti pro požadovanou skupinu, který nesmí být starší 1 roku, posudek o zdravotní způsobilosti, který nesmí být starší 6 měsíců a 2 fotografie"
             }
         ]
     },
@@ -2163,7 +2163,7 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "nemá \nodkladný účinek a držitel zbrojního průkazu je povinen zbrojní průkaz, \nprůkaz zbraně, zbraň, střelivo a zakázaný doplněk zbraně neprodleně \nodevzdat příslušnému útvaru policie"
+                "answer": "nemá odkladný účinek a držitel zbrojního průkazu je povinen zbrojní průkaz, průkaz zbraně, zbraň, střelivo a zakázaný doplněk zbraně neprodleně odevzdat příslušnému útvaru policie"
             },
             {
                 "correct": false,
@@ -2171,7 +2171,7 @@
             },
             {
                 "correct": false,
-                "answer": "má \nodkladný účinek a držitel zbrojního průkazu je povinen do 10 pracovních \ndní po dni nabytí právní moci rozhodnutí o odvolání odevzdat příslušnému\n útvaru policie zbraň kategorie A, B nebo C, a to ve stavu vylučujícím \nokamžité použití"
+                "answer": "má odkladný účinek a držitel zbrojního průkazu je povinen do 10 pracovních dní po dni nabytí právní moci rozhodnutí o odvolání odevzdat příslušnému útvaru policie zbraň kategorie A, B nebo C, a to ve stavu vylučujícím okamžité použití"
             }
         ]
     },
@@ -2265,15 +2265,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "držet \nzbraň kategorie D nebo E, na kterou má jeho zaměstnavatel vydán průkaz \nzbraně k účelům, pro které byla vydána zbrojní licence. K této zbrani je\n oprávněn držet střelivo"
+                "answer": "držet zbraň kategorie D nebo E, na kterou má jeho zaměstnavatel vydán průkaz zbraně k účelům, pro které byla vydána zbrojní licence. K této zbrani je oprávněn držet střelivo"
             },
             {
                 "correct": false,
-                "answer": "nosit \nzbraň kategorie B, D a E, na kterou má jeho zaměstnavatel vydán průkaz \nzbraně k účelům, pro které byla vydána zbrojní licence. K této zbrani je\n oprávněn nosit střelivo"
+                "answer": "nosit zbraň kategorie B, D a E, na kterou má jeho zaměstnavatel vydán průkaz zbraně k účelům, pro které byla vydána zbrojní licence. K této zbrani je oprávněn nosit střelivo"
             },
             {
                 "correct": true,
-                "answer": "nosit \nnebo držet zbraň kategorie A, B nebo C, na kterou má jeho zaměstnavatel \nvydán průkaz zbraně k účelům, pro které byla vydána zbrojní licence. K \ntéto zbrani je oprávněn držet nebo nosit i střelivo"
+                "answer": "nosit nebo držet zbraň kategorie A, B nebo C, na kterou má jeho zaměstnavatel vydán průkaz zbraně k účelům, pro které byla vydána zbrojní licence. K této zbrani je oprávněn držet nebo nosit i střelivo"
             }
         ]
     },
@@ -2299,15 +2299,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "nosit \nnejvíce 3 zbraně kategorie B nebo C a střelivo do těchto zbraní na \nveřejnosti nebo na místě veřejnosti přístupném; dlouhou zbraň a střelivo\n do této zbraně nesmí nosit viditelně"
+                "answer": "nosit nejvíce 3 zbraně kategorie B nebo C a střelivo do těchto zbraní na veřejnosti nebo na místě veřejnosti přístupném; dlouhou zbraň a střelivo do této zbraně nesmí nosit viditelně"
             },
             {
                 "correct": false,
-                "answer": "nosit \nnejvíce 3 zbraně kategorie A nebo C a střelivo do těchto zbraní na \nveřejnosti nebo na místě veřejnosti přístupném; zbraň a střelivo do této\n zbraně smí nosit viditelně, pokud tak rozhodne příslušný útvar policie"
+                "answer": "nosit nejvíce 3 zbraně kategorie A nebo C a střelivo do těchto zbraní na veřejnosti nebo na místě veřejnosti přístupném; zbraň a střelivo do této zbraně smí nosit viditelně, pokud tak rozhodne příslušný útvar policie"
             },
             {
                 "correct": true,
-                "answer": "nosit \nnejvíce 2 zbraně kategorie A, B nebo C a střelivo do těchto zbraní na \nveřejnosti nebo na místě veřejnosti přístupném; zbraň a střelivo do této\n zbraně nesmí nosit viditelně"
+                "answer": "nosit nejvíce 2 zbraně kategorie A, B nebo C a střelivo do těchto zbraní na veřejnosti nebo na místě veřejnosti přístupném; zbraň a střelivo do této zbraně nesmí nosit viditelně"
             }
         ]
     },
@@ -2333,11 +2333,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "zbraň \nkategorie B, na kterou mu byla udělena výjimka, zbraň kategorie C, na \nkterou mu bylo vydáno povolení, nebo zbraň kategorie D"
+                "answer": "zbraň kategorie B, na kterou mu byla udělena výjimka, zbraň kategorie C, na kterou mu bylo vydáno povolení, nebo zbraň kategorie D"
             },
             {
                 "correct": false,
-                "answer": "zbraň \nkategorie A, na kterou mu byla udělena výjimka, zbraň kategorie C, na \nkterou mu bylo vydáno povolení, nebo zbraň kategorie D"
+                "answer": "zbraň kategorie A, na kterou mu byla udělena výjimka, zbraň kategorie C, na kterou mu bylo vydáno povolení, nebo zbraň kategorie D"
             },
             {
                 "correct": true,
@@ -2354,11 +2354,11 @@
             },
             {
                 "correct": false,
-                "answer": "střelivo\n do zbraní kategorie A, B nebo C, které je oprávněn držet, a to po \npředložení zbrojního průkazu. Toto střelivo je oprávněn nosit, pokud tak\n rozhodne příslušný útvar policie"
+                "answer": "střelivo do zbraní kategorie A, B nebo C, které je oprávněn držet, a to po předložení zbrojního průkazu. Toto střelivo je oprávněn nosit, pokud tak rozhodne příslušný útvar policie"
             },
             {
                 "correct": true,
-                "answer": "střelivo\n pouze do zbraně, kterou je oprávněn držet, a to po předložení průkazu \nzbraně. Toto střelivo je oprávněn také držet nebo nosit"
+                "answer": "střelivo pouze do zbraně, kterou je oprávněn držet, a to po předložení průkazu zbraně. Toto střelivo je oprávněn také držet nebo nosit"
             }
         ]
     },
@@ -2375,7 +2375,7 @@
             },
             {
                 "correct": false,
-                "answer": "nosit \nnejvíce 3 zbraně a střelivo do těchto zbraní; zbraně a střelivo smí \nnosit viditelně, pokud tak rozhodne příslušný útvar policie"
+                "answer": "nosit nejvíce 3 zbraně a střelivo do těchto zbraní; zbraně a střelivo smí nosit viditelně, pokud tak rozhodne příslušný útvar policie"
             }
         ]
     },
@@ -2405,11 +2405,11 @@
             },
             {
                 "correct": false,
-                "answer": "smí ze\n zbraně, kterou je oprávněn držet, střílet pouze na střelnici \nregistrované u příslušného krajského úřadu nebo na místě, které bylo ke \nstřelbě schváleno příslušným obecním úřadem obce s rozšířenou \npůsobností, pokud se nejedná o použití zbraně k ochraně života, zdraví \nnebo majetku"
+                "answer": "smí ze zbraně, kterou je oprávněn držet, střílet pouze na střelnici registrované u příslušného krajského úřadu nebo na místě, které bylo ke střelbě schváleno příslušným obecním úřadem obce s rozšířenou působností, pokud se nejedná o použití zbraně k ochraně života, zdraví nebo majetku"
             },
             {
                 "correct": true,
-                "answer": "smí ze\n zbraně, kterou je oprávněn držet, střílet pouze v místech, kde je k \ntomu oprávněn podle zvláštního právního předpisu, nebo na střelnici, \npokud se nejedná o použití zbraně k ochraně života, zdraví nebo majetku"
+                "answer": "smí ze zbraně, kterou je oprávněn držet, střílet pouze v místech, kde je k tomu oprávněn podle zvláštního právního předpisu, nebo na střelnici, pokud se nejedná o použití zbraně k ochraně života, zdraví nebo majetku"
             }
         ]
     },
@@ -2418,7 +2418,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "zabezpečit\n zbrojní průkaz a doklad o odborné způsobilosti proti zneužití, ztrátě \nnebo odcizení, a to uložením do uzamykatelné ocelové schránky nebo \nocelové skříně"
+                "answer": "zabezpečit zbrojní průkaz a doklad o odborné způsobilosti proti zneužití, ztrátě nebo odcizení, a to uložením do uzamykatelné ocelové schránky nebo ocelové skříně"
             },
             {
                 "correct": true,
@@ -2426,7 +2426,7 @@
             },
             {
                 "correct": false,
-                "answer": "zabezpečit\n evropský zbrojní pas a zbrojní průkaz proti zneužití, poškození, ztrátě\n nebo odcizení, a to uložením do uzamykatelné ocelové skříně splňující \npožadavky stanovené prováděcím právním předpisem"
+                "answer": "zabezpečit evropský zbrojní pas a zbrojní průkaz proti zneužití, poškození, ztrátě nebo odcizení, a to uložením do uzamykatelné ocelové skříně splňující požadavky stanovené prováděcím právním předpisem"
             }
         ]
     },
@@ -2435,15 +2435,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "předložit\n na výzvu příslušného útvaru policie zbrojní průkaz, zbraň kategorie A, B\n nebo C, střelivo do této zbraně a příslušné doklady"
+                "answer": "předložit na výzvu příslušného útvaru policie zbrojní průkaz, zbraň kategorie A, B nebo C, střelivo do této zbraně a příslušné doklady"
             },
             {
                 "correct": false,
-                "answer": "předložit\n na výzvu Ministerstva vnitra nebo Českého úřadu pro zkoušení zbraní a \nstřeliva zbrojní průkaz, zbraň kategorie A, B nebo C, střelivo do této \nzbraně a příslušné doklady"
+                "answer": "předložit na výzvu Ministerstva vnitra nebo Českého úřadu pro zkoušení zbraní a střeliva zbrojní průkaz, zbraň kategorie A, B nebo C, střelivo do této zbraně a příslušné doklady"
             },
             {
                 "correct": false,
-                "answer": "předložit\n na výzvu příslušného útvaru policie zbrojní průkaz, zbraň kategorie A, B\n nebo D, střelivo do této zbraně a příslušné doklady ke kontrole, zda je\n používáno rážově odpovídající střelivo"
+                "answer": "předložit na výzvu příslušného útvaru policie zbrojní průkaz, zbraň kategorie A, B nebo D, střelivo do této zbraně a příslušné doklady ke kontrole, zda je používáno rážově odpovídající střelivo"
             }
         ]
     },
@@ -2452,15 +2452,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "neprodleně\n ohlásit kterémukoli útvaru policie ztrátu nebo odcizení zbraně \nkategorie A, B nebo C, střeliva do této zbraně, zbrojního průkazu nebo \nprůkazu zbraně; v případě ztráty nebo odcizení zbraně kategorie A, B \nnebo C odevzdat též průkaz zbraně"
+                "answer": "neprodleně ohlásit kterémukoli útvaru policie ztrátu nebo odcizení zbraně kategorie A, B nebo C, střeliva do této zbraně, zbrojního průkazu nebo průkazu zbraně; v případě ztráty nebo odcizení zbraně kategorie A, B nebo C odevzdat též průkaz zbraně"
             },
             {
                 "correct": false,
-                "answer": "neprodleně\n ohlásit příslušnému útvaru policie ztrátu nebo odcizení zbraně \nkategorie B, D nebo E, střeliva do této zbraně, zbrojního průkazu nebo \nprůkazu zbraně"
+                "answer": "neprodleně ohlásit příslušnému útvaru policie ztrátu nebo odcizení zbraně kategorie B, D nebo E, střeliva do této zbraně, zbrojního průkazu nebo průkazu zbraně"
             },
             {
                 "correct": false,
-                "answer": "neprodleně\n ohlásit kterémukoli útvaru policie poškození nebo odcizení zbraně \nkategorie A, D nebo E, střeliva do této zbraně, zbrojního průkazu nebo \nzbrojní licence"
+                "answer": "neprodleně ohlásit kterémukoli útvaru policie poškození nebo odcizení zbraně kategorie A, D nebo E, střeliva do této zbraně, zbrojního průkazu nebo zbrojní licence"
             }
         ]
     },
@@ -2503,15 +2503,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "do 5 \ndnů ode dne zániku jeho platnosti příslušnému útvaru policie; je-li \ndržitelem zbraně, střeliva nebo zakázaného doplňku zbraně, odevzdá je i s\n průkazem zbraně"
+                "answer": "do 5 dnů ode dne zániku jeho platnosti příslušnému útvaru policie; je-li držitelem zbraně, střeliva nebo zakázaného doplňku zbraně, odevzdá je i s průkazem zbraně"
             },
             {
                 "correct": true,
-                "answer": "do 10 \npracovních dnů ode dne zániku jeho platnosti příslušnému útvaru policie;\n je-li držitelem zbraně, střeliva nebo zakázaného doplňku zbraně, \nodevzdá je i s průkazem zbraně"
+                "answer": "do 10 pracovních dnů ode dne zániku jeho platnosti příslušnému útvaru policie; je-li držitelem zbraně, střeliva nebo zakázaného doplňku zbraně, odevzdá je i s průkazem zbraně"
             },
             {
                 "correct": false,
-                "answer": "do 30 \ndnů ode dne zániku jeho platnosti příslušnému útvaru policie; je-li \ndržitelem zbraně, střeliva nebo zakázaného doplňku zbraně, odevzdá je i s\n průkazem zbraně"
+                "answer": "do 30 dnů ode dne zániku jeho platnosti příslušnému útvaru policie; je-li držitelem zbraně, střeliva nebo zakázaného doplňku zbraně, odevzdá je i s průkazem zbraně"
             }
         ]
     },
@@ -2520,11 +2520,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "do 5 \npracovních dnů příslušnému útvaru policie změnu ráže zbraně, opravu nebo\n úpravu zbraně mající za následek změnu kategorie zbraně"
+                "answer": "do 5 pracovních dnů příslušnému útvaru policie změnu ráže zbraně, opravu nebo úpravu zbraně mající za následek změnu kategorie zbraně"
             },
             {
                 "correct": true,
-                "answer": "do 10 \npracovních dnů příslušnému útvaru policie změnu ráže zbraně, opravu nebo\n úpravu zbraně mající za následek změnu kategorie zbraně"
+                "answer": "do 10 pracovních dnů příslušnému útvaru policie změnu ráže zbraně, opravu nebo úpravu zbraně mající za následek změnu kategorie zbraně"
             },
             {
                 "correct": false,
@@ -2537,15 +2537,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "zaměstnance\n obecní policie orientační zkoušce, popřípadě lékařskému vyšetření ke \nzjištění, zda není pod vlivem alkoholu nebo jiné návykové látky"
+                "answer": "zaměstnance obecní policie orientační zkoušce, popřípadě lékařskému vyšetření ke zjištění, zda není pod vlivem alkoholu nebo jiné návykové látky"
             },
             {
                 "correct": false,
-                "answer": "pracovníka\n Ministerstva vnitra orientační zkoušce, popřípadě lékařskému vyšetření \nke zjištění, zda není pod vlivem alkoholu nebo jiné návykové látky"
+                "answer": "pracovníka Ministerstva vnitra orientační zkoušce, popřípadě lékařskému vyšetření ke zjištění, zda není pod vlivem alkoholu nebo jiné návykové látky"
             },
             {
                 "correct": true,
-                "answer": "příslušníka\n policie orientační zkoušce, popřípadě odbornému lékařskému vyšetření ke\n zjištění, zda není pod vlivem alkoholu nebo jiné návykové látky"
+                "answer": "příslušníka policie orientační zkoušce, popřípadě odbornému lékařskému vyšetření ke zjištění, zda není pod vlivem alkoholu nebo jiné návykové látky"
             }
         ]
     },
@@ -2588,15 +2588,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "ve \nlhůtě 2 měsíců přede dnem uplynutí 60 měsíců ode dne vydání zbrojního \nprůkazu. Vydaný posudek o zdravotní způsobilosti je povinen odevzdat \npříslušnému útvaru policie nejpozději ke dni uplynutí 60 měsíců ode dne \nvydání zbrojního průkazu"
+                "answer": "ve lhůtě 2 měsíců přede dnem uplynutí 60 měsíců ode dne vydání zbrojního průkazu. Vydaný posudek o zdravotní způsobilosti je povinen odevzdat příslušnému útvaru policie nejpozději ke dni uplynutí 60 měsíců ode dne vydání zbrojního průkazu"
             },
             {
                 "correct": false,
-                "answer": "ve \nlhůtě 4 měsíců přede dnem uplynutí 40 měsíců ode dne vydání zbrojního \nprůkazu. Vydaný posudek o zdravotní způsobilosti je povinen odevzdat \npříslušnému útvaru policie nejpozději ke dni uplynutí 40 měsíců ode dne \nvydání zbrojního průkazu"
+                "answer": "ve lhůtě 4 měsíců přede dnem uplynutí 40 měsíců ode dne vydání zbrojního průkazu. Vydaný posudek o zdravotní způsobilosti je povinen odevzdat příslušnému útvaru policie nejpozději ke dni uplynutí 40 měsíců ode dne vydání zbrojního průkazu"
             },
             {
                 "correct": false,
-                "answer": "ve \nlhůtě 3 měsíců přede dnem uplynutí 30 měsíců ode dne vydání zbrojního \nprůkazu. Vydaný posudek o zdravotní způsobilosti je povinen odevzdat \npříslušnému útvaru policie nejpozději ke dni uplynutí 30 měsíců ode dne \nvydání zbrojního průkazu"
+                "answer": "ve lhůtě 3 měsíců přede dnem uplynutí 30 měsíců ode dne vydání zbrojního průkazu. Vydaný posudek o zdravotní způsobilosti je povinen odevzdat příslušnému útvaru policie nejpozději ke dni uplynutí 30 měsíců ode dne vydání zbrojního průkazu"
             }
         ]
     },
@@ -2605,15 +2605,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "by \nneměl bez odpovídajícího důvodu nosit zbraň na veřejnosti nebo na místě \nveřejně přístupném, pokud je jeho schopnost k této činnosti snížena \npožitím alkoholických nápojů nebo jiných návykových látek nebo v \ndůsledku nemoci. Manipulovat s ní v tomto stavu na výše uvedených \nmístech může pouze za účelem bezpečného vybití zbraně, a to pod dohledem\n jiného držitele zbrojního průkazu"
+                "answer": "by neměl bez odpovídajícího důvodu nosit zbraň na veřejnosti nebo na místě veřejně přístupném, pokud je jeho schopnost k této činnosti snížena požitím alkoholických nápojů nebo jiných návykových látek nebo v důsledku nemoci. Manipulovat s ní v tomto stavu na výše uvedených místech může pouze za účelem bezpečného vybití zbraně, a to pod dohledem jiného držitele zbrojního průkazu"
             },
             {
                 "correct": true,
-                "answer": "nesmí \nnosit zbraň nebo s ní na veřejnosti nebo na místě veřejně přístupném \njakkoliv manipulovat, pokud je jeho schopnost k této činnosti snížena \npožitím alkoholických nápojů nebo jiných návykových látek, léků nebo v \ndůsledku nemoci"
+                "answer": "nesmí nosit zbraň nebo s ní na veřejnosti nebo na místě veřejně přístupném jakkoliv manipulovat, pokud je jeho schopnost k této činnosti snížena požitím alkoholických nápojů nebo jiných návykových látek, léků nebo v důsledku nemoci"
             },
             {
                 "correct": false,
-                "answer": "smí \nnosit zbraň nebo s ní na veřejnosti nebo na místě veřejně přístupném v \nmalém rozsahu manipulovat i tehdy, pokud je jeho schopnost k této \nčinnosti mírně snížena požitím alkoholických nápojů nebo jiných \nnávykových látek, léků nebo v důsledku nemoci"
+                "answer": "smí nosit zbraň nebo s ní na veřejnosti nebo na místě veřejně přístupném v malém rozsahu manipulovat i tehdy, pokud je jeho schopnost k této činnosti mírně snížena požitím alkoholických nápojů nebo jiných návykových látek, léků nebo v důsledku nemoci"
             }
         ]
     },
@@ -2647,7 +2647,7 @@
             },
             {
                 "correct": true,
-                "answer": "střílet\n ze zbraně, která není označena zkušební značkou, nebo používat \nstřelivo, které neodpovídá dovolenému výrobnímu provedení"
+                "answer": "střílet ze zbraně, která není označena zkušební značkou, nebo používat střelivo, které neodpovídá dovolenému výrobnímu provedení"
             }
         ]
     },
@@ -2660,11 +2660,11 @@
             },
             {
                 "correct": true,
-                "answer": "povinen\n přepravovat držené zbraně na místa, kde je oprávněn je nosit, pouze ve \nstavu vylučujícím jejich okamžité použití a v uzavřeném obalu"
+                "answer": "povinen přepravovat držené zbraně na místa, kde je oprávněn je nosit, pouze ve stavu vylučujícím jejich okamžité použití a v uzavřeném obalu"
             },
             {
                 "correct": false,
-                "answer": "povinen\n přepravovat držené zbraně na místa, kde je oprávněn je nosit, jen ve \nstavu nevylučujícím jejich okamžité použití; při této přepravě není \noprávněn používat dopravní prostředek veřejné hromadné dopravy"
+                "answer": "povinen přepravovat držené zbraně na místa, kde je oprávněn je nosit, jen ve stavu nevylučujícím jejich okamžité použití; při této přepravě není oprávněn používat dopravní prostředek veřejné hromadné dopravy"
             }
         ]
     },
@@ -2673,15 +2673,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "přepravovat\n drženou zbraň na místo, kde je oprávněn ji nosit, ve stavu \nnevylučujícím její okamžité použití; používá-li při této přepravě \ndopravní prostředek veřejné hromadné dopravy, není povinen tuto zbraň \npřepravovat v uzavřeném pevném obalu"
+                "answer": "přepravovat drženou zbraň na místo, kde je oprávněn ji nosit, ve stavu nevylučujícím její okamžité použití; používá-li při této přepravě dopravní prostředek veřejné hromadné dopravy, není povinen tuto zbraň přepravovat v uzavřeném pevném obalu"
             },
             {
                 "correct": true,
-                "answer": "přepravovat\n drženou zbraň na místo, kde je oprávněn ji nosit, pouze ve stavu \nvylučujícím její okamžité použití; používá-li při této přepravě dopravní\n prostředek veřejné hromadné dopravy, je povinen tuto zbraň přepravovat v\n uzavřeném obalu"
+                "answer": "přepravovat drženou zbraň na místo, kde je oprávněn ji nosit, pouze ve stavu vylučujícím její okamžité použití; používá-li při této přepravě dopravní prostředek veřejné hromadné dopravy, je povinen tuto zbraň přepravovat v uzavřeném obalu"
             },
             {
                 "correct": false,
-                "answer": "přepravovat\n nošenou zbraň na místo, kde je oprávněn ji nosit, pokud možno ve stavu \nznesnadňujícím její použití; při této přepravě není za žádných okolností\n oprávněn používat dopravní prostředek veřejné hromadné dopravy"
+                "answer": "přepravovat nošenou zbraň na místo, kde je oprávněn ji nosit, pokud možno ve stavu znesnadňujícím její použití; při této přepravě není za žádných okolností oprávněn používat dopravní prostředek veřejné hromadné dopravy"
             }
         ]
     },
@@ -2932,7 +2932,7 @@
             },
             {
                 "correct": false,
-                "answer": "podnikající\n i nepodnikající právnická osoba. Fyzická osoba může žádost podat pouze \nve výjimečných a odůvodněných případech, a to pouze pokud obdrží \npředběžný souhlas Ministerstva vnitra a Ministerstva průmyslu a obchodu"
+                "answer": "podnikající i nepodnikající právnická osoba. Fyzická osoba může žádost podat pouze ve výjimečných a odůvodněných případech, a to pouze pokud obdrží předběžný souhlas Ministerstva vnitra a Ministerstva průmyslu a obchodu"
             },
             {
                 "correct": true,
@@ -2953,7 +2953,7 @@
             },
             {
                 "correct": false,
-                "answer": "je \nžadatel povinen připojit k žádosti o vydání zbrojní licence pouze tehdy,\n pokud následně jako držitel zbrojní licence zamýšlí přechovávat více \nnež 100 kusů zbraní kategorie A, B nebo C nebo více než 200 000 kusů \nstřeliva do těchto zbraní"
+                "answer": "je žadatel povinen připojit k žádosti o vydání zbrojní licence pouze tehdy, pokud následně jako držitel zbrojní licence zamýšlí přechovávat více než 100 kusů zbraní kategorie A, B nebo C nebo více než 200 000 kusů střeliva do těchto zbraní"
             }
         ]
     },
@@ -3072,7 +3072,7 @@
             },
             {
                 "correct": false,
-                "answer": "zbrojního\n průkazu skupiny E, který je k držiteli zbrojní licence v pracovním, \nčlenském nebo obdobném poměru již nejméně 2 roky a dosáhl věku 30 let"
+                "answer": "zbrojního průkazu skupiny E, který je k držiteli zbrojní licence v pracovním, členském nebo obdobném poměru již nejméně 2 roky a dosáhl věku 30 let"
             }
         ]
     },
@@ -3081,15 +3081,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "do 5 \npracovních dnů ode dne zániku platnosti zbrojní licence zbraň, zakázaný \ndoplněk zbraně nebo střelivo a průkaz zbraně, je-li jejich držitelem"
+                "answer": "do 5 pracovních dnů ode dne zániku platnosti zbrojní licence zbraň, zakázaný doplněk zbraně nebo střelivo a průkaz zbraně, je-li jejich držitelem"
             },
             {
                 "correct": true,
-                "answer": "do 10 \npracovních dnů ode dne zániku platnosti zbrojní licence zbraň, zakázaný \ndoplněk zbraně nebo střelivo a průkaz zbraně, je-li jejich držitelem"
+                "answer": "do 10 pracovních dnů ode dne zániku platnosti zbrojní licence zbraň, zakázaný doplněk zbraně nebo střelivo a průkaz zbraně, je-li jejich držitelem"
             },
             {
                 "correct": false,
-                "answer": "do 15 \ndnů ode dne zániku platnosti zbrojní licence zbraň, zakázaný doplněk \nzbraně nebo střelivo a průkaz zbraně, je-li jejich držitelem"
+                "answer": "do 15 dnů ode dne zániku platnosti zbrojní licence zbraň, zakázaný doplněk zbraně nebo střelivo a průkaz zbraně, je-li jejich držitelem"
             }
         ]
     },
@@ -3098,7 +3098,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "10 \npracovních dnů od ukončení činnosti stávajícího zbrojíře a oznámit tuto \nzměnu do 5 pracovních dnů příslušnému útvaru policie. Příslušný útvar \npolicie může vůči nově jmenovanému zbrojíři vznést námitky a vyzvat k \njeho neprodlenému odvolání"
+                "answer": "10 pracovních dnů od ukončení činnosti stávajícího zbrojíře a oznámit tuto změnu do 5 pracovních dnů příslušnému útvaru policie. Příslušný útvar policie může vůči nově jmenovanému zbrojíři vznést námitky a vyzvat k jeho neprodlenému odvolání"
             },
             {
                 "correct": true,
@@ -3106,7 +3106,7 @@
             },
             {
                 "correct": false,
-                "answer": "15 \npracovních dnů od ukončení činnosti stávajícího zbrojíře a oznámit tuto \nzměnu do 10 pracovních dnů příslušnému útvaru policie. Zbrojířem nemůže \nbýt ustanovena osoba, která je k držiteli zbrojní licence v pracovním \npoměru"
+                "answer": "15 pracovních dnů od ukončení činnosti stávajícího zbrojíře a oznámit tuto změnu do 10 pracovních dnů příslušnému útvaru policie. Zbrojířem nemůže být ustanovena osoba, která je k držiteli zbrojní licence v pracovním poměru"
             }
         ]
     },
@@ -3132,15 +3132,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "kontrolovat,\n zda zbraň nebo střelivo nejsou používány k jiným účelům, než které jsou\n uvedeny ve zbrojní licenci, nebo zda nejsou používány osobami bez \nzbrojního průkazu příslušné skupiny"
+                "answer": "kontrolovat, zda zbraň nebo střelivo nejsou používány k jiným účelům, než které jsou uvedeny ve zbrojní licenci, nebo zda nejsou používány osobami bez zbrojního průkazu příslušné skupiny"
             },
             {
                 "correct": false,
-                "answer": "kontrolovat,\n zda zbraň nebo střelivo jsou používány zejména k účelům uvedeným ve \nzbrojní licenci a zda jsou používány osobami se zbrojním průkazem či s \nevropským zbrojním pasem"
+                "answer": "kontrolovat, zda zbraň nebo střelivo jsou používány zejména k účelům uvedeným ve zbrojní licenci a zda jsou používány osobami se zbrojním průkazem či s evropským zbrojním pasem"
             },
             {
                 "correct": false,
-                "answer": "kontrolovat,\n zda zbraň nebo střelivo jsou používány zejména k účelům uvedeným ve \nvnitřním předpisu a zda jsou používány osobami staršími 18 let s plnou \nzpůsobilostí k právním úkonům"
+                "answer": "kontrolovat, zda zbraň nebo střelivo jsou používány zejména k účelům uvedeným ve vnitřním předpisu a zda jsou používány osobami staršími 18 let s plnou způsobilostí k právním úkonům"
             }
         ]
     },
@@ -3149,15 +3149,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "zajistit\n nejméně jednou ročně provedení cvičné střelby u osoby, která bude zbraň\n nosit při výkonu zaměstnání nebo povolání; o provedených cvičných \nstřelbách vést evidenci"
+                "answer": "zajistit nejméně jednou ročně provedení cvičné střelby u osoby, která bude zbraň nosit při výkonu zaměstnání nebo povolání; o provedených cvičných střelbách vést evidenci"
             },
             {
                 "correct": false,
-                "answer": "zajistit\n nejméně jednou za dva roky provedení cvičné střelby u osoby, která bude\n zbraň nosit při výkonu zaměstnání nebo povolání; o provedených cvičných\n střelbách může vést pomocnou evidenci"
+                "answer": "zajistit nejméně jednou za dva roky provedení cvičné střelby u osoby, která bude zbraň nosit při výkonu zaměstnání nebo povolání; o provedených cvičných střelbách může vést pomocnou evidenci"
             },
             {
                 "correct": false,
-                "answer": "zajistit\n nejméně jednou měsíčně provedení cvičné střelby u osoby, která bude \nzbraň nosit při výkonu zaměstnání nebo povolání; o provedených cvičných \nstřelbách vede evidenci, pokud tak stanoví vnitřní předpis"
+                "answer": "zajistit nejméně jednou měsíčně provedení cvičné střelby u osoby, která bude zbraň nosit při výkonu zaměstnání nebo povolání; o provedených cvičných střelbách vede evidenci, pokud tak stanoví vnitřní předpis"
             }
         ]
     },
@@ -3183,15 +3183,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "vydat \nzbraň nebo střelivo pouze fyzické osobě, která je u držitele zbrojní \nlicence v pracovním poměru, a to pouze za předpokladu, že tato fyzická \nosoba je více než 5 let držitelem zbrojního průkazu skupiny D nebo E"
+                "answer": "vydat zbraň nebo střelivo pouze fyzické osobě, která je u držitele zbrojní licence v pracovním poměru, a to pouze za předpokladu, že tato fyzická osoba je více než 5 let držitelem zbrojního průkazu skupiny D nebo E"
             },
             {
                 "correct": true,
-                "answer": "vydat \nzbraň nebo střelivo pouze fyzické osobě, která je u držitele zbrojní \nlicence v pracovním, členském nebo obdobném poměru, a to pouze za \npředpokladu, že tato fyzická osoba je držitelem zbrojního průkazu \npříslušné skupiny a zbraň nebo střelivo používá pouze k účelu, který je \nuveden ve zbrojním průkazu"
+                "answer": "vydat zbraň nebo střelivo pouze fyzické osobě, která je u držitele zbrojní licence v pracovním, členském nebo obdobném poměru, a to pouze za předpokladu, že tato fyzická osoba je držitelem zbrojního průkazu příslušné skupiny a zbraň nebo střelivo používá pouze k účelu, který je uveden ve zbrojním průkazu"
             },
             {
                 "correct": false,
-                "answer": "vydat \nzbraň nebo střelivo pouze fyzické osobě, která je u držitele zbrojní \nlicence v pracovním nebo obdobném poměru, a to za předpokladu, že tato \nfyzická osoba je držitelem zbrojního průkazu skupiny E a úspěšně \nabsolvovala úvodní odborné školení k bezpečné manipulaci se zbraní a \nstřelivem, jehož obsahovou náplň stanoví zbrojíř vždy po předchozí \ndohodě s příslušným útvarem policie"
+                "answer": "vydat zbraň nebo střelivo pouze fyzické osobě, která je u držitele zbrojní licence v pracovním nebo obdobném poměru, a to za předpokladu, že tato fyzická osoba je držitelem zbrojního průkazu skupiny E a úspěšně absolvovala úvodní odborné školení k bezpečné manipulaci se zbraní a střelivem, jehož obsahovou náplň stanoví zbrojíř vždy po předchozí dohodě s příslušným útvarem policie"
             }
         ]
     },
@@ -3208,7 +3208,7 @@
             },
             {
                 "correct": false,
-                "answer": "mimořádný\n zástupce zbrojíře, jehož funkci musí vždy upravovat vnitřní předpis \ndržitele zbrojní licence. Povinnosti zbrojíře může mimořádný zástupce \nvykonávat nejdéle po dobu 3 měsíců"
+                "answer": "mimořádný zástupce zbrojíře, jehož funkci musí vždy upravovat vnitřní předpis držitele zbrojní licence. Povinnosti zbrojíře může mimořádný zástupce vykonávat nejdéle po dobu 3 měsíců"
             }
         ]
     },
@@ -3285,15 +3285,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "kategorie\n A, B nebo C, kterou fyzická nebo právnická osoba nabude do vlastnictví a\n není oprávněna ji podle zákona o zbraních vlastnit, držet nebo nosit"
+                "answer": "kategorie A, B nebo C, kterou fyzická nebo právnická osoba nabude do vlastnictví a není oprávněna ji podle zákona o zbraních vlastnit, držet nebo nosit"
             },
             {
                 "correct": false,
-                "answer": "kategorie\n B, C nebo D, kterou fyzická nebo právnická osoba nabude do vlastnictví a\n není oprávněna ji podle zákona o zbraních vlastnit, držet nebo nosit"
+                "answer": "kategorie B, C nebo D, kterou fyzická nebo právnická osoba nabude do vlastnictví a není oprávněna ji podle zákona o zbraních vlastnit, držet nebo nosit"
             },
             {
                 "correct": false,
-                "answer": "kategorie\n A, C nebo E, kterou fyzická nebo právnická osoba nabude do vlastnictví a\n není oprávněna ji podle zákona o zbraních vlastnit, držet nebo nosit"
+                "answer": "kategorie A, C nebo E, kterou fyzická nebo právnická osoba nabude do vlastnictví a není oprávněna ji podle zákona o zbraních vlastnit, držet nebo nosit"
             }
         ]
     },
@@ -3361,7 +3361,7 @@
             },
             {
                 "correct": false,
-                "answer": "jsou \nuvedeny v seznamu zbraní nepodléhajících registraci, který je vedený \nspolečně Ministerstvem vnitra a Ministerstvem průmyslu a obchodu"
+                "answer": "jsou uvedeny v seznamu zbraní nepodléhajících registraci, který je vedený společně Ministerstvem vnitra a Ministerstvem průmyslu a obchodu"
             }
         ]
     },
@@ -3404,15 +3404,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "souhlas\n příslušných státních orgánů země, do které se trvalý vývoz uskutečňuje,\n s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v \nseznamu znalců a tlumočníků"
+                "answer": "souhlas příslušných státních orgánů země, do které se trvalý vývoz uskutečňuje, s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v seznamu znalců a tlumočníků"
             },
             {
                 "correct": false,
-                "answer": "souhlas\n příslušných státních orgánů země, do které se trvalý vývoz uskutečňuje a\n v závislosti na konkrétní trase vývozu i souhlas příslušných státních \norgánů země, přes jejíž státní území bude trvalý vývoz uskutečněn, s \npřekladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v evropské\n databázi akreditovaných tlumočníků"
+                "answer": "souhlas příslušných státních orgánů země, do které se trvalý vývoz uskutečňuje a v závislosti na konkrétní trase vývozu i souhlas příslušných státních orgánů země, přes jejíž státní území bude trvalý vývoz uskutečněn, s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v evropské databázi akreditovaných tlumočníků"
             },
             {
                 "correct": false,
-                "answer": "souhlas\n příslušných státních orgánů země, do které se trvalý vývoz uskutečňuje,\n s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v \nevropské databázi akreditovaných tlumočníků"
+                "answer": "souhlas příslušných státních orgánů země, do které se trvalý vývoz uskutečňuje, s překladem do jazyka českého, vyhotoveným tlumočníkem zapsaným v evropské databázi akreditovaných tlumočníků"
             }
         ]
     },
@@ -3438,7 +3438,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "útvar \ncizinecké policie či útvar služby pro zbraně a bezpečnostní materiál, v \njehož obvodu se budou tito cizinci převážně zdržovat během jejich \nnávštěvy České republiky"
+                "answer": "útvar cizinecké policie či útvar služby pro zbraně a bezpečnostní materiál, v jehož obvodu se budou tito cizinci převážně zdržovat během jejich návštěvy České republiky"
             },
             {
                 "correct": false,
@@ -3446,7 +3446,7 @@
             },
             {
                 "correct": true,
-                "answer": "útvar \npolicie příslušný podle sídla provozovny podnikatele v oboru zbraní a \nstřeliva, u kterého zbraň kategorie A, B nebo C, nebo střelivo do této \nzbraně, bude zakoupena, nebo místa pobytu fyzické osoby nebo sídla \nprávnické osoby, která je dosavadním vlastníkem zbraně kategorie A, B \nnebo C nebo střeliva do této zbraně"
+                "answer": "útvar policie příslušný podle sídla provozovny podnikatele v oboru zbraní a střeliva, u kterého zbraň kategorie A, B nebo C, nebo střelivo do této zbraně, bude zakoupena, nebo místa pobytu fyzické osoby nebo sídla právnické osoby, která je dosavadním vlastníkem zbraně kategorie A, B nebo C nebo střeliva do této zbraně"
             }
         ]
     },
@@ -3463,7 +3463,7 @@
             },
             {
                 "correct": false,
-                "answer": "pokud \nve věci plánovaného trvalého vývozu zbraně nebo střeliva obdrží zamítavé\n stanovisko Úřadu pro zahraniční styky a informace"
+                "answer": "pokud ve věci plánovaného trvalého vývozu zbraně nebo střeliva obdrží zamítavé stanovisko Úřadu pro zahraniční styky a informace"
             }
         ]
     },
@@ -3472,15 +3472,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "vydává\n povolení Policejní prezidium České republiky na základě předchozího \nsouhlasného stanoviska věcně příslušného generálního ředitelství \nEvropské Komise. Postupuje přitom podle zákona o kontrole obchodu s \nvýrobky, jejichž držení se v České republice omezuje z bezpečnostních \ndůvodů"
+                "answer": "vydává povolení Policejní prezidium České republiky na základě předchozího souhlasného stanoviska věcně příslušného generálního ředitelství Evropské Komise. Postupuje přitom podle zákona o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů"
             },
             {
                 "correct": false,
-                "answer": "vydává\n povolení Ministerstvo vnitra postupem podle zákona o kontrole obchodu s\n výrobky, jejichž držení se v České republice omezuje z bezpečnostních \ndůvodů"
+                "answer": "vydává povolení Ministerstvo vnitra postupem podle zákona o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů"
             },
             {
                 "correct": true,
-                "answer": "vydává\n povolení Ministerstvo průmyslu a obchodu postupem podle zákona o \nkontrole obchodu s výrobky, jejichž držení se v České republice omezuje z\n bezpečnostních důvodů"
+                "answer": "vydává povolení Ministerstvo průmyslu a obchodu postupem podle zákona o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů"
             }
         ]
     },
@@ -3506,15 +3506,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "15 dnů\n ode dne překročení státních hranic České republiky oznámit dovoz zbraně\n kategorie A, B nebo C nebo střeliva do této zbraně příslušnému útvaru \npolicie a předložit ji ke kontrole"
+                "answer": "15 dnů ode dne překročení státních hranic České republiky oznámit dovoz zbraně kategorie A, B nebo C nebo střeliva do této zbraně příslušnému útvaru policie a předložit ji ke kontrole"
             },
             {
                 "correct": false,
-                "answer": "20 \npracovních dnů ode dne překročení státních hranic České republiky \noznámit dovoz zbraně kategorie A, B nebo C nebo střeliva do této zbraně \npříslušnému útvaru policie a předložit ji ke kontrole"
+                "answer": "20 pracovních dnů ode dne překročení státních hranic České republiky oznámit dovoz zbraně kategorie A, B nebo C nebo střeliva do této zbraně příslušnému útvaru policie a předložit ji ke kontrole"
             },
             {
                 "correct": true,
-                "answer": "10 dnů\n ode dne překročení státních hranic České republiky oznámit dovoz zbraně\n kategorie A, B nebo C nebo střeliva do této zbraně příslušnému útvaru \npolicie a předložit ji ke kontrole"
+                "answer": "10 dnů ode dne překročení státních hranic České republiky oznámit dovoz zbraně kategorie A, B nebo C nebo střeliva do této zbraně příslušnému útvaru policie a předložit ji ke kontrole"
             }
         ]
     },
@@ -3557,15 +3557,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "musí \ndržitel vydaného zbrojního průvodního listu pro trvalý dovoz zbraně nebo\n střeliva vrátit příslušnému útvaru policie nebo zastupitelskému úřadu \nČeské republiky, pokud nebyl využit nejpozději do 6 měsíců od jeho \nvydání"
+                "answer": "musí držitel vydaného zbrojního průvodního listu pro trvalý dovoz zbraně nebo střeliva vrátit příslušnému útvaru policie nebo zastupitelskému úřadu České republiky, pokud nebyl využit nejpozději do 6 měsíců od jeho vydání"
             },
             {
                 "correct": false,
-                "answer": "může \nbýt po dohodě s příslušným útvarem policie předán příslušným orgánům \nzemě, ze které se trvalý dovoz zbraně nebo střeliva má uskutečnit, ovšem\n pouze ve formě úředně ověřené kopie. Originál předchozího souhlasu \nnesmí trvale opustit území České republiky"
+                "answer": "může být po dohodě s příslušným útvarem policie předán příslušným orgánům země, ze které se trvalý dovoz zbraně nebo střeliva má uskutečnit, ovšem pouze ve formě úředně ověřené kopie. Originál předchozího souhlasu nesmí trvale opustit území České republiky"
             },
             {
                 "correct": true,
-                "answer": "může \nbýt využit dle potřeby držitele zbrojního průvodního listu pro trvalý \ndovoz zbraně nebo střeliva, tj. může být zejména předán příslušným \norgánům země, ze které se trvalý dovoz zbraně nebo střeliva má \nuskutečnit jako podklad pro vydání příslušného cizozemského vývozního \npovolení"
+                "answer": "může být využit dle potřeby držitele zbrojního průvodního listu pro trvalý dovoz zbraně nebo střeliva, tj. může být zejména předán příslušným orgánům země, ze které se trvalý dovoz zbraně nebo střeliva má uskutečnit jako podklad pro vydání příslušného cizozemského vývozního povolení"
             }
         ]
     },
@@ -3591,15 +3591,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "úředně\n ověřené pozvání uživatele honitby nebo pořadatele sportovní akce, pokud\n je účelem tranzitu zbraně nebo střeliva výkon práva myslivosti nebo \núčast na střeleckých soutěžích. V ostatních případech je povinen uvést \núčel tranzitu zbraní nebo střeliva"
+                "answer": "úředně ověřené pozvání uživatele honitby nebo pořadatele sportovní akce, pokud je účelem tranzitu zbraně nebo střeliva výkon práva myslivosti nebo účast na střeleckých soutěžích. V ostatních případech je povinen uvést účel tranzitu zbraní nebo střeliva"
             },
             {
                 "correct": false,
-                "answer": "pozvání\n uživatele honitby nebo pořadatele sportovní akce, pokud je účelem \ntranzitu zbraně nebo střeliva výkon práva myslivosti nebo účast na \nstřeleckých soutěžích. Pozvání nemusí být úředně ověřené, pokud \nplánovaná doba pobytu žadatele na území České republiky nepřekročí 2 \ndny. V ostatních případech tranzitu je žadatel povinen písemně doložit \núčel tranzitu zbraní nebo střeliva"
+                "answer": "pozvání uživatele honitby nebo pořadatele sportovní akce, pokud je účelem tranzitu zbraně nebo střeliva výkon práva myslivosti nebo účast na střeleckých soutěžích. Pozvání nemusí být úředně ověřené, pokud plánovaná doba pobytu žadatele na území České republiky nepřekročí 2 dny. V ostatních případech tranzitu je žadatel povinen písemně doložit účel tranzitu zbraní nebo střeliva"
             },
             {
                 "correct": false,
-                "answer": "čestné\n prohlášení prokazující účel tranzitu zbraní nebo střeliva. K žádosti \nžadatel předkládá rovněž písemné prohlášení o způsobu, jakým budou jeho \nzbraně a střelivo zabezpečeny během jeho pobytu na území České \nrepubliky"
+                "answer": "čestné prohlášení prokazující účel tranzitu zbraní nebo střeliva. K žádosti žadatel předkládá rovněž písemné prohlášení o způsobu, jakým budou jeho zbraně a střelivo zabezpečeny během jeho pobytu na území České republiky"
             }
         ]
     },
@@ -3625,15 +3625,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "lovec \nze státu Schengenského prostoru pro loveckou zbraň a střelivo kategorie C\n nebo sportovní střelec ze státu Schengenského prostoru pro sportovní \nzbraň kategorie B nebo C a střelivo do této zbraně, pokud jeho pobyt na \núzemí České republiky nepřekročí dobu 1 pracovního dne"
+                "answer": "lovec ze státu Schengenského prostoru pro loveckou zbraň a střelivo kategorie C nebo sportovní střelec ze státu Schengenského prostoru pro sportovní zbraň kategorie B nebo C a střelivo do této zbraně, pokud jeho pobyt na území České republiky nepřekročí dobu 1 pracovního dne"
             },
             {
                 "correct": true,
-                "answer": "lovec z\n členského státu pro loveckou zbraň a střelivo kategorie C nebo \nsportovní střelec z členského státu pro sportovní zbraň kategorie B nebo\n C a střelivo do této zbraně, pokud je držitelem evropského zbrojního \npasu, ve kterém má převáženou zbraň uvedenou, a pokud může uvést důvod \nsvé cesty, zejména předložením pozvání uživatele honitby nebo pořadatele\n sportovní akce"
+                "answer": "lovec z členského státu pro loveckou zbraň a střelivo kategorie C nebo sportovní střelec z členského státu pro sportovní zbraň kategorie B nebo C a střelivo do této zbraně, pokud je držitelem evropského zbrojního pasu, ve kterém má převáženou zbraň uvedenou, a pokud může uvést důvod své cesty, zejména předložením pozvání uživatele honitby nebo pořadatele sportovní akce"
             },
             {
                 "correct": false,
-                "answer": "lovec z\n členského státu Evropské unie pro loveckou zbraň a střelivo kategorie C\n nebo sportovní střelec z členského státu Evropské unie pro sportovní \nzbraň kategorie B nebo C a střelivo do této zbraně, pokud jeho pobyt na \núzemí České republiky nepřekročí dobu 2 dnů, nebude převážet více než 2 \nzbraně a 100 kusů střeliva pro tyto zbraně a pokud je držitelem úředně \nověřeného pozvání vystaveného uživatelem honitby nebo pořadatelem \nsportovní akce"
+                "answer": "lovec z členského státu Evropské unie pro loveckou zbraň a střelivo kategorie C nebo sportovní střelec z členského státu Evropské unie pro sportovní zbraň kategorie B nebo C a střelivo do této zbraně, pokud jeho pobyt na území České republiky nepřekročí dobu 2 dnů, nebude převážet více než 2 zbraně a 100 kusů střeliva pro tyto zbraně a pokud je držitelem úředně ověřeného pozvání vystaveného uživatelem honitby nebo pořadatelem sportovní akce"
             }
         ]
     },
@@ -3684,7 +3684,7 @@
             },
             {
                 "correct": false,
-                "answer": "má \nmísto pobytu na území České republiky nebo na území jiného členského \nstátu Evropské unie, je vlastníkem zbraně a v žádosti o vydání \nevropského zbrojního pasu uvede jako řádný důvod výkon práva myslivosti \nnebo účast na sportovních střeleckých soutěžích v zahraničí"
+                "answer": "má místo pobytu na území České republiky nebo na území jiného členského státu Evropské unie, je vlastníkem zbraně a v žádosti o vydání evropského zbrojního pasu uvede jako řádný důvod výkon práva myslivosti nebo účast na sportovních střeleckých soutěžích v zahraničí"
             }
         ]
     },
@@ -3761,15 +3761,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "10 \npracovních dnů ode dne zániku jeho platnosti odevzdat zbrojní průvodní \nlist kterémukoliv útvaru policie. A to včetně zbraně, zakázaného doplňku\n zbraně nebo střeliva, je-li jejich držitelem na základě tohoto dokladu"
+                "answer": "10 pracovních dnů ode dne zániku jeho platnosti odevzdat zbrojní průvodní list kterémukoliv útvaru policie. A to včetně zbraně, zakázaného doplňku zbraně nebo střeliva, je-li jejich držitelem na základě tohoto dokladu"
             },
             {
                 "correct": false,
-                "answer": "20 dnů\n ode dne zániku jeho platnosti zbrojní průvodní list odevzdat \nkterémukoliv útvaru policie nebo obecní policie. A to včetně zbraně, \nzakázaného doplňku zbraně nebo střeliva, je-li jejich držitelem na \nzákladě tohoto dokladu"
+                "answer": "20 dnů ode dne zániku jeho platnosti zbrojní průvodní list odevzdat kterémukoliv útvaru policie nebo obecní policie. A to včetně zbraně, zakázaného doplňku zbraně nebo střeliva, je-li jejich držitelem na základě tohoto dokladu"
             },
             {
                 "correct": false,
-                "answer": "15 \npracovních dnů ode dne zániku jeho platnosti zbrojní průvodní list \nodevzdat příslušnému útvaru policie nebo Ministerstvu vnitra. A to \nvčetně zbraně, zakázaného doplňku zbraně nebo střeliva, je-li jejich \ndržitelem na základě tohoto dokladu"
+                "answer": "15 pracovních dnů ode dne zániku jeho platnosti zbrojní průvodní list odevzdat příslušnému útvaru policie nebo Ministerstvu vnitra. A to včetně zbraně, zakázaného doplňku zbraně nebo střeliva, je-li jejich držitelem na základě tohoto dokladu"
             }
         ]
     },
@@ -3795,7 +3795,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "10 dnů\n od ukončení výkonu funkce dosavadního správce střelnice, příslušný \nútvar policie rozhodne mimo jiné o zastavení provozování střelnice"
+                "answer": "10 dnů od ukončení výkonu funkce dosavadního správce střelnice, příslušný útvar policie rozhodne mimo jiné o zastavení provozování střelnice"
             },
             {
                 "correct": false,
@@ -3803,7 +3803,7 @@
             },
             {
                 "correct": true,
-                "answer": "30 dnů\n od ukončení výkonu funkce dosavadního správce střelnice, příslušný \nútvar policie rozhodne o pozastavení provozování střelnice"
+                "answer": "30 dnů od ukončení výkonu funkce dosavadního správce střelnice, příslušný útvar policie rozhodne o pozastavení provozování střelnice"
             }
         ]
     },
@@ -3986,11 +3986,11 @@
             },
             {
                 "correct": true,
-                "answer": "byl \nodňat zbrojní průkaz nebo zbrojní licence a dosavadní držitel zbrojního \nprůkazu nebo zbrojní licence neodevzdal průkaz zbraně, zbraň, střelivo a\n zakázaný doplněk zbraně příslušnému útvaru policie"
+                "answer": "byl odňat zbrojní průkaz nebo zbrojní licence a dosavadní držitel zbrojního průkazu nebo zbrojní licence neodevzdal průkaz zbraně, zbraň, střelivo a zakázaný doplněk zbraně příslušnému útvaru policie"
             },
             {
                 "correct": false,
-                "answer": "držitel\n zbrojního průkazu v rozporu se zákonem o zbraních nosí současně se \nzbraní kategorie B nebo C střelivo, které přebila jiná osoba, která dané\n střelivo nepřebíjela výhradně pro svou potřebu"
+                "answer": "držitel zbrojního průkazu v rozporu se zákonem o zbraních nosí současně se zbraní kategorie B nebo C střelivo, které přebila jiná osoba, která dané střelivo nepřebíjela výhradně pro svou potřebu"
             }
         ]
     },
@@ -3999,15 +3999,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "je \npříslušník policie oprávněn vstoupit do obydlí, jiných prostor nebo na \npozemek, lze-li důvodně předpokládat, že se zde tyto věci nalézají, a \nzadržet je"
+                "answer": "je příslušník policie oprávněn vstoupit do obydlí, jiných prostor nebo na pozemek, lze-li důvodně předpokládat, že se zde tyto věci nalézají, a zadržet je"
             },
             {
                 "correct": false,
-                "answer": "příslušný\n útvar policie odejme zbrojní průkaz a současně rozhodne o zajištění \nzbraně kategorie A, B nebo C, střeliva do této zbraně a průkazu zbraně"
+                "answer": "příslušný útvar policie odejme zbrojní průkaz a současně rozhodne o zajištění zbraně kategorie A, B nebo C, střeliva do této zbraně a průkazu zbraně"
             },
             {
                 "correct": false,
-                "answer": "je \npříslušník policie oprávněn vstoupit do obydlí, jiných prostor nebo na \npozemek a provést zde domovní prohlídku, souhlas soudu s domovní \nprohlídkou lze v takovém případě nahradit souhlasem Ministerstva vnitra"
+                "answer": "je příslušník policie oprávněn vstoupit do obydlí, jiných prostor nebo na pozemek a provést zde domovní prohlídku, souhlas soudu s domovní prohlídkou lze v takovém případě nahradit souhlasem Ministerstva vnitra"
             }
         ]
     },
@@ -4016,15 +4016,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "příslušný\n útvar obecní policie, jestliže proti držiteli zbrojního průkazu nebo \nzbrojního průvodního listu bylo zahájeno správní řízení"
+                "answer": "příslušný útvar obecní policie, jestliže proti držiteli zbrojního průkazu nebo zbrojního průvodního listu bylo zahájeno správní řízení"
             },
             {
                 "correct": true,
-                "answer": "příslušný\n útvar policie, a to v případě věcí, které byly zadrženy, a v dané věci \nmá být vedeno řízení podle zákona o zbraních nebo podle zvláštního \nzákona"
+                "answer": "příslušný útvar policie, a to v případě věcí, které byly zadrženy, a v dané věci má být vedeno řízení podle zákona o zbraních nebo podle zvláštního zákona"
             },
             {
                 "correct": false,
-                "answer": "Policejní\n prezidium České republiky, jestliže proti držiteli zbrojního průkazu \nnebo zbrojního průvodního listu bylo zahájeno exekuční řízení"
+                "answer": "Policejní prezidium České republiky, jestliže proti držiteli zbrojního průkazu nebo zbrojního průvodního listu bylo zahájeno exekuční řízení"
             }
         ]
     },
@@ -4050,15 +4050,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "pokud \nby v budoucnu díky dalšímu skladování tohoto střeliva mohlo ze strany \njeho držitele dojít k porušení právních předpisů upravujících bezpečnost\n práce a ochranu životního prostředí. Náklady spojené s odstraněním \nstřeliva uhradí vždy příslušný útvar policie"
+                "answer": "pokud by v budoucnu díky dalšímu skladování tohoto střeliva mohlo ze strany jeho držitele dojít k porušení právních předpisů upravujících bezpečnost práce a ochranu životního prostředí. Náklady spojené s odstraněním střeliva uhradí vždy příslušný útvar policie"
             },
             {
                 "correct": true,
-                "answer": "je-li \nbezprostředně ohrožen život, zdraví nebo majetek nebo prohlásí-li \nvlastník střeliva, že ve lhůtě určené kontrolním orgánem pro odstranění \nstřeliva není schopen odstranění střeliva zajistit, nebo jej v určené \nlhůtě neodstraní. Příslušný útvar policie může držiteli střeliva, které \nbylo odstraněno, uložit povinnost uhradit náklady spojené s odstraněním \nstřeliva"
+                "answer": "je-li bezprostředně ohrožen život, zdraví nebo majetek nebo prohlásí-li vlastník střeliva, že ve lhůtě určené kontrolním orgánem pro odstranění střeliva není schopen odstranění střeliva zajistit, nebo jej v určené lhůtě neodstraní. Příslušný útvar policie může držiteli střeliva, které bylo odstraněno, uložit povinnost uhradit náklady spojené s odstraněním střeliva"
             },
             {
                 "correct": false,
-                "answer": "nelze-li\n v budoucnu díky dalšímu skladování střeliva zcela vyloučit ohrožení \nživotního prostředí, majetku či zdraví. Náklady spojené s odstraněním \nstřeliva uhradí vždy místně příslušný krajský úřad a držitel střeliva \nrovným dílem"
+                "answer": "nelze-li v budoucnu díky dalšímu skladování střeliva zcela vyloučit ohrožení životního prostředí, majetku či zdraví. Náklady spojené s odstraněním střeliva uhradí vždy místně příslušný krajský úřad a držitel střeliva rovným dílem"
             }
         ]
     },
@@ -4067,11 +4067,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "držitele\n muničního průkazu, zbrojní nebo muniční licence anebo zbrojního \nprůvodního listu pro trvalý vývoz zbraní nebo střeliva, který přepravu \nrealizuje"
+                "answer": "držitele muničního průkazu, zbrojní nebo muniční licence anebo zbrojního průvodního listu pro trvalý vývoz zbraní nebo střeliva, který přepravu realizuje"
             },
             {
                 "correct": true,
-                "answer": "držitele\n zbrojního průkazu nebo držitele zbrojního průvodního listu pro trvalý \nvývoz, dovoz nebo tranzit zbraní nebo střeliva, který přepravu \nrealizuje"
+                "answer": "držitele zbrojního průkazu nebo držitele zbrojního průvodního listu pro trvalý vývoz, dovoz nebo tranzit zbraní nebo střeliva, který přepravu realizuje"
             },
             {
                 "correct": false,
@@ -4101,7 +4101,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "se \nvždy zabezpečují uložením do uzamykatelné ocelové schránky nebo \nuzamykatelné ocelové skříně, pokud tato schránka nebo skříň splňují \ntechnické požadavky stanovené přímo použitelným předpisem Evropské unie"
+                "answer": "se vždy zabezpečují uložením do uzamykatelné ocelové schránky nebo uzamykatelné ocelové skříně, pokud tato schránka nebo skříň splňují technické požadavky stanovené přímo použitelným předpisem Evropské unie"
             },
             {
                 "correct": true,
@@ -4109,7 +4109,7 @@
             },
             {
                 "correct": false,
-                "answer": "je \njejich držitel povinen zabezpečit proti zneužití, ztrátě a odcizení dle \npodmínek stanovených prováděcím právním předpisem. Zabezpečit je \nuložením do uzamykatelné ocelové schránky nebo uzamykatelné ocelové \nskříně splňujícími technické požadavky stanovené přímo použitelným \npředpisem Evropské unie je držitel povinen pouze tehdy, pokud tak \nrozhodne příslušný útvar policie"
+                "answer": "je jejich držitel povinen zabezpečit proti zneužití, ztrátě a odcizení dle podmínek stanovených prováděcím právním předpisem. Zabezpečit je uložením do uzamykatelné ocelové schránky nebo uzamykatelné ocelové skříně splňujícími technické požadavky stanovené přímo použitelným předpisem Evropské unie je držitel povinen pouze tehdy, pokud tak rozhodne příslušný útvar policie"
             }
         ]
     },
@@ -4118,15 +4118,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "se \nzabezpečují uložením do uzamykatelné ocelové schránky nebo uzamykatelné \nocelové skříně nebo uzamykatelného skříňového trezoru, pokud tato \nschránka, skříň nebo trezor splňují technické požadavky stanovené přímo \npoužitelným předpisem Evropské unie"
+                "answer": "se zabezpečují uložením do uzamykatelné ocelové schránky nebo uzamykatelné ocelové skříně nebo uzamykatelného skříňového trezoru, pokud tato schránka, skříň nebo trezor splňují technické požadavky stanovené přímo použitelným předpisem Evropské unie"
             },
             {
                 "correct": false,
-                "answer": "se \nzabezpečují uložením do uzamykatelné schránky zhotovené z oceli či z \ntvrzených kompozitních materiálů nebo uzamykatelné ocelové skříně nebo \nzvláštního uzamčeného zařízení, pokud tato schránka, skříň nebo toto \nzařízení splňují technické požadavky stanovené přímo použitelným \npředpisem Evropské unie"
+                "answer": "se zabezpečují uložením do uzamykatelné schránky zhotovené z oceli či z tvrzených kompozitních materiálů nebo uzamykatelné ocelové skříně nebo zvláštního uzamčeného zařízení, pokud tato schránka, skříň nebo toto zařízení splňují technické požadavky stanovené přímo použitelným předpisem Evropské unie"
             },
             {
                 "correct": true,
-                "answer": "se \nzabezpečují uložením do uzamykatelné ocelové schránky nebo uzamykatelné \nocelové skříně nebo zvláštního uzamčeného zařízení, pokud tato schránka,\n skříň nebo toto zařízení splňují technické požadavky stanovené \nprováděcím právním předpisem. Toto se nevztahuje na přechovávané zbraně \nkategorie B nebo C v počtu do 2 kusů nebo střelivo v počtu do 500 \nnábojů, které je však jejich držitel povinen vhodně zabezpečit proti \nzneužití, ztrátě a odcizení"
+                "answer": "se zabezpečují uložením do uzamykatelné ocelové schránky nebo uzamykatelné ocelové skříně nebo zvláštního uzamčeného zařízení, pokud tato schránka, skříň nebo toto zařízení splňují technické požadavky stanovené prováděcím právním předpisem. Toto se nevztahuje na přechovávané zbraně kategorie B nebo C v počtu do 2 kusů nebo střelivo v počtu do 500 nábojů, které je však jejich držitel povinen vhodně zabezpečit proti zneužití, ztrátě a odcizení"
             }
         ]
     },
@@ -4135,15 +4135,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "se \nzabezpečují v uzamykatelném skříňovém trezoru, uzamčené místnosti nebo \nsamostatném objektu, pokud splňují technické požadavky stanovené \nprováděcím právním předpisem"
+                "answer": "se zabezpečují v uzamykatelném skříňovém trezoru, uzamčené místnosti nebo samostatném objektu, pokud splňují technické požadavky stanovené prováděcím právním předpisem"
             },
             {
                 "correct": false,
-                "answer": "se \nzabezpečují kromě jiného také v uzamykatelné ocelové skříni, \nuzamykatelném skříňovém trezoru, zvláštní místnosti nebo samostatném \nobjektu, pokud splňují technické požadavky stanovené přímo použitelným \npředpisem Evropské unie"
+                "answer": "se zabezpečují kromě jiného také v uzamykatelné ocelové skříni, uzamykatelném skříňovém trezoru, zvláštní místnosti nebo samostatném objektu, pokud splňují technické požadavky stanovené přímo použitelným předpisem Evropské unie"
             },
             {
                 "correct": false,
-                "answer": "se \nzabezpečují v uzamykatelné ocelové schránce, ocelové skříni, zvláštním \nuzamčeném zařízení, uzamykatelném skříňovém trezoru, zvláštní místnosti \nnebo samostatném objektu, pokud splňují technické požadavky stanovené \nČeským úřadem pro zkoušení zbraní a střeliva ve spolupráci s Úřadem pro \ntechnickou normalizaci, metrologii a státní zkušebnictví"
+                "answer": "se zabezpečují v uzamykatelné ocelové schránce, ocelové skříni, zvláštním uzamčeném zařízení, uzamykatelném skříňovém trezoru, zvláštní místnosti nebo samostatném objektu, pokud splňují technické požadavky stanovené Českým úřadem pro zkoušení zbraní a střeliva ve spolupráci s Úřadem pro technickou normalizaci, metrologii a státní zkušebnictví"
             }
         ]
     },
@@ -4152,15 +4152,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "se \nzabezpečují v uzamykatelné ocelové schránce, ocelové skříni, \nuzamykatelném skříňovém trezoru, zvláštní místnosti nebo samostatném \nobjektu, pokud splňují technické požadavky stanovené Českým úřadem pro \nzkoušení zbraní a střeliva ve spolupráci s Úřadem pro technickou \nnormalizaci, metrologii a státní zkušebnictví"
+                "answer": "se zabezpečují v uzamykatelné ocelové schránce, ocelové skříni, uzamykatelném skříňovém trezoru, zvláštní místnosti nebo samostatném objektu, pokud splňují technické požadavky stanovené Českým úřadem pro zkoušení zbraní a střeliva ve spolupráci s Úřadem pro technickou normalizaci, metrologii a státní zkušebnictví"
             },
             {
                 "correct": false,
-                "answer": "se \nzabezpečují v uzamykatelné ocelové skříni, uzamykatelném skříňovém \ntrezoru, zvláštní místnosti, pokud jsou chráněny elektronickým či \nmechanickým signalizačním zařízením a pokud splňují technické požadavky \nstanovené přímo použitelným předpisem Evropské unie"
+                "answer": "se zabezpečují v uzamykatelné ocelové skříni, uzamykatelném skříňovém trezoru, zvláštní místnosti, pokud jsou chráněny elektronickým či mechanickým signalizačním zařízením a pokud splňují technické požadavky stanovené přímo použitelným předpisem Evropské unie"
             },
             {
                 "correct": true,
-                "answer": "se \nzabezpečují v uzamčené místnosti, samostatném objektu nebo komorovém \ntrezoru, pokud jsou chráněny elektronickým zabezpečovacím zařízením a \npokud splňují technické požadavky stanovené prováděcím právním \npředpisem"
+                "answer": "se zabezpečují v uzamčené místnosti, samostatném objektu nebo komorovém trezoru, pokud jsou chráněny elektronickým zabezpečovacím zařízením a pokud splňují technické požadavky stanovené prováděcím právním předpisem"
             }
         ]
     },
@@ -4169,15 +4169,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "ochranném\n pouzdru ve stavu okamžitého použití, to znamená, že zbraň je nabita \nnáboji v zásobníku, nábojové schránce, nábojové komoře hlavně nebo v \nnábojových komorách válce revolveru"
+                "answer": "ochranném pouzdru ve stavu okamžitého použití, to znamená, že zbraň je nabita náboji v zásobníku, nábojové schránce, nábojové komoře hlavně nebo v nábojových komorách válce revolveru"
             },
             {
                 "correct": false,
-                "answer": "nabitém\n stavu, to znamená, že zbraň je nabita náboji v zásobníku, nábojové \nschránce, nábojové komoře hlavně nebo v nábojových komorách válce \nrevolveru"
+                "answer": "nabitém stavu, to znamená, že zbraň je nabita náboji v zásobníku, nábojové schránce, nábojové komoře hlavně nebo v nábojových komorách válce revolveru"
             },
             {
                 "correct": true,
-                "answer": "nenabitém\n stavu, to znamená, že zbraň není nabita náboji v zásobníku, nábojové \nschránce, nábojové komoře hlavně nebo v nábojových komorách válce \nrevolveru"
+                "answer": "nenabitém stavu, to znamená, že zbraň není nabita náboji v zásobníku, nábojové schránce, nábojové komoře hlavně nebo v nábojových komorách válce revolveru"
             }
         ]
     },
@@ -4220,15 +4220,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "mladší\n 15 let, nejméně ve věku 7 let, používat zbraň, avšak pouze za \npřítomnosti osoby starší 18 let, která je držitelem zbrojního průkazu \nskupiny B, popřípadě skupiny C nejméně 5 let a zajistí bezpečnou \nmanipulaci se zbraní a střelivem"
+                "answer": "mladší 15 let, nejméně ve věku 7 let, používat zbraň, avšak pouze za přítomnosti osoby starší 18 let, která je držitelem zbrojního průkazu skupiny B, popřípadě skupiny C nejméně 5 let a zajistí bezpečnou manipulaci se zbraní a střelivem"
             },
             {
                 "correct": false,
-                "answer": "mladší\n 16 let, nejméně ve věku 8 let, používat zbraň, avšak pouze za \npřítomnosti osoby starší 30 let, která je držitelem zbrojního průkazu \nskupiny B, popřípadě skupiny C nejméně 2 roky a zajistí bezpečnou \nmanipulaci se zbraní a střelivem"
+                "answer": "mladší 16 let, nejméně ve věku 8 let, používat zbraň, avšak pouze za přítomnosti osoby starší 30 let, která je držitelem zbrojního průkazu skupiny B, popřípadě skupiny C nejméně 2 roky a zajistí bezpečnou manipulaci se zbraní a střelivem"
             },
             {
                 "correct": true,
-                "answer": "mladší\n 18 let, nejméně ve věku 10 let, používat zbraň, avšak pouze za \npřítomnosti osoby starší 21 let, která je držitelem zbrojního průkazu \nskupiny B, popřípadě skupiny C nejméně 3 roky a zajistí bezpečnou \nmanipulaci se zbraní a střelivem"
+                "answer": "mladší 18 let, nejméně ve věku 10 let, používat zbraň, avšak pouze za přítomnosti osoby starší 21 let, která je držitelem zbrojního průkazu skupiny B, popřípadě skupiny C nejméně 3 roky a zajistí bezpečnou manipulaci se zbraní a střelivem"
             }
         ]
     },
@@ -4356,15 +4356,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "smí na\n veřejnosti nebo na místě veřejnosti přístupném nosit tuto zbraň \nviditelně; při nošení není povinen mít u sebe potvrzení o jejím \nznehodnocení"
+                "answer": "smí na veřejnosti nebo na místě veřejnosti přístupném nosit tuto zbraň viditelně; při nošení není povinen mít u sebe potvrzení o jejím znehodnocení"
             },
             {
                 "correct": false,
-                "answer": "nesmí \nna veřejnosti nebo na místě veřejnosti přístupném nosit tuto zbraň \nviditelně, pokud tak rozhodne příslušný útvar obecní policie; při nošení\n není povinen mít u sebe potvrzení o jejím znehodnocení"
+                "answer": "nesmí na veřejnosti nebo na místě veřejnosti přístupném nosit tuto zbraň viditelně, pokud tak rozhodne příslušný útvar obecní policie; při nošení není povinen mít u sebe potvrzení o jejím znehodnocení"
             },
             {
                 "correct": true,
-                "answer": "nesmí \nna veřejnosti nebo na místě veřejnosti přístupném nosit tuto zbraň \nviditelně; při nošení této zbraně je povinen mít u sebe potvrzení o \njejím znehodnocení"
+                "answer": "nesmí na veřejnosti nebo na místě veřejnosti přístupném nosit tuto zbraň viditelně; při nošení této zbraně je povinen mít u sebe potvrzení o jejím znehodnocení"
             }
         ]
     },
@@ -4424,15 +4424,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "povinen\n oznámit tuto skutečnost příslušnému útvaru policie nebo příslušnému \nútvaru obecní policie. Pokud se zbraň nebo střelivo původně vlastněné \nmrtvou osobou nacházejí v prostorách společné domácnosti, je oznamovatel\n povinen doručit je osobně či prostřednictvím poskytovatele poštovních \nslužeb bez zbytečného odkladu příslušnému útvaru policie nebo \npříslušnému útvaru obecní policie"
+                "answer": "povinen oznámit tuto skutečnost příslušnému útvaru policie nebo příslušnému útvaru obecní policie. Pokud se zbraň nebo střelivo původně vlastněné mrtvou osobou nacházejí v prostorách společné domácnosti, je oznamovatel povinen doručit je osobně či prostřednictvím poskytovatele poštovních služeb bez zbytečného odkladu příslušnému útvaru policie nebo příslušnému útvaru obecní policie"
             },
             {
                 "correct": true,
-                "answer": "povinen\n tuto skutečnost oznámit kterémukoli útvaru policie; to neplatí, pokud \nmu tato okolnost nebyla známa. O provedeném oznámení vydá policie \npotvrzení"
+                "answer": "povinen tuto skutečnost oznámit kterémukoli útvaru policie; to neplatí, pokud mu tato okolnost nebyla známa. O provedeném oznámení vydá policie potvrzení"
             },
             {
                 "correct": false,
-                "answer": "je \npovinen oznámit tuto skutečnost příslušnému útvaru policie nebo \npříslušnému obecnímu úřadu na předepsaném tiskopise, jehož vzor stanoví \nprováděcí právní předpis. Pokud se zbraň nebo střelivo původně vlastněné\n mrtvou osobou nacházejí v prostorách společné domácnosti, je \noznamovatel povinen doručit je neprodleně osobně příslušnému útvaru \npolicie nebo obecnímu úřadu"
+                "answer": "je povinen oznámit tuto skutečnost příslušnému útvaru policie nebo příslušnému obecnímu úřadu na předepsaném tiskopise, jehož vzor stanoví prováděcí právní předpis. Pokud se zbraň nebo střelivo původně vlastněné mrtvou osobou nacházejí v prostorách společné domácnosti, je oznamovatel povinen doručit je neprodleně osobně příslušnému útvaru policie nebo obecnímu úřadu"
             }
         ]
     },
@@ -4441,15 +4441,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "4 \nměsíců ode dne, kdy rozhodnutí soudu o dědictví nabylo právní moci, \npožádat o vydání zbrojního průkazu, zbrojní licence, popřípadě o udělení\n výjimky, vydání povolení nebo zbrojního průvodního listu"
+                "answer": "4 měsíců ode dne, kdy rozhodnutí soudu o dědictví nabylo právní moci, požádat o vydání zbrojního průkazu, zbrojní licence, popřípadě o udělení výjimky, vydání povolení nebo zbrojního průvodního listu"
             },
             {
                 "correct": true,
-                "answer": "2 \nměsíců ode dne, kdy rozhodnutí soudu o dědictví nabylo právní moci, \npožádat o vydání zbrojního průkazu, zbrojní licence, popřípadě o udělení\n výjimky, vydání povolení nebo zbrojního průvodního listu"
+                "answer": "2 měsíců ode dne, kdy rozhodnutí soudu o dědictví nabylo právní moci, požádat o vydání zbrojního průkazu, zbrojní licence, popřípadě o udělení výjimky, vydání povolení nebo zbrojního průvodního listu"
             },
             {
                 "correct": false,
-                "answer": "10 \nměsíců ode dne, kdy rozhodnutí soudu o dědictví nabylo právní moci, \npožádat o vydání zbrojního průkazu, zbrojní licence, popřípadě o udělení\n výjimky, vydání povolení nebo zbrojního průvodního listu"
+                "answer": "10 měsíců ode dne, kdy rozhodnutí soudu o dědictví nabylo právní moci, požádat o vydání zbrojního průkazu, zbrojní licence, popřípadě o udělení výjimky, vydání povolení nebo zbrojního průvodního listu"
             }
         ]
     },
@@ -4458,7 +4458,7 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "neprodleně\n oznámit jejich nález nejbližšímu příslušníkovi policie nebo útvaru \npolicie nebo obecnímu úřadu, který toto oznámení předá nejbližšímu \nútvaru policie"
+                "answer": "neprodleně oznámit jejich nález nejbližšímu příslušníkovi policie nebo útvaru policie nebo obecnímu úřadu, který toto oznámení předá nejbližšímu útvaru policie"
             },
             {
                 "correct": false,
@@ -4466,7 +4466,7 @@
             },
             {
                 "correct": false,
-                "answer": "nejpozději\n do 12 hodin od okamžiku nálezu oznámit jejich nález strážníkovi obecní \npolicie, zaměstnanci policie nebo krajskému úřadu"
+                "answer": "nejpozději do 12 hodin od okamžiku nálezu oznámit jejich nález strážníkovi obecní policie, zaměstnanci policie nebo krajskému úřadu"
             }
         ]
     },
@@ -4475,11 +4475,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "nejpozději\n do 48 hodin od okamžiku nálezu zaměstnanci policie nebo strážníkovi \nobecní policie, který je předá nejbližšímu útvaru policie"
+                "answer": "nejpozději do 48 hodin od okamžiku nálezu zaměstnanci policie nebo strážníkovi obecní policie, který je předá nejbližšímu útvaru policie"
             },
             {
                 "correct": false,
-                "answer": "nejpozději\n do 12 hodin od okamžiku nálezu zaměstnanci policie, pracovníkovi \nMinisterstva vnitra nebo strážníkovi obecní policie, který je předá \nnejbližšímu útvaru policie"
+                "answer": "nejpozději do 12 hodin od okamžiku nálezu zaměstnanci policie, pracovníkovi Ministerstva vnitra nebo strážníkovi obecní policie, který je předá nejbližšímu útvaru policie"
             },
             {
                 "correct": true,
@@ -4526,11 +4526,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "je \nnutné respektovat obecně závazné pokyny pro manipulaci vydávané Český \nbáňským úřadem ve spolupráci s Ministerstvem vnitra a Českým úřadem pro \nzkoušení zbraní a střeliva, přitom je nutné dbát základní opatrnosti"
+                "answer": "je nutné respektovat obecně závazné pokyny pro manipulaci vydávané Český báňským úřadem ve spolupráci s Ministerstvem vnitra a Českým úřadem pro zkoušení zbraní a střeliva, přitom je nutné dbát základní opatrnosti"
             },
             {
                 "correct": false,
-                "answer": "musí \nkaždý dbát doporučujících pokynů pro manipulaci vydávaných Českým úřadem\n pro zkoušení zbraní a střeliva, přitom by nemělo být ve zvýšené míře \nohroženo životní prostředí"
+                "answer": "musí každý dbát doporučujících pokynů pro manipulaci vydávaných Českým úřadem pro zkoušení zbraní a střeliva, přitom by nemělo být ve zvýšené míře ohroženo životní prostředí"
             },
             {
                 "correct": true,
@@ -4543,11 +4543,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "nejvýše\n celkem 5 kg černého loveckého prachu a bezdýmného prachu a 5 000 \nzápalek. Zákon upravující nakládání s výbušninami se na nakládání s \nčerným loveckým prachem, bezdýmným prachem a zápalkami nejvýše v \nmnožství uvedeném v předchozí větě nepoužije, pokud tak nerozhodne \npříslušný útvar policie po dohodě s Českým báňským úřadem"
+                "answer": "nejvýše celkem 5 kg černého loveckého prachu a bezdýmného prachu a 5 000 zápalek. Zákon upravující nakládání s výbušninami se na nakládání s černým loveckým prachem, bezdýmným prachem a zápalkami nejvýše v množství uvedeném v předchozí větě nepoužije, pokud tak nerozhodne příslušný útvar policie po dohodě s Českým báňským úřadem"
             },
             {
                 "correct": true,
-                "answer": "nejvýše\n celkem 3 kg černého loveckého prachu a bezdýmného prachu a 10 000 \nzápalek. Zákon upravující nakládání s výbušninami se na nakládání s \nčerným loveckým prachem, bezdýmným prachem a zápalkami nejvýše v \nmnožství uvedeném v předchozí větě nepoužije"
+                "answer": "nejvýše celkem 3 kg černého loveckého prachu a bezdýmného prachu a 10 000 zápalek. Zákon upravující nakládání s výbušninami se na nakládání s černým loveckým prachem, bezdýmným prachem a zápalkami nejvýše v množství uvedeném v předchozí větě nepoužije"
             },
             {
                 "correct": false,
@@ -4564,11 +4564,11 @@
             },
             {
                 "correct": false,
-                "answer": "svým \nrozhodnutím příslušný útvar policie po dohodě s Českým báňským úřadem. \nPříslušný útvar policie stanoví rovněž prostory, ve kterých se černý \nlovecký prach, bezdýmný prach a zápalky skladovat nesmí"
+                "answer": "svým rozhodnutím příslušný útvar policie po dohodě s Českým báňským úřadem. Příslušný útvar policie stanoví rovněž prostory, ve kterých se černý lovecký prach, bezdýmný prach a zápalky skladovat nesmí"
             },
             {
                 "correct": false,
-                "answer": "obecně\n závaznou směrnicí Český úřad pro zkoušení zbraní a střeliva po dohodě s\n Českým báňským úřadem. Český úřad pro zkoušení zbraní a střeliva \nstanoví rovněž prostory, ve kterých se černý lovecký prach, bezdýmný \nprach a zápalky skladovat nesmí"
+                "answer": "obecně závaznou směrnicí Český úřad pro zkoušení zbraní a střeliva po dohodě s Českým báňským úřadem. Český úřad pro zkoušení zbraní a střeliva stanoví rovněž prostory, ve kterých se černý lovecký prach, bezdýmný prach a zápalky skladovat nesmí"
             }
         ]
     },
@@ -4577,15 +4577,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "držitel\n osvědčení o získání zvláštní odborné způsobilosti pro oblast samostatné\n manipulace se střelivem, které po úspěšném absolvování odborného kurzu \nvydává Ministerstvo vnitra"
+                "answer": "držitel osvědčení o získání zvláštní odborné způsobilosti pro oblast samostatné manipulace se střelivem, které po úspěšném absolvování odborného kurzu vydává Ministerstvo vnitra"
             },
             {
                 "correct": true,
-                "answer": "držitel\n zbrojního průkazu, který je oprávněn nabývat do vlastnictví náboje pro \nzbraň kategorie A, B nebo C, nebo držitel zbrojní licence"
+                "answer": "držitel zbrojního průkazu, který je oprávněn nabývat do vlastnictví náboje pro zbraň kategorie A, B nebo C, nebo držitel zbrojní licence"
             },
             {
                 "correct": false,
-                "answer": "držitel\n zbrojního průkazu, který dosáhl věku alespoň 30 let a úspěšně \nabsolvoval odborný kurz pro manipulaci se střelivem pořádaný Českým \núřadem pro zkoušení zbraní a střeliva"
+                "answer": "držitel zbrojního průkazu, který dosáhl věku alespoň 30 let a úspěšně absolvoval odborný kurz pro manipulaci se střelivem pořádaný Českým úřadem pro zkoušení zbraní a střeliva"
             }
         ]
     },
@@ -4662,15 +4662,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "provádění\n činností při nakládání s municí a k provádění pyrotechnického průzkumu,\n a to pouze v rámci pracovního, členského nebo obdobného poměru k \ndržiteli muniční licence. Doba platnosti průkazu je 10 let"
+                "answer": "provádění činností při nakládání s municí a k provádění pyrotechnického průzkumu, a to pouze v rámci pracovního, členského nebo obdobného poměru k držiteli muniční licence. Doba platnosti průkazu je 10 let"
             },
             {
                 "correct": false,
-                "answer": "provádění\n činností při nakládání s municí, a to pouze v rámci pracovního, \nčlenského nebo obdobného poměru k držiteli muniční licence nebo k \ndržiteli zbrojní licence skupiny A a B. Doba platnosti průkazu je 5 let"
+                "answer": "provádění činností při nakládání s municí, a to pouze v rámci pracovního, členského nebo obdobného poměru k držiteli muniční licence nebo k držiteli zbrojní licence skupiny A a B. Doba platnosti průkazu je 5 let"
             },
             {
                 "correct": false,
-                "answer": "provádění\n pomocných činností při nakládání s municí, a to jak v rámci výkonu \nčinnosti samostatně podnikající fyzické osoby, tak i v rámci pracovního,\n členského nebo obdobného poměru k držiteli muniční či zbrojní licence. \nDoba platnosti průkazu je 5 let"
+                "answer": "provádění pomocných činností při nakládání s municí, a to jak v rámci výkonu činnosti samostatně podnikající fyzické osoby, tak i v rámci pracovního, členského nebo obdobného poměru k držiteli muniční či zbrojní licence. Doba platnosti průkazu je 5 let"
             }
         ]
     },
@@ -4819,11 +4819,11 @@
             },
             {
                 "correct": false,
-                "answer": "učinit\n základní opatření k zajištění bezpečnosti osob a majetku a učiněná \nopatření nejpozději do 10 pracovních dnů oznámit policii"
+                "answer": "učinit základní opatření k zajištění bezpečnosti osob a majetku a učiněná opatření nejpozději do 10 pracovních dnů oznámit policii"
             },
             {
                 "correct": false,
-                "answer": "učinit\n po dohodě s příslušným útvarem hasičského záchranného sboru přiměřená \nopatření k zajištění základní bezpečnosti osob a majetku. Tato opatření \nnásledně oznámí Ministerstvu vnitra a policii"
+                "answer": "učinit po dohodě s příslušným útvarem hasičského záchranného sboru přiměřená opatření k zajištění základní bezpečnosti osob a majetku. Tato opatření následně oznámí Ministerstvu vnitra a policii"
             }
         ]
     },
@@ -4857,7 +4857,7 @@
             },
             {
                 "correct": true,
-                "answer": "neprodleně\n oznámit jejich nález nejbližšímu příslušníkovi policie nebo útvaru \npolicie nebo obecnímu úřadu, který toto oznámení předá nejbližšímu \nútvaru policie"
+                "answer": "neprodleně oznámit jejich nález nejbližšímu příslušníkovi policie nebo útvaru policie nebo obecnímu úřadu, který toto oznámení předá nejbližšímu útvaru policie"
             }
         ]
     },
@@ -4917,15 +4917,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "držitel\n zbrojní licence o zbraních kategorie A, B nebo C a střelivu do těchto \nzbraní, na které nemá vydán průkaz zbraně, a černém loveckém prachu, \nbezdýmném prachu a zápalkách; dále držitel obecné muniční licence, \npolicie a Český úřad pro zkoušení zbraní a střeliva"
+                "answer": "držitel zbrojní licence o zbraních kategorie A, B nebo C a střelivu do těchto zbraní, na které nemá vydán průkaz zbraně, a černém loveckém prachu, bezdýmném prachu a zápalkách; dále držitel obecné muniční licence, policie a Český úřad pro zkoušení zbraní a střeliva"
             },
             {
                 "correct": false,
-                "answer": "držitel\n zbrojního průkazu, držitel zbrojní licence o zbraních kategorie A, B, C\n nebo D a střelivu do těchto zbraní, na které má vydán průkaz zbraně, a \nčerném loveckém prachu a bezdýmném prachu; dále držitel zvláštní muniční\n licence, policie, Český úřad pro zkoušení zbraní a střeliva a Český \nbáňský úřad"
+                "answer": "držitel zbrojního průkazu, držitel zbrojní licence o zbraních kategorie A, B, C nebo D a střelivu do těchto zbraní, na které má vydán průkaz zbraně, a černém loveckém prachu a bezdýmném prachu; dále držitel zvláštní muniční licence, policie, Český úřad pro zkoušení zbraní a střeliva a Český báňský úřad"
             },
             {
                 "correct": false,
-                "answer": "držitel\n zbrojní licence o zbraních kategorie A, B, C nebo D a střelivu do \ntěchto zbraní, na které má vydán průkaz zbraně; dále držitel obecné \nmuniční licence, policie, Ministerstvo průmyslu a obchodu a Český báňský\n úřad"
+                "answer": "držitel zbrojní licence o zbraních kategorie A, B, C nebo D a střelivu do těchto zbraní, na které má vydán průkaz zbraně; dále držitel obecné muniční licence, policie, Ministerstvo průmyslu a obchodu a Český báňský úřad"
             }
         ]
     },
@@ -4934,15 +4934,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "Ministerstvo\n vnitra, Ministerstvo obrany, policie, zastupitelský úřad České \nrepubliky a Český úřad pro zkoušení zbraní a střeliva"
+                "answer": "Ministerstvo vnitra, Ministerstvo obrany, policie, zastupitelský úřad České republiky a Český úřad pro zkoušení zbraní a střeliva"
             },
             {
                 "correct": false,
-                "answer": "Ministerstvo\n vnitra, Ministerstvo obrany, Ministerstvo průmyslu a obchodu, policie, \nČeský báňský úřad a Český úřad pro zkoušení zbraní a střeliva"
+                "answer": "Ministerstvo vnitra, Ministerstvo obrany, Ministerstvo průmyslu a obchodu, policie, Český báňský úřad a Český úřad pro zkoušení zbraní a střeliva"
             },
             {
                 "correct": false,
-                "answer": "Ministerstvo\n vnitra, Ministerstvo dopravy, policie, Ministerstvo průmyslu a obchodu,\n zastupitelský úřad České republiky a Český úřad pro zkoušení zbraní a \nstřeliva"
+                "answer": "Ministerstvo vnitra, Ministerstvo dopravy, policie, Ministerstvo průmyslu a obchodu, zastupitelský úřad České republiky a Český úřad pro zkoušení zbraní a střeliva"
             }
         ]
     },
@@ -5078,7 +5078,7 @@
             },
             {
                 "correct": false,
-                "answer": "provinění\n sankčně postižitelného pouze tehdy, pokud tak stanoví obecně závazná \nvyhláška obce, na jejímž katastrálním území k tomuto nošení zbraně \ndošlo"
+                "answer": "provinění sankčně postižitelného pouze tehdy, pokud tak stanoví obecně závazná vyhláška obce, na jejímž katastrálním území k tomuto nošení zbraně došlo"
             }
         ]
     },
@@ -5104,7 +5104,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "provinění\n sankčně postižitelného pouze tehdy, pokud tak stanoví obecně závazné \nnařízení kraje, na jehož katastrálním území k tomuto nošení zbraně \ndošlo"
+                "answer": "provinění sankčně postižitelného pouze tehdy, pokud tak stanoví obecně závazné nařízení kraje, na jehož katastrálním území k tomuto nošení zbraně došlo"
             },
             {
                 "correct": true,
@@ -5359,15 +5359,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "zbraň s\n hlavní (hlavněmi) pro střelbu plynovými náboji nebo mechanickými \nstřelami, případně speciálními náboji nebo střelami pro kulovou zbraň"
+                "answer": "zbraň s hlavní (hlavněmi) pro střelbu plynovými náboji nebo mechanickými střelami, případně speciálními náboji nebo střelami pro kulovou zbraň"
             },
             {
                 "correct": true,
-                "answer": "palná \nzbraň s hlavní (hlavněmi) pro střelbu kulovými náboji nebo kulovými \nstřelami, případně speciálními náboji nebo střelami pro kulovou zbraň"
+                "answer": "palná zbraň s hlavní (hlavněmi) pro střelbu kulovými náboji nebo kulovými střelami, případně speciálními náboji nebo střelami pro kulovou zbraň"
             },
             {
                 "correct": false,
-                "answer": "plynovková\n zbraň s hlavní (hlavněmi) pro střelbu chemickými náboji nebo plynovými \nstřelami, případně speciálními náboji nebo střelami pro kulovou zbraň"
+                "answer": "plynovková zbraň s hlavní (hlavněmi) pro střelbu chemickými náboji nebo plynovými střelami, případně speciálními náboji nebo střelami pro kulovou zbraň"
             }
         ]
     },
@@ -5410,15 +5410,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "palná \nzbraň s hlavní (hlavněmi) pro střelbu náboji s okrajovým zápalem nebo \nnábojkami, případně speciálními náboji nebo střelami pro kulovou zbraň a\n s hlavní (hlavněmi) pro střelbu plynovkovými nábojkami, případně \nspeciálními náboji pro brokovou zbraň"
+                "answer": "palná zbraň s hlavní (hlavněmi) pro střelbu náboji s okrajovým zápalem nebo nábojkami, případně speciálními náboji nebo střelami pro kulovou zbraň a s hlavní (hlavněmi) pro střelbu plynovkovými nábojkami, případně speciálními náboji pro brokovou zbraň"
             },
             {
                 "correct": false,
-                "answer": "expanzní\n zbraň s hlavni (hlavněmi) pro střelbu nábojkami nebo kulovými střelami,\n případně speciálními náboji nebo střelami pro kulovou zbraň a s hlavní \n(hlavněmi) pro střelbu brokovými náboji, případně speciálními náboji pro\n brokovou zbraň"
+                "answer": "expanzní zbraň s hlavni (hlavněmi) pro střelbu nábojkami nebo kulovými střelami, případně speciálními náboji nebo střelami pro kulovou zbraň a s hlavní (hlavněmi) pro střelbu brokovými náboji, případně speciálními náboji pro brokovou zbraň"
             },
             {
                 "correct": true,
-                "answer": "palná \nzbraň s hlavní (hlavněmi) pro střelbu kulovými náboji nebo kulovými \nstřelami, případně speciálními náboji nebo střelami pro kulovou zbraň a s\n hlavní (hlavněmi) pro střelbu brokovými náboji, případně speciálními \nnáboji pro brokovou zbraň"
+                "answer": "palná zbraň s hlavní (hlavněmi) pro střelbu kulovými náboji nebo kulovými střelami, případně speciálními náboji nebo střelami pro kulovou zbraň a s hlavní (hlavněmi) pro střelbu brokovými náboji, případně speciálními náboji pro brokovou zbraň"
             }
         ]
     },
@@ -5469,7 +5469,7 @@
             },
             {
                 "correct": false,
-                "answer": "opětovné\n nabití děje v důsledku mechanického otočení závěru a u které konstrukce\n neumožňuje více výstřelů na jedno stisknutí spouště"
+                "answer": "opětovné nabití děje v důsledku mechanického otočení závěru a u které konstrukce neumožňuje více výstřelů na jedno stisknutí spouště"
             }
         ]
     },
@@ -5486,7 +5486,7 @@
             },
             {
                 "correct": false,
-                "answer": "opětovné\n nabití děje v důsledku mechanického otočení závěru a u které konstrukce\n umožňuje více výstřelů na jedno stisknutí spouště"
+                "answer": "opětovné nabití děje v důsledku mechanického otočení závěru a u které konstrukce umožňuje více výstřelů na jedno stisknutí spouště"
             }
         ]
     },
@@ -5495,15 +5495,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "se \nzásobníkem nebo jiným podávacím ústrojím, u níž se opětovné nabití děje v\n důsledku předchozího výstřelu a u které konstrukce neumožňuje více \nvýstřelů na jedno stisknutí spouště"
+                "answer": "se zásobníkem nebo jiným podávacím ústrojím, u níž se opětovné nabití děje v důsledku předchozího výstřelu a u které konstrukce neumožňuje více výstřelů na jedno stisknutí spouště"
             },
             {
                 "correct": false,
-                "answer": "bez \nzásobníku nebo jiného podávacího ústrojí, u níž se opětovné nabití děje v\n důsledku ručního ovládání závěru nebo mechanického otočení \nrevolverového válce"
+                "answer": "bez zásobníku nebo jiného podávacího ústrojí, u níž se opětovné nabití děje v důsledku ručního ovládání závěru nebo mechanického otočení revolverového válce"
             },
             {
                 "correct": true,
-                "answer": "se \nzásobníkem nebo jiným podávacím ústrojím, u níž se opětovné nabití děje v\n důsledku ručního ovládání závěru nebo mechanického otočení \nrevolverového válce"
+                "answer": "se zásobníkem nebo jiným podávacím ústrojím, u níž se opětovné nabití děje v důsledku ručního ovládání závěru nebo mechanického otočení revolverového válce"
             }
         ]
     },
@@ -5520,7 +5520,7 @@
             },
             {
                 "correct": false,
-                "answer": "střelná\n zbraň, která je jako sportovní zbraň vedena v rejstříku uznaných \nsportovních pomůcek Ministerstva školství, mládeže a tělovýchovy"
+                "answer": "střelná zbraň, která je jako sportovní zbraň vedena v rejstříku uznaných sportovních pomůcek Ministerstva školství, mládeže a tělovýchovy"
             }
         ]
     },
@@ -5580,15 +5580,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "střelná\n zbraň, která byla vyrobena do 31. prosince 1890, a současně platí, že \nvšechny hlavní části zbraně byly vyrobeny do 31. prosince 1890"
+                "answer": "střelná zbraň, která byla vyrobena do 31. prosince 1890, a současně platí, že všechny hlavní části zbraně byly vyrobeny do 31. prosince 1890"
             },
             {
                 "correct": false,
-                "answer": "střelná\n zbraň, která byla vyrobena do 31. prosince 1895, nebo platí, že všechny\n hlavní části zbraně byly vyrobeny do 31. prosince 1895"
+                "answer": "střelná zbraň, která byla vyrobena do 31. prosince 1895, nebo platí, že všechny hlavní části zbraně byly vyrobeny do 31. prosince 1895"
             },
             {
                 "correct": false,
-                "answer": "střelná\n zbraň, která byla vyrobena do 31. prosince 1918, a současně platí, že \nvšechny hlavní části zbraně byly vyrobeny do 31. prosince 1918"
+                "answer": "střelná zbraň, která byla vyrobena do 31. prosince 1918, a současně platí, že všechny hlavní části zbraně byly vyrobeny do 31. prosince 1918"
             }
         ]
     },
@@ -5614,7 +5614,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "střelná\n zbraň, která byla znehodnocena držitelem zbrojního průkazu či zbrojní \nlicence postupem stanoveným soudním znalcem v oboru zbraní"
+                "answer": "střelná zbraň, která byla znehodnocena držitelem zbrojního průkazu či zbrojní licence postupem stanoveným soudním znalcem v oboru zbraní"
             },
             {
                 "correct": true,
@@ -5622,7 +5622,7 @@
             },
             {
                 "correct": false,
-                "answer": "střelná\n zbraň, která byla znehodnocena držitelem zbrojního průkazu příslušné \nskupiny postupem stanoveným směrnicí Českého úřadu pro zkoušení zbraní a\n střeliva"
+                "answer": "střelná zbraň, která byla znehodnocena držitelem zbrojního průkazu příslušné skupiny postupem stanoveným směrnicí Českého úřadu pro zkoušení zbraní a střeliva"
             }
         ]
     },
@@ -5682,11 +5682,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "nábojka\n ve skupenství kapalném nebo plynném, určená k zasažení cíle nebo \nvyvolání jiného efektu, která se po opuštění hlavně nerozdělí"
+                "answer": "nábojka ve skupenství kapalném nebo plynném, určená k zasažení cíle nebo vyvolání jiného efektu, která se po opuštění hlavně nerozdělí"
             },
             {
                 "correct": true,
-                "answer": "těleso\n nebo látka ve skupenství tuhém, kapalném nebo plynném, určená k \nzasažení cíle nebo vyvolání jiného efektu, která se po opuštění hlavně \nrozdělí"
+                "answer": "těleso nebo látka ve skupenství tuhém, kapalném nebo plynném, určená k zasažení cíle nebo vyvolání jiného efektu, která se po opuštění hlavně rozdělí"
             },
             {
                 "correct": false,
@@ -5741,7 +5741,7 @@
             },
             {
                 "correct": true,
-                "answer": "palné \nzbraně, signální zbraně nebo zvláštní zbraně, skládá se z nábojnice, \nzápalky nebo zápalkové slože, výmetné náplně a střely"
+                "answer": "palné zbraně, signální zbraně nebo zvláštní zbraně, skládá se z nábojnice, zápalky nebo zápalkové slože, výmetné náplně a střely"
             }
         ]
     },
@@ -5826,7 +5826,7 @@
             },
             {
                 "correct": false,
-                "answer": "v \npříslušné směrnici vydané Českým úřadem pro zkoušení zbraní a střeliva \nve spolupráci s Úřadem pro technickou normalizaci, metrologii a státní \nzkušebnictví"
+                "answer": "v příslušné směrnici vydané Českým úřadem pro zkoušení zbraní a střeliva ve spolupráci s Úřadem pro technickou normalizaci, metrologii a státní zkušebnictví"
             }
         ]
     },
@@ -5835,11 +5835,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "v \njednom prostoru pouze v jedné společné skříni či schránce, která je pro \ntento účel schválena Úřadem pro technickou normalizaci, metrologii a \nstátní zkušebnictví a je neoddělitelně ukotvena do stěny nebo podlahy"
+                "answer": "v jednom prostoru pouze v jedné společné skříni či schránce, která je pro tento účel schválena Úřadem pro technickou normalizaci, metrologii a státní zkušebnictví a je neoddělitelně ukotvena do stěny nebo podlahy"
             },
             {
                 "correct": false,
-                "answer": "v \njednom prostoru pouze ve skříních, které jsou pro tento účel schváleny \nČeským báňským úřadem a jsou vybaveny zámkem s vysokou bezpečností \nzařazeným do třídy A podle technické normy ČSN EN 1300"
+                "answer": "v jednom prostoru pouze ve skříních, které jsou pro tento účel schváleny Českým báňským úřadem a jsou vybaveny zámkem s vysokou bezpečností zařazeným do třídy A podle technické normy ČSN EN 1300"
             },
             {
                 "correct": true,
@@ -5860,7 +5860,7 @@
             },
             {
                 "correct": false,
-                "answer": "v \nsuchém prostoru, jehož stavební provedení zabraňuje přístupu přímého \nslunečního záření, a to takovým způsobem, aby jejich teplota nepřesáhla \n30 °C"
+                "answer": "v suchém prostoru, jehož stavební provedení zabraňuje přístupu přímého slunečního záření, a to takovým způsobem, aby jejich teplota nepřesáhla 30 °C"
             }
         ]
     },
@@ -5894,7 +5894,7 @@
             },
             {
                 "correct": false,
-                "answer": "kromě \nnepoškozené nábojnice používat i mírně poškozenou nábojnici. V tomto \npřípadě je při přebíjení nutné dbát zvýšené opatrnosti"
+                "answer": "kromě nepoškozené nábojnice používat i mírně poškozenou nábojnici. V tomto případě je při přebíjení nutné dbát zvýšené opatrnosti"
             }
         ]
     },
@@ -5903,15 +5903,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "prohlídku\n zbraně za účelem zjištění, zda není v nabitém stavu; částečné rozebrání\n a složení zbraně v rozsahu, který je nutný k běžnému vyčištění zbraně \npo střelbě; postup při přípravě zbraně a střeliva ke střelbě, postup při\n zjištění závady na zbrani při střelbě a postup při ukončení střelby"
+                "answer": "prohlídku zbraně za účelem zjištění, zda není v nabitém stavu; částečné rozebrání a složení zbraně v rozsahu, který je nutný k běžnému vyčištění zbraně po střelbě; postup při přípravě zbraně a střeliva ke střelbě, postup při zjištění závady na zbrani při střelbě a postup při ukončení střelby"
             },
             {
                 "correct": false,
-                "answer": "úvodní\n prohlídku zbraně doplněnou stručným slovním popisem funkce hlavních \nčástí zbraně; kompletní rozebrání a složení zbraně v rámci stanoveného \nčasového limitu; postup při přípravě zbraně a střeliva ke střelbě; \npostup při kontrole nastavení mířidel; postup při ukončení střelby"
+                "answer": "úvodní prohlídku zbraně doplněnou stručným slovním popisem funkce hlavních částí zbraně; kompletní rozebrání a složení zbraně v rámci stanoveného časového limitu; postup při přípravě zbraně a střeliva ke střelbě; postup při kontrole nastavení mířidel; postup při ukončení střelby"
             },
             {
                 "correct": false,
-                "answer": "postup\n při přebírání zbraně od jiné osoby; kompletní rozebrání a složení \nzbraně, které je nutné k celkovému vyčištění zbraně; postup při přípravě\n zbraně a střeliva ke střelbě; postup při ukončení střelby; základní \npostup při přebíjení nábojů"
+                "answer": "postup při přebírání zbraně od jiné osoby; kompletní rozebrání a složení zbraně, které je nutné k celkovému vyčištění zbraně; postup při přípravě zbraně a střeliva ke střelbě; postup při ukončení střelby; základní postup při přebíjení nábojů"
             }
         ]
     },
@@ -5971,15 +5971,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "v \npřípadě žadatele o vydání zbrojního průkazu skupiny A a B krátká kulová \nzbraň; v případě žadatele o vydání zbrojního průkazu skupiny C krátká \nkulová a dlouhá broková zbraň; v případě žadatele o vydání zbrojního \nprůkazu skupiny D a E krátká kulová zbraň a dlouhá kulová zbraň"
+                "answer": "v případě žadatele o vydání zbrojního průkazu skupiny A a B krátká kulová zbraň; v případě žadatele o vydání zbrojního průkazu skupiny C krátká kulová a dlouhá broková zbraň; v případě žadatele o vydání zbrojního průkazu skupiny D a E krátká kulová zbraň a dlouhá kulová zbraň"
             },
             {
                 "correct": false,
-                "answer": "v \npřípadě žadatele o vydání zbrojního průkazu skupiny A a B dlouhá kulová \nnebo dlouhá broková zbraň; v případě žadatele o vydání zbrojního průkazu\n skupiny C dlouhá kulová nebo dlouhá broková zbraň a krátká kulová \nzbraň; v případě žadatele o vydání zbrojního průkazu skupiny D a E \nkrátká kulová zbraň"
+                "answer": "v případě žadatele o vydání zbrojního průkazu skupiny A a B dlouhá kulová nebo dlouhá broková zbraň; v případě žadatele o vydání zbrojního průkazu skupiny C dlouhá kulová nebo dlouhá broková zbraň a krátká kulová zbraň; v případě žadatele o vydání zbrojního průkazu skupiny D a E krátká kulová zbraň"
             },
             {
                 "correct": true,
-                "answer": "v \npřípadě žadatele o vydání zbrojního průkazu skupiny A a B dlouhá kulová \nnebo krátká kulová zbraň; v případě žadatele o vydání zbrojního průkazu \nskupiny C dlouhá kulová a dlouhá broková zbraň; v případě žadatele o \nvydání zbrojního průkazu skupiny D a E krátká kulová zbraň"
+                "answer": "v případě žadatele o vydání zbrojního průkazu skupiny A a B dlouhá kulová nebo krátká kulová zbraň; v případě žadatele o vydání zbrojního průkazu skupiny C dlouhá kulová a dlouhá broková zbraň; v případě žadatele o vydání zbrojního průkazu skupiny D a E krátká kulová zbraň"
             }
         ]
     },
@@ -5988,11 +5988,11 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "povinen\n při střelbě použít vhodné ochranné pomůcky, které určí zkušební komisař\n nebo které jsou stanoveny provozním řádem střelnice"
+                "answer": "povinen při střelbě použít vhodné ochranné pomůcky, které určí zkušební komisař nebo které jsou stanoveny provozním řádem střelnice"
             },
             {
                 "correct": false,
-                "answer": "povinen\n při střelbě použít ochranné pomůcky zraku a sluchu, které určí před \nkonáním zkoušky odborné způsobilosti příslušný útvar policie nebo které \njsou stanoveny zkušebním řádem střelnice"
+                "answer": "povinen při střelbě použít ochranné pomůcky zraku a sluchu, které určí před konáním zkoušky odborné způsobilosti příslušný útvar policie nebo které jsou stanoveny zkušebním řádem střelnice"
             },
             {
                 "correct": false,
@@ -6005,15 +6005,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "oprávněn\n ověřit si správnost nastřelení zbraně, a to v případě krátké kulové a \ndlouhé kulové zbraně třemi výstřely a v případě dlouhé brokové zbraně \njedním výstřelem"
+                "answer": "oprávněn ověřit si správnost nastřelení zbraně, a to v případě krátké kulové a dlouhé kulové zbraně třemi výstřely a v případě dlouhé brokové zbraně jedním výstřelem"
             },
             {
                 "correct": false,
-                "answer": "povinen\n ověřit si na výzvu správce střelnice či zkušebního komisaře správnost \nnastřelení zbraně, a to v případě krátké kulové a dlouhé kulové zbraně \ndeseti výstřely a v případě dlouhé brokové zbraně jedním výstřelem"
+                "answer": "povinen ověřit si na výzvu správce střelnice či zkušebního komisaře správnost nastřelení zbraně, a to v případě krátké kulové a dlouhé kulové zbraně deseti výstřely a v případě dlouhé brokové zbraně jedním výstřelem"
             },
             {
                 "correct": false,
-                "answer": "oprávněn\n ověřit si správnost nastřelení zbraně, a to v případě krátké kulové a \ndlouhé kulové zbraně dvěma výstřely a v případě dlouhé brokové zbraně \ntřemi výstřely"
+                "answer": "oprávněn ověřit si správnost nastřelení zbraně, a to v případě krátké kulové a dlouhé kulové zbraně dvěma výstřely a v případě dlouhé brokové zbraně třemi výstřely"
             }
         ]
     },
@@ -6060,11 +6060,11 @@
             },
             {
                 "correct": false,
-                "answer": "řidič.\n Dále se touto osobou vždy rozumí zástupce provozovatele dopravního \nprostředku oprávněný přijmout opatření k zajištění bezpečnosti \nkonkrétního dopravního prostředku v průběhu přepravy zbraní, střeliva a \nmunice"
+                "answer": "řidič. Dále se touto osobou vždy rozumí zástupce provozovatele dopravního prostředku oprávněný přijmout opatření k zajištění bezpečnosti konkrétního dopravního prostředku v průběhu přepravy zbraní, střeliva a munice"
             },
             {
                 "correct": false,
-                "answer": "osoba \npřítomná v dopravním prostředku, zejména řidič, člen osádky. Osoba \npřítomná v doprovodném vozidle se za osobu provádějící přepravu \nnepovažuje"
+                "answer": "osoba přítomná v dopravním prostředku, zejména řidič, člen osádky. Osoba přítomná v doprovodném vozidle se za osobu provádějící přepravu nepovažuje"
             }
         ]
     },
@@ -6107,11 +6107,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "nemusí\n při svém vedení pouze v elektronické podobě umožňovat zobrazení \nopravených zápisů, pokud tuto povinnost držiteli zbrojní licence neuloží\n příslušný útvar policie"
+                "answer": "nemusí při svém vedení pouze v elektronické podobě umožňovat zobrazení opravených zápisů, pokud tuto povinnost držiteli zbrojní licence neuloží příslušný útvar policie"
             },
             {
                 "correct": false,
-                "answer": "by \nměly při svém vedení pouze v elektronické podobě pokud možno umožňovat \nzobrazení přesného data, kdy došlo k opravě zápisu. Zobrazení opravených\n zápisů umožňovat nemusí"
+                "answer": "by měly při svém vedení pouze v elektronické podobě pokud možno umožňovat zobrazení přesného data, kdy došlo k opravě zápisu. Zobrazení opravených zápisů umožňovat nemusí"
             },
             {
                 "correct": true,
@@ -6166,7 +6166,7 @@
             },
             {
                 "correct": false,
-                "answer": "pouze \npsací prostředky uvedené v seznamu Ministerstva vnitra, který obsahuje \npřehled psacích prostředků povolených pro provádění úředních evidenčních\n záznamů"
+                "answer": "pouze psací prostředky uvedené v seznamu Ministerstva vnitra, který obsahuje přehled psacích prostředků povolených pro provádění úředních evidenčních záznamů"
             }
         ]
     },
@@ -6179,7 +6179,7 @@
             },
             {
                 "correct": false,
-                "answer": "neveřejně,\n kdy s výsledkem postupně seznámí každého žadatele zvlášť. Pořadí \nvyhlašovaných výsledků jednotlivých žadatelů volí dle abecedního seznamu\n žadatelů"
+                "answer": "neveřejně, kdy s výsledkem postupně seznámí každého žadatele zvlášť. Pořadí vyhlašovaných výsledků jednotlivých žadatelů volí dle abecedního seznamu žadatelů"
             },
             {
                 "correct": true,
@@ -6192,15 +6192,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "zpravidla\n ve stejný den jako teoretickou část zkoušky na určené střelnici. \nVýjimečně může být v odůvodněných případech praktická část zkoušky \nvykonána v jiný den, o čemž na místě rozhodne zkušební komisař"
+                "answer": "zpravidla ve stejný den jako teoretickou část zkoušky na určené střelnici. Výjimečně může být v odůvodněných případech praktická část zkoušky vykonána v jiný den, o čemž na místě rozhodne zkušební komisař"
             },
             {
                 "correct": false,
-                "answer": "zpravidla\n ve stejný den jako teoretickou část zkoušky na určené střelnici. \nVýjimečně může být praktická část zkoušky vykonána v jiný den, o čemž na\n místě rozhodne přítomný příslušník policie po dohodě se zkušebním \nkomisařem"
+                "answer": "zpravidla ve stejný den jako teoretickou část zkoušky na určené střelnici. Výjimečně může být praktická část zkoušky vykonána v jiný den, o čemž na místě rozhodne přítomný příslušník policie po dohodě se zkušebním komisařem"
             },
             {
                 "correct": false,
-                "answer": "vždy \nve stejný den jako teoretickou část zkoušky na určené střelnici. \nZkušební komisař ani příslušný útvar policie nejsou oprávněni rozhodnout\n o udělení výjimky z tohoto pravidla"
+                "answer": "vždy ve stejný den jako teoretickou část zkoušky na určené střelnici. Zkušební komisař ani příslušný útvar policie nejsou oprávněni rozhodnout o udělení výjimky z tohoto pravidla"
             }
         ]
     },
@@ -6209,11 +6209,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "pokud \nmožno v souladu se zásadami stanovenými provozním řádem střelnice a za \npřítomnosti a podle pokynů přítomného příslušníka policie"
+                "answer": "pokud možno v souladu se zásadami stanovenými provozním řádem střelnice a za přítomnosti a podle pokynů přítomného příslušníka policie"
             },
             {
                 "correct": false,
-                "answer": "v \nsouladu se zásadami stanovenými střeleckým řádem střelnice a za \npřítomnosti a podle pokynů zkušebního komisaře nebo správce střelnice"
+                "answer": "v souladu se zásadami stanovenými střeleckým řádem střelnice a za přítomnosti a podle pokynů zkušebního komisaře nebo správce střelnice"
             },
             {
                 "correct": true,
@@ -6226,15 +6226,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "zkušební\n komisař seznámí žadatele s průběhem zkoušky a v potřebném rozsahu s \nprovozním řádem střelnice, zejména se zásadami bezpečné manipulace se \nzbraní a chováním na střelnici. Zkušební komisař žadatele dále seznámí s\n povely, které bude používat při praktické části zkoušky"
+                "answer": "zkušební komisař seznámí žadatele s průběhem zkoušky a v potřebném rozsahu s provozním řádem střelnice, zejména se zásadami bezpečné manipulace se zbraní a chováním na střelnici. Zkušební komisař žadatele dále seznámí s povely, které bude používat při praktické části zkoušky"
             },
             {
                 "correct": false,
-                "answer": "zkušební\n komisař nebo přítomný příslušník policie může na základě žádosti \njednotlivé žadatele blíže seznámit s průběhem zkoušky a se zásadami \nchování v bezpečnostním sektoru střelnice. S jednotlivými ustanoveními \nprovozního řádu střelnice žadatele na výzvu zkušebního komisaře seznámí \nsprávce střelnice"
+                "answer": "zkušební komisař nebo přítomný příslušník policie může na základě žádosti jednotlivé žadatele blíže seznámit s průběhem zkoušky a se zásadami chování v bezpečnostním sektoru střelnice. S jednotlivými ustanoveními provozního řádu střelnice žadatele na výzvu zkušebního komisaře seznámí správce střelnice"
             },
             {
                 "correct": false,
-                "answer": "zkušební\n komisař, přítomný příslušník policie nebo správce střelnice seznámí \nžadatele s průběhem zkoušky a se všemi ustanoveními provozního řádu \nstřelnice. Zkušební komisař vždy za přítomnosti příslušníka policie \nžadatele seznámí s vybranými ukázkami povelů, které může používat při \npraktické části zkoušky"
+                "answer": "zkušební komisař, přítomný příslušník policie nebo správce střelnice seznámí žadatele s průběhem zkoušky a se všemi ustanoveními provozního řádu střelnice. Zkušební komisař vždy za přítomnosti příslušníka policie žadatele seznámí s vybranými ukázkami povelů, které může používat při praktické části zkoušky"
             }
         ]
     },
@@ -6247,7 +6247,7 @@
             },
             {
                 "correct": false,
-                "answer": "je \nmožné se seznámit pouze v rámci prezenční návštěvy na pracovišti \npříslušného útvaru policie, jelikož tento vzor není určen k běžnému \nveřejnému šíření"
+                "answer": "je možné se seznámit pouze v rámci prezenční návštěvy na pracovišti příslušného útvaru policie, jelikož tento vzor není určen k běžnému veřejnému šíření"
             },
             {
                 "correct": false,
@@ -6264,11 +6264,11 @@
             },
             {
                 "correct": true,
-                "answer": "navrhne\n žadateli vykonání zkoušky v náhradním termínu, popřípadě žadatele z \núčasti na zkoušce vyloučí. Náhradní termín a místo konání zkoušky oznámí\n žadateli příslušný útvar policie"
+                "answer": "navrhne žadateli vykonání zkoušky v náhradním termínu, popřípadě žadatele z účasti na zkoušce vyloučí. Náhradní termín a místo konání zkoušky oznámí žadateli příslušný útvar policie"
             },
             {
                 "correct": false,
-                "answer": "může \nžadateli navrhnout vykonání zkoušky v náhradním termínu a místě, které \nžadateli oznámí po předchozí dohodě s příslušným útvarem policie"
+                "answer": "může žadateli navrhnout vykonání zkoušky v náhradním termínu a místě, které žadateli oznámí po předchozí dohodě s příslušným útvarem policie"
             }
         ]
     },
@@ -6277,15 +6277,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "čin \njinak trestný, kterým někdo odvrací mimořádně důrazný útok směřovaný \nvůči většímu množství občanů, kteří jsou chráněni tímto zákoníkem, není \ntrestným činem, pokud tak rozhodne soud na návrh Ministerstva \nspravedlnosti. Nejde o krajní nouzi, jestliže bylo možno tento útok \nodvrátit jinými prostředky"
+                "answer": "čin jinak trestný, kterým někdo odvrací mimořádně důrazný útok směřovaný vůči většímu množství občanů, kteří jsou chráněni tímto zákoníkem, není trestným činem, pokud tak rozhodne soud na návrh Ministerstva spravedlnosti. Nejde o krajní nouzi, jestliže bylo možno tento útok odvrátit jinými prostředky"
             },
             {
                 "correct": false,
-                "answer": "čin \njinak trestný, kterým někdo zabraňuje útočníkovi v páchání trestného \nnebo jiného činu, který je uveden v trestním zákoníku, není trestným \nčinem. Nejde o krajní nouzi, jestliže bylo možno pachateli v páchání \nčinu zabránit jiným způsobem"
+                "answer": "čin jinak trestný, kterým někdo zabraňuje útočníkovi v páchání trestného nebo jiného činu, který je uveden v trestním zákoníku, není trestným činem. Nejde o krajní nouzi, jestliže bylo možno pachateli v páchání činu zabránit jiným způsobem"
             },
             {
                 "correct": true,
-                "answer": "čin \njinak trestný, kterým někdo odvrací nebezpečí přímo hrozící zájmu \nchráněnému trestním zákonem, není trestným činem. Nejde o krajní nouzi, \njestliže bylo možno toto nebezpečí za daných okolností odvrátit jinak \nanebo způsobený následek je zřejmě stejně závažný nebo ještě závažnější \nnež ten, který hrozil, anebo byl ten, komu nebezpečí hrozilo, povinen je\n snášet"
+                "answer": "čin jinak trestný, kterým někdo odvrací nebezpečí přímo hrozící zájmu chráněnému trestním zákonem, není trestným činem. Nejde o krajní nouzi, jestliže bylo možno toto nebezpečí za daných okolností odvrátit jinak anebo způsobený následek je zřejmě stejně závažný nebo ještě závažnější než ten, který hrozil, anebo byl ten, komu nebezpečí hrozilo, povinen je snášet"
             }
         ]
     },
@@ -6294,7 +6294,7 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "kdokoliv,\n tedy nejen ten, komu nebezpečí hrozí přímo a jehož zájmy jsou ohroženy,\n ale i ten, jehož zájmy ohroženy v daném případě nejsou (tzv. pomoc v \nkrajní nouzi)"
+                "answer": "kdokoliv, tedy nejen ten, komu nebezpečí hrozí přímo a jehož zájmy jsou ohroženy, ale i ten, jehož zájmy ohroženy v daném případě nejsou (tzv. pomoc v krajní nouzi)"
             },
             {
                 "correct": false,
@@ -6311,7 +6311,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "přiměřenost\n způsobu odvracení hrozícího útoku, a to zejména s ohledem na prostředky\n použité k obraně. V případě odvracení útoku v krajní nouzi za použití \nstřelné zbraně se vždy posuzuje také to, nemohl-li obránce střelbou \nohrozit nezúčastněné osoby nebo způsobit nepřiměřenou škodu na majetku"
+                "answer": "přiměřenost způsobu odvracení hrozícího útoku, a to zejména s ohledem na prostředky použité k obraně. V případě odvracení útoku v krajní nouzi za použití střelné zbraně se vždy posuzuje také to, nemohl-li obránce střelbou ohrozit nezúčastněné osoby nebo způsobit nepřiměřenou škodu na majetku"
             },
             {
                 "correct": false,
@@ -6319,7 +6319,7 @@
             },
             {
                 "correct": true,
-                "answer": "to, \nzda nebylo možné dané nebezpečí odvrátit jinak nebo zda způsobený \nnásledek není zřejmě stejně závažný nebo ještě závažnější než ten, který\n hrozil"
+                "answer": "to, zda nebylo možné dané nebezpečí odvrátit jinak nebo zda způsobený následek není zřejmě stejně závažný nebo ještě závažnější než ten, který hrozil"
             }
         ]
     },
@@ -6349,7 +6349,7 @@
             },
             {
                 "correct": false,
-                "answer": "zejména\n člověkem, ale i zvířetem, neovladatelným dopravním prostředkem, \noprávněným zásahem orgánu veřejné moci nebo i technickou závadou na \nzbrani"
+                "answer": "zejména člověkem, ale i zvířetem, neovladatelným dopravním prostředkem, oprávněným zásahem orgánu veřejné moci nebo i technickou závadou na zbrani"
             },
             {
                 "correct": true,
@@ -6362,15 +6362,15 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "čin \njinak trestný, kterým někdo v sebeobraně odvrací napadení nebezpečným \nútočníkem, a to za použití střelné zbraně, není trestným činem, pokud \nbyla střelná zbraň držena v souladu se zákonem o zbraních a pokud její \ndržitel před jejím použitím opakovaně vyzval osobu útočníka, aby upustil\n od protiprávního jednání. O nutnou obranu jde i tehdy, byla-li obrana \nzcela zjevně nepřiměřená útoku"
+                "answer": "čin jinak trestný, kterým někdo v sebeobraně odvrací napadení nebezpečným útočníkem, a to za použití střelné zbraně, není trestným činem, pokud byla střelná zbraň držena v souladu se zákonem o zbraních a pokud její držitel před jejím použitím opakovaně vyzval osobu útočníka, aby upustil od protiprávního jednání. O nutnou obranu jde i tehdy, byla-li obrana zcela zjevně nepřiměřená útoku"
             },
             {
                 "correct": true,
-                "answer": "čin \njinak trestný, kterým někdo odvrací přímo hrozící nebo trvající útok na \nzájem chráněný trestním zákonem, není trestným činem. Nejde o nutnou \nobranu, byla-li obrana zcela zjevně nepřiměřená způsobu útoku"
+                "answer": "čin jinak trestný, kterým někdo odvrací přímo hrozící nebo trvající útok na zájem chráněný trestním zákonem, není trestným činem. Nejde o nutnou obranu, byla-li obrana zcela zjevně nepřiměřená způsobu útoku"
             },
             {
                 "correct": false,
-                "answer": "čin \njinak trestný, kterým někdo odvrací nebezpečí přímo hrozící zájmu \nchráněnému trestním zákonem, není trestným činem. Nejde o nutnou obranu,\n jestliže bylo možno toto nebezpečí za daných okolností odvrátit jinak \nanebo způsobený následek je zřejmě stejně závažný nebo ještě závažnější \nnež ten, který hrozil, anebo byl ten, komu nebezpečí hrozilo, povinen je\n snášet"
+                "answer": "čin jinak trestný, kterým někdo odvrací nebezpečí přímo hrozící zájmu chráněnému trestním zákonem, není trestným činem. Nejde o nutnou obranu, jestliže bylo možno toto nebezpečí za daných okolností odvrátit jinak anebo způsobený následek je zřejmě stejně závažný nebo ještě závažnější než ten, který hrozil, anebo byl ten, komu nebezpečí hrozilo, povinen je snášet"
             }
         ]
     },
@@ -6396,7 +6396,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "je \npovinen vyzvat osobu, proti které má být zbraň použita, aby upustila od \nprotiprávního jednání s výstrahou, že bude použito zbraně. Od výzvy s \nvýstrahou může upustit jen v případě, že je ohrožen jeho život nebo \nzdraví anebo je-li ohrožen život nebo zdraví jiné osoby"
+                "answer": "je povinen vyzvat osobu, proti které má být zbraň použita, aby upustila od protiprávního jednání s výstrahou, že bude použito zbraně. Od výzvy s výstrahou může upustit jen v případě, že je ohrožen jeho život nebo zdraví anebo je-li ohrožen život nebo zdraví jiné osoby"
             },
             {
                 "correct": true,
@@ -6404,7 +6404,7 @@
             },
             {
                 "correct": false,
-                "answer": "je \npovinen za všech okolností vyzvat osobu, proti které má být zbraň \npoužita, aby upustila od protiprávního jednání s výstrahou, že bude \npoužito zbraně. Střelnou zbraň obránce nesmí nikdy použít vůči zjevně \ntěhotné ženě či osobě zjevně vysokého věku"
+                "answer": "je povinen za všech okolností vyzvat osobu, proti které má být zbraň použita, aby upustila od protiprávního jednání s výstrahou, že bude použito zbraně. Střelnou zbraň obránce nesmí nikdy použít vůči zjevně těhotné ženě či osobě zjevně vysokého věku"
             }
         ]
     },
@@ -6417,11 +6417,11 @@
             },
             {
                 "correct": false,
-                "answer": "možné \npouze tehdy, pokud dané nebezpečí není možné odvrátit jinak a pokud \nzpůsobený následek nebude zřejmě stejně závažný nebo ještě závažnější \nnež ten, který hrozil obránci"
+                "answer": "možné pouze tehdy, pokud dané nebezpečí není možné odvrátit jinak a pokud způsobený následek nebude zřejmě stejně závažný nebo ještě závažnější než ten, který hrozil obránci"
             },
             {
                 "correct": true,
-                "answer": "možné i\n tehdy, pokud útočník v rámci útoku sám nepoužije střelnou zbraň. Obrana\n musí být intenzivnější než útok, proto aby odvrátila jistě a bez rizika\n útok útočníka, tzn. že musí být silnější než útok, ale nesmí být zcela \nzjevně nepřiměřená způsobu útoku"
+                "answer": "možné i tehdy, pokud útočník v rámci útoku sám nepoužije střelnou zbraň. Obrana musí být intenzivnější než útok, proto aby odvrátila jistě a bez rizika útok útočníka, tzn. že musí být silnější než útok, ale nesmí být zcela zjevně nepřiměřená způsobu útoku"
             }
         ]
     },
@@ -6430,7 +6430,7 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "obrana\n musí být intenzivnější než útok, proto aby odvrátila jistě a bez rizika\n útok útočníka, tzn. že musí být silnější než útok, ale nesmí být zcela \nzjevně nepřiměřená způsobu útoku"
+                "answer": "obrana musí být intenzivnější než útok, proto aby odvrátila jistě a bez rizika útok útočníka, tzn. že musí být silnější než útok, ale nesmí být zcela zjevně nepřiměřená způsobu útoku"
             },
             {
                 "correct": false,
@@ -6438,7 +6438,7 @@
             },
             {
                 "correct": false,
-                "answer": "obrana\n musí být intenzivnější než útok, přičemž otázka stupně její \npřiměřenosti není podstatná. V odůvodněných případech tak může být i \nzcela zjevně nepřiměřená"
+                "answer": "obrana musí být intenzivnější než útok, přičemž otázka stupně její přiměřenosti není podstatná. V odůvodněných případech tak může být i zcela zjevně nepřiměřená"
             }
         ]
     },
@@ -6464,7 +6464,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "pouze \nprotiprávním jednáním fyzické osoby. Přitom může jít i o jednání, které \nje samo nutnou obranou nebo krajní nouzí, v nichž jedná útočník. V \ntakovém případě je pak zásadní vzájemné porovnání přiměřenosti jednání \nútočníka a napadeného"
+                "answer": "pouze protiprávním jednáním fyzické osoby. Přitom může jít i o jednání, které je samo nutnou obranou nebo krajní nouzí, v nichž jedná útočník. V takovém případě je pak zásadní vzájemné porovnání přiměřenosti jednání útočníka a napadeného"
             },
             {
                 "correct": false,
@@ -6498,7 +6498,7 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "přímo \nproti útočníkovi, přičemž mu může vzniknout újma nejen na majetku, ale \ntéž na zdraví či dokonce na životě a případně i na jiných hodnotách \nchráněných trestním zákonem"
+                "answer": "přímo proti útočníkovi, přičemž mu může vzniknout újma nejen na majetku, ale též na zdraví či dokonce na životě a případně i na jiných hodnotách chráněných trestním zákonem"
             },
             {
                 "correct": false,
@@ -6506,7 +6506,7 @@
             },
             {
                 "correct": false,
-                "answer": "přímo \nproti útočníkovi či jeho rodinným příslušníkům, kteří se v čase zahájení\n protiprávního útoku nalézají v blízkosti místa útoku, i když se \nsamotného útoku neúčastní"
+                "answer": "přímo proti útočníkovi či jeho rodinným příslušníkům, kteří se v čase zahájení protiprávního útoku nalézají v blízkosti místa útoku, i když se samotného útoku neúčastní"
             }
         ]
     },
@@ -7454,7 +7454,7 @@
             },
             {
                 "correct": true,
-                "answer": "zbraň \nse čtyřmi hlavněmi souměrně uspořádanými ke svislé ose; dvě hlavně \nbrokové, jedna kulová a jedna malorážková nebo dvě hlavně kulové, jedna \nbroková a jedna malorážková"
+                "answer": "zbraň se čtyřmi hlavněmi souměrně uspořádanými ke svislé ose; dvě hlavně brokové, jedna kulová a jedna malorážková nebo dvě hlavně kulové, jedna broková a jedna malorážková"
             },
             {
                 "correct": false,
@@ -7569,7 +7569,7 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "krátká\n zbraň s pevnou hlavní a otáčivým válcem s nábojovými komorami, které se\n mezi jednotlivými výstřely natáčejí do osy hlavně"
+                "answer": "krátká zbraň s pevnou hlavní a otáčivým válcem s nábojovými komorami, které se mezi jednotlivými výstřely natáčejí do osy hlavně"
             },
             {
                 "correct": false,
@@ -7577,7 +7577,7 @@
             },
             {
                 "correct": true,
-                "answer": "krátká\n zbraň s pevnou nebo pohyblivou hlavní s nábojovou komorou; jednoranová,\n opakovací nebo samonabíjecí (popřípadě vícehlavňová)"
+                "answer": "krátká zbraň s pevnou nebo pohyblivou hlavní s nábojovou komorou; jednoranová, opakovací nebo samonabíjecí (popřípadě vícehlavňová)"
             }
         ]
     },
@@ -7586,15 +7586,15 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "krátká\n zbraň s pevnou hlavní a otáčivým válcem s nábojovými komorami, které se\n mezi jednotlivými výstřely natáčejí do osy vývrtu hlavně"
+                "answer": "krátká zbraň s pevnou hlavní a otáčivým válcem s nábojovými komorami, které se mezi jednotlivými výstřely natáčejí do osy vývrtu hlavně"
             },
             {
                 "correct": false,
-                "answer": "krátká\n zbraň s pevnou nebo pohyblivou hlavní s nábojovou komorou; jednoranová,\n opakovací nebo samonabíjecí (popřípadě vícehlavňová)"
+                "answer": "krátká zbraň s pevnou nebo pohyblivou hlavní s nábojovou komorou; jednoranová, opakovací nebo samonabíjecí (popřípadě vícehlavňová)"
             },
             {
                 "correct": false,
-                "answer": "dlouhá\n zbraň s pohyblivou hlavní a otáčivým válcem s nábojovými komorami, \nkteré se mezi jednotlivými výstřely natáčejí do osy vývrtu hlavně"
+                "answer": "dlouhá zbraň s pohyblivou hlavní a otáčivým válcem s nábojovými komorami, které se mezi jednotlivými výstřely natáčejí do osy vývrtu hlavně"
             }
         ]
     },
@@ -7603,11 +7603,11 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "vyjádřena\n některými nebo všemi údaji: smluvní velikostí průměru vodicí části \nvývrtu hlavně, technickým popisem nábojové komory, technickým popisem \npoužitelného náboje, doplňkovými označeními"
+                "answer": "vyjádřena některými nebo všemi údaji: smluvní velikostí průměru vodicí části vývrtu hlavně, technickým popisem nábojové komory, technickým popisem použitelného náboje, doplňkovými označeními"
             },
             {
                 "correct": false,
-                "answer": "vyjádřena\n všemi údaji: zvykovou velikostí poloměru vodicí linie vývrtu hlavně, \ntechnickým popisem nábojové komory, smluvním popisem použitého náboje"
+                "answer": "vyjádřena všemi údaji: zvykovou velikostí poloměru vodicí linie vývrtu hlavně, technickým popisem nábojové komory, smluvním popisem použitého náboje"
             },
             {
                 "correct": false,
@@ -7637,11 +7637,11 @@
         "answers": [
             {
                 "correct": false,
-                "answer": "vyjádřena\n přesnou velikostí průměru vývrtu hlavně a smluvním číslem udávajícím \npočet koulí libovolného průměru odlitých z jedné anglické libry olova, \nkteré projdou lehce vývrtem hlavně"
+                "answer": "vyjádřena přesnou velikostí průměru vývrtu hlavně a smluvním číslem udávajícím počet koulí libovolného průměru odlitých z jedné anglické libry olova, které projdou lehce vývrtem hlavně"
             },
             {
                 "correct": false,
-                "answer": "přesná\n velikost průměru vodicí části vývrtu hlavně, což je smluvní číslo \nudávající počet koulí stejného průměru odlitých z jedné anglické libry \nolova, které projdou vývrtem hlavně"
+                "answer": "přesná velikost průměru vodicí části vývrtu hlavně, což je smluvní číslo udávající počet koulí stejného průměru odlitých z jedné anglické libry olova, které projdou vývrtem hlavně"
             },
             {
                 "correct": true,
@@ -7692,7 +7692,7 @@
             },
             {
                 "correct": true,
-                "answer": "bez \nvýmetné náplně a zápalky, který rozměrově odpovídá skutečnému náboji: \nslouží pro výuku a výcvik v nabíjení a spouštění zbraně a pro kontrolu \nfunkce zásobníku, závěru a spušťadla"
+                "answer": "bez výmetné náplně a zápalky, který rozměrově odpovídá skutečnému náboji: slouží pro výuku a výcvik v nabíjení a spouštění zbraně a pro kontrolu funkce zásobníku, závěru a spušťadla"
             },
             {
                 "correct": false,
@@ -7794,7 +7794,7 @@
             },
             {
                 "correct": true,
-                "answer": "poměr \npočtu zásahů vytvořených broky brokového shluku určitého náboje ve \nsvislém kruhu o stanoveném průměru v určené vzdálenosti od ústí zbraně k\n celkovému počtu broků v náboji, vyjádřený v procentech"
+                "answer": "poměr počtu zásahů vytvořených broky brokového shluku určitého náboje ve svislém kruhu o stanoveném průměru v určené vzdálenosti od ústí zbraně k celkovému počtu broků v náboji, vyjádřený v procentech"
             },
             {
                 "correct": false,
@@ -7926,7 +7926,7 @@
         "answers": [
             {
                 "correct": true,
-                "answer": "lze \npředpokládat přímý dopad střel nebo střel a jejich částí po odrazu při \ndodržení bezpečnostních pravidel platných pro danou střelnici"
+                "answer": "lze předpokládat přímý dopad střel nebo střel a jejich částí po odrazu při dodržení bezpečnostních pravidel platných pro danou střelnici"
             },
             {
                 "correct": false,
@@ -8219,7 +8219,7 @@
             },
             {
                 "correct": true,
-                "answer": "stlačováním\n středu hrudníku na hrudní kosti dlaňovou hranou jedné ruky, druhá ruka \nje přiložena na spodní, frekvencí 100krát za minutu"
+                "answer": "stlačováním středu hrudníku na hrudní kosti dlaňovou hranou jedné ruky, druhá ruka je přiložena na spodní, frekvencí 100krát za minutu"
             },
             {
                 "correct": false,
@@ -8474,7 +8474,7 @@
             },
             {
                 "correct": true,
-                "answer": "na \nránu přiložíme obvaz, případně vyhřezlé kličky střevní se nesnažíme \nnikdy vrátit zpět, poraněného uložíme v poloze na zádech s podloženými \nkoleny, nesmí nic jíst ani pít"
+                "answer": "na ránu přiložíme obvaz, případně vyhřezlé kličky střevní se nesnažíme nikdy vrátit zpět, poraněného uložíme v poloze na zádech s podloženými koleny, nesmí nic jíst ani pít"
             },
             {
                 "correct": false,
