@@ -52,9 +52,12 @@ class MyHTMLParser(HTMLParser):
             self._handle_starttag = self._find_question_b
 
     def _print_answer (self, data):
+        answer = data.strip ()
+        if answer [-1] == ',' or answer [-1] == '.':
+            answer = answer [:-1]
         self._questions [-1] ["answers"].append (
             {"correct" : self._correct_answer,
-             "answer" : data.replace ('\n', '')})
+             "answer" : answer})
         self._handle_data = self._noop
         self._handle_starttag = self._find_correct_answer
 
