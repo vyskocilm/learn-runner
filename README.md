@@ -12,7 +12,7 @@ That's it. You need to answer and your history will be stored.
 
 ## Learn mode
 
-    ./learn-runner --learn
+    ./learn-runner learn
 
 It will read questions from otazky.json, mark the correct one with asterisk and
 do not store stats.

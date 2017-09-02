@@ -2,6 +2,9 @@
 
 import json
 import random
+import os
+import textwrap
+import subprocess
 
 from fractions import Fraction
 from collections import namedtuple
@@ -337,7 +340,12 @@ class LearnModel:
         return self
 
 def render_question (idx, question, learn_mode):
-    print ("Otázka %d: %s" % (idx + 1, question.question))
+    width = 70
+    try:
+        width = int (subprocess.check_output (["tput", "cols"]))
+    except Exception:
+        pass
+    print ("Otázka %d: %s" % (idx + 1, textwrap.fill (question.question, width)))
     print ("")
 
     sequence = [i for i in range (len (question.answers))]
@@ -388,7 +396,7 @@ def main (args):
     QUESTIONS = "otazky.json"
     STATS = "stats.json"
 
-    learn_mode = "--learn" in args
+    learn_mode = "learn" in args
 
     model = None
     with open (QUESTIONS, "rt") as questions_fp:
