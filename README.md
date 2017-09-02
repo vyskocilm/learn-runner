@@ -17,3 +17,8 @@ That's it. You need to answer and your history will be stored.
 It will read questions from otazky.json, mark the correct one with asterisk and
 do not store stats.
 
+## Stats mode
+
+    ./learn-runner stats
+
+Print the statistics.

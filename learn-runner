@@ -269,7 +269,9 @@ class QuestionFilter:
         self._repeats = kwargs ["repeats"]
 
     def __call__ (self, stats):
-        return len (stats) > self._repeats and stats.result () >= self._threshold
+        ret = len (stats) > self._repeats and stats.result () >= self._threshold
+        #print ("D: len(stats)=%d, stats.result=%s, ret=%s" % (len (stats), str (stats.result ()), "true" if ret else "false"))
+        return ret
 
 class LearnModel:
 
@@ -389,6 +391,20 @@ def ask_question (idx, question, learn_mode):
         print ("Špatně")
     return HistoryItem (date, stop-start, result)
 
+def print_stats (stats_file):
+
+    with open (stats_file, "rt") as fp:
+        stats = Stats.load (fp)
+
+    print ("idx:\tattempts\trate")
+    for idx, history in stats._stats.items ():
+        if len (history) == 0:
+            continue
+        print ("%(idx)d:\t%(attempts)s\t\t%(rate)f" % dict (
+            idx=idx,
+            attempts=len(history),
+            rate=float(history.result())))
+
 def main (args):
 
     import os
@@ -397,6 +413,10 @@ def main (args):
     STATS = "stats.json"
 
     learn_mode = "learn" in args
+
+    if "stats" in args:
+        print_stats (STATS)
+        return
 
     model = None
     with open (QUESTIONS, "rt") as questions_fp:
