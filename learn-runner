@@ -405,9 +405,12 @@ def print_stats (stats_file):
     with open (stats_file, "rt") as fp:
         stats = Stats.load (fp)
 
+    qf = QuestionFilter ()
     print ("idx:\tattempts\trate")
     for idx, history in stats._stats.items ():
         if len (history) == 0:
+            continue
+        if qf (history):
             continue
         print ("%(idx)d:\t%(attempts)s\t\t%(rate)f" % dict (
             idx=idx,
