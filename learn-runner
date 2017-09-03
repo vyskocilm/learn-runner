@@ -265,8 +265,21 @@ class QuestionFilter:
         at least 5 times and have 90% succesfull rate"""
 
     def __init__ (self, **kwargs):
-        self._threshold = kwargs ["threshold"]
-        self._repeats = kwargs ["repeats"]
+        self._threshold = kwargs.get ("threshold", Fraction (9, 10))
+        self._repeats = kwargs.get ("repeats", 5)
+
+    def __call__ (self, stats):
+        ret = len (stats) >= self._repeats and stats.result () >= self._threshold
+        #print ("D: len(stats)=%d, stats.result=%s, ret=%s" % (len (stats), str (stats.result ()), "true" if ret else "false"))
+        return ret
+
+class LearnFilter:
+    """Check if we can skip the question from run or not. For learning mode
+        we skip questions answered at least twice with 50% of succesfull rate"""
+        
+    def __init__ (self, **kwargs):
+        self._threshold = Fraction (1, 2)
+        self._repeats = 2
 
     def __call__ (self, stats):
         ret = len (stats) > self._repeats and stats.result () >= self._threshold
@@ -276,16 +289,12 @@ class QuestionFilter:
 class LearnModel:
 
     __BUCKET_SIZE__ = 20
-    __THRESHOLD__ = Fraction (9, 10)
-    __REPEATS__ = 5
 
     def __init__ (self, questions, stats, filter_class=QuestionFilter, verbose=False):
         
         # some configuration
         self._bucket_size = self.__class__.__BUCKET_SIZE__
-        self._threshold = self.__class__.__THRESHOLD__
-        self._repeats = self.__class__.__REPEATS__
-        self._filter = filter_class (threshold=self._threshold, repeats=self._repeats)
+        self._filter = filter_class ()
         self._bucket = list ()
 
         self._verbose = verbose
@@ -314,7 +323,7 @@ class LearnModel:
         random.shuffle (self._bucket)
 
     @classmethod
-    def load (self, questions_fp, stats_fp):
+    def load (self, questions_fp, stats_fp, filter_class=QuestionFilter):
 
         q = QuestionList.load (questions_fp)
 
@@ -323,7 +332,7 @@ class LearnModel:
             s = Stats (_stats)
         else:
             s = Stats.load (stats_fp)
-        return LearnModel (q, s)
+        return LearnModel (q, s, filter_class)
 
     def save (self, stats_fp):
         self._stats.save (stats_fp)
@@ -419,12 +428,13 @@ def main (args):
         return
 
     model = None
+    filter_class = QuestionFilter if not learn_mode else LearnFilter
     with open (QUESTIONS, "rt") as questions_fp:
         if not os.path.exists (STATS):
-            model = LearnModel.load (questions_fp, None)
+            model = LearnModel.load (questions_fp, None, filter_class)
         else:
             with open (STATS, "rt") as stats_fp:
-                model = LearnModel.load (questions_fp, stats_fp)
+                model = LearnModel.load (questions_fp, stats_fp, filter_class)
 
     assert model is not None
 
