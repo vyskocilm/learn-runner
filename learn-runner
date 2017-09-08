@@ -9,6 +9,26 @@ import subprocess
 from fractions import Fraction
 from collections import namedtuple
 
+## terminal colors hack
+
+has_colors = False
+try:
+    import colorama
+    colorama.init ()
+    has_colors = True
+except ImportError:
+    print ("W: can't import colorama package, you won't see the colors")
+
+def red (msg):
+    if not has_colors:
+        return msg
+    return colorama.Fore.RED + msg + colorama.Fore.RESET
+
+def green (msg):
+    if not has_colors:
+        return msg
+    return colorama.Fore.GREEN + msg + colorama.Fore.RESET
+
 class Question:
 
     def __init__ (self, question, answers):
@@ -395,9 +415,11 @@ def ask_question (idx, question, learn_mode):
     result = read_answer (question, sequence_map)
     stop = time.monotonic ()
     if result == Fraction (1, 1):
-        print ("Správně")
+        print ("%s\n" % (green ("Správně")))
     else:
-        print ("Špatně")
+        print ("%s, správně je %s\n" % (
+                    red ("Špatně"),
+                    (", ".join (a["answer"] for a in question.answers if a["correct"]))))
     return HistoryItem (date, stop-start, result)
 
 def print_stats (stats_file):
